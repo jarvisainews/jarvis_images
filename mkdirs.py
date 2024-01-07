@@ -1,6 +1,6 @@
 import os
 
-with open("services.txt", "r") as f:
+with open("./.support/services.txt", "r") as f:
   services = f.read().splitlines()
 f.close()
 
