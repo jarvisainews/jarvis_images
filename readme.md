@@ -3,56 +3,56 @@
 ## Add Links to .current.toml
 ## Add images to folder
 
-#/ = Not Finised
+#/ (43) - not completed
 
-A/ = Not Finised
+A/ (1065) - not completed
 
-B/ = Not Finised
+B/ (460) - not completed
 
-C/ = Not Finised
+C/ (977) - not completed
 
-D/ = Not Finised
+D/ (499) - not completed
 
-E/ = Not Finised
+E/ (296) - not completed
 
-F/ = Not Finised
+F/ (373) - not completed
 
-G/ = Not Finised
+G/ (405) - not completed
 
-H/ = Not Finised
+H/ (272) - not completed
 
-I/ = Not Finised
+I/ (335) - not completed
 
-J/ = Not Finised
+J/ (116) - not completed
 
-K/ = Not Finised
+K/ (188) - not completed
 
-L/ = Not Finised
+L/ (383) - not completed
 
-M/ = Not Finised
+M/ (572) - not completed
 
-N/ = Not Finised
+N/ (207) - not completed
 
-O/ = Not Finised
+O/ (189) - not completed
 
-P/ = Not Finised
+P/ (714) - not completed
 
-Q/ = Not Finised
+Q/ (109) - not completed
 
-R/ = Not Finised
+R/ (432) - not completed
 
-S/ = Not Finised
+S/ (1093) - not completed
 
-T/ = Not Finised
+T/ (576) - not completed
 
-U/ = Not Finised
+U/ (136) - not completed
 
-V/ = Not Finised
+V/ (241) - not completed
 
-W/ = Not Finised
+W/ (313) - not completed
 
-X/ = Not Finised
+X/ (28) - not completed
 
-Y/ = Not Finised
+Y/ (78) - not completed
 
-Z/ = Not Finised
+Z/ (85) - not completed
