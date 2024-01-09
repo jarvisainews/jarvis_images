@@ -10,6 +10,6 @@ with open("./current.txt", "w") as f:
         image_search = current_toml[key]["image_search"]
         square = current_toml[key]["square"]
         long = current_toml[key]["long"]
-        f.write(f"[{key}]\nService Link: {service_link}\nImage Search: {image_search}\nSquare: {square}\nLong: {long}\n\n")
+        f.write(f"[{key}]\n{service_link}\n{image_search}\nSquare: {square}\nLong: {long}\n\n")
 
 
