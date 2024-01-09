@@ -1,0 +1,10198 @@
+{
+    "10xllm": {
+        "square": "  ",
+        "long": "  "
+    },
+    "123colorize": {
+        "square": "  ",
+        "long": "  "
+    },
+    "3d-prompt": {
+        "square": "  ",
+        "long": "  "
+    },
+    "3daily": {
+        "square": "  ",
+        "long": "  "
+    },
+    "3dfy": {
+        "square": "  ",
+        "long": "  "
+    },
+    "3dpresso": {
+        "square": "  ",
+        "long": "  "
+    },
+    "6000-thoughts": {
+        "square": "  ",
+        "long": "  "
+    },
+    "60sec-site": {
+        "square": "  ",
+        "long": "  "
+    },
+    "6figr": {
+        "square": "  ",
+        "long": "  "
+    },
+    "a2e-photo": {
+        "square": " https://photo.a2e.ai/wp-content/uploads/2023/12/icon-150x150.webp ",
+        "long": "  "
+    },
+    "abanteai": {
+        "square": " https://media.licdn.com/dms/image/D560BAQH7hpD1OO2wuw/company-logo_200_200/0/1688311230724/abante_ai_logo?e=2147483647&v=beta&t=RtQsgTOglxAYEVrgyv8k_RzaFXKAQYKUyGlh346cg4E ",
+        "long": " https://assets-global.website-files.com/64bad175c3f1fe8957a06faf/64bebe882fb9cab8b5828d44_web%20file.svg "
+    },
+    "accountabilabuddy": {
+        "square": "  https://www.google.com/search?q=accountabilabuddy&tbm=isch",
+        "long": "  "
+    },
+    "acoust": {
+        "square": "  https://assets-global.website-files.com/636207e70fe65d361505494e/6362e8bfde9eba9c43690a5f_acoust%20logo.png",
+        "long": "  "
+    },
+    "addy-ai": {
+        "square": "  ",
+        "long": "  "
+    },
+    "adobe-podcast": {
+        "square": "  ",
+        "long": "  "
+    },
+    "adobe-speech-enhancer": {
+        "square": "  ",
+        "long": "  "
+    },
+    "adpilot": {
+        "square": "  ",
+        "long": "  "
+    },
+    "adxl": {
+        "square": "  ",
+        "long": "  "
+    },
+    "agentrunner": {
+        "square": "  ",
+        "long": "  "
+    },
+    "ai-anime-art-generator": {
+        "square": "  ",
+        "long": "  "
+    },
+    "ai-avatar-generator": {
+        "square": "  ",
+        "long": "  "
+    },
+    "ai-background-generator-by-photoroom": {
+        "square": "  ",
+        "long": "  "
+    },
+    "ai-brain-bank": {
+        "square": "  ",
+        "long": "  "
+    },
+    "ai-car-diagnosis": {
+        "square": "  ",
+        "long": "  "
+    },
+    "ai-chat-duo": {
+        "square": "  ",
+        "long": "  "
+    },
+    "ai-code-reviewer": {
+        "square": "  ",
+        "long": "  "
+    },
+    "ai-code-translator": {
+        "square": "  ",
+        "long": "  "
+    },
+    "ai-consulting-tools": {
+        "square": "  ",
+        "long": "  "
+    },
+    "ai-content-generator": {
+        "square": "  ",
+        "long": "  "
+    },
+    "ai-course-creator": {
+        "square": "  ",
+        "long": "  "
+    },
+    "ai-coustics": {
+        "square": "  ",
+        "long": "  "
+    },
+    "ai-domain-name-generator": {
+        "square": "  ",
+        "long": "  "
+    },
+    "ai-emojis": {
+        "square": "  ",
+        "long": "  "
+    },
+    "ai-flash": {
+        "square": "  ",
+        "long": "  "
+    },
+    "ai-girlfriend": {
+        "square": "  ",
+        "long": "  "
+    },
+    "ai-girlfriend-wtf": {
+        "square": "  ",
+        "long": "  "
+    },
+    "ai-greeting-card-generator": {
+        "square": "  ",
+        "long": "  "
+    },
+    "ai-headshot-generator": {
+        "square": "  ",
+        "long": "  "
+    },
+    "ai-home-design": {
+        "square": "  ",
+        "long": "  "
+    },
+    "ai-keywording": {
+        "square": "  ",
+        "long": "  "
+    },
+    "ai-landing-page-generator": {
+        "square": "  ",
+        "long": "  "
+    },
+    "ai-lyrics-generator": {
+        "square": "  ",
+        "long": "  "
+    },
+    "ai-magicx": {
+        "square": "  ",
+        "long": "  "
+    },
+    "ai-meme": {
+        "square": "  ",
+        "long": "  "
+    },
+    "ai-model-agency": {
+        "square": "  ",
+        "long": "  "
+    },
+    "ai-movie-club": {
+        "square": "  ",
+        "long": "  "
+    },
+    "ai-music-melody-generator": {
+        "square": "  ",
+        "long": "  "
+    },
+    "ai-pencil": {
+        "square": "  ",
+        "long": "  "
+    },
+    "ai-photo": {
+        "square": "  ",
+        "long": "  "
+    },
+    "ai-photo-sorter": {
+        "square": "  ",
+        "long": "  "
+    },
+    "ai-photos": {
+        "square": "  ",
+        "long": "  "
+    },
+    "ai-plagiarism-checker": {
+        "square": "  ",
+        "long": "  "
+    },
+    "ai-poem-generator": {
+        "square": "  ",
+        "long": "  "
+    },
+    "ai-powered-product-photos": {
+        "square": "  ",
+        "long": "  "
+    },
+    "ai-powered-qr-code": {
+        "square": "  ",
+        "long": "  "
+    },
+    "ai-predict": {
+        "square": "  ",
+        "long": "  "
+    },
+    "ai-pricing": {
+        "square": "  ",
+        "long": "  "
+    },
+    "ai-project-description-generator": {
+        "square": "  ",
+        "long": "  "
+    },
+    "ai-prompt-generator": {
+        "square": "  ",
+        "long": "  "
+    },
+    "ai-query": {
+        "square": "  ",
+        "long": "  "
+    },
+    "ai-rental-cover-letter": {
+        "square": "  ",
+        "long": "  "
+    },
+    "ai-room-planner": {
+        "square": "  ",
+        "long": "  "
+    },
+    "ai-signals": {
+        "square": "  ",
+        "long": "  "
+    },
+    "ai-social-post-generator": {
+        "square": "  ",
+        "long": "  "
+    },
+    "ai-sports-prediction": {
+        "square": "  ",
+        "long": "  "
+    },
+    "ai-studio": {
+        "square": "  ",
+        "long": "  "
+    },
+    "ai-text-detector": {
+        "square": "  ",
+        "long": "  "
+    },
+    "ai-toolbox-for-innovators": {
+        "square": "  ",
+        "long": "  "
+    },
+    "ai-transcriptions-by-riverside": {
+        "square": "  ",
+        "long": "  "
+    },
+    "ai-translator": {
+        "square": "  ",
+        "long": "  "
+    },
+    "ai-trip-planner": {
+        "square": "  ",
+        "long": "  "
+    },
+    "ai-tweet-generator": {
+        "square": "  ",
+        "long": "  "
+    },
+    "ai-vc-negotiation": {
+        "square": "  ",
+        "long": "  "
+    },
+    "ai-voice-assistant": {
+        "square": "  ",
+        "long": "  "
+    },
+    "ai-voice-detector": {
+        "square": "  ",
+        "long": "  "
+    },
+    "ai-wall-decor": {
+        "square": "  ",
+        "long": "  "
+    },
+    "ai4free": {
+        "square": "  ",
+        "long": "  "
+    },
+    "aiam-by-geeklab": {
+        "square": "  ",
+        "long": "  "
+    },
+    "aiappideas": {
+        "square": "  ",
+        "long": "  "
+    },
+    "aiapply": {
+        "square": "  ",
+        "long": "  "
+    },
+    "aiart": {
+        "square": "  ",
+        "long": "  "
+    },
+    "aiavatargpt": {
+        "square": "  ",
+        "long": "  "
+    },
+    "aiblocks": {
+        "square": "  ",
+        "long": "  "
+    },
+    "aiby": {
+        "square": "  ",
+        "long": "  "
+    },
+    "aicalls": {
+        "square": "  ",
+        "long": "  "
+    },
+    "aicartoongenerator": {
+        "square": "  ",
+        "long": "  "
+    },
+    "aichatbot": {
+        "square": "  ",
+        "long": "  "
+    },
+    "aichatting": {
+        "square": "  ",
+        "long": "  "
+    },
+    "aicode": {
+        "square": "  ",
+        "long": "  "
+    },
+    "aicodeconvert": {
+        "square": "  ",
+        "long": "  "
+    },
+    "aicoverlettercreator": {
+        "square": "  ",
+        "long": "  "
+    },
+    "aide": {
+        "square": "  ",
+        "long": "  "
+    },
+    "aidraw": {
+        "square": "  ",
+        "long": "  "
+    },
+    "aigraphics": {
+        "square": "  ",
+        "long": "  "
+    },
+    "aii": {
+        "square": "  ",
+        "long": "  "
+    },
+    "aiimagegenerator": {
+        "square": "  ",
+        "long": "  "
+    },
+    "aiko": {
+        "square": "  ",
+        "long": "  "
+    },
+    "aiktp": {
+        "square": "  ",
+        "long": "  "
+    },
+    "ailab-tools": {
+        "square": "  ",
+        "long": "  "
+    },
+    "ainvest": {
+        "square": "  ",
+        "long": "  "
+    },
+    "aio": {
+        "square": "  ",
+        "long": "  "
+    },
+    "aippt": {
+        "square": "  ",
+        "long": "  "
+    },
+    "aiquizme": {
+        "square": "  ",
+        "long": "  "
+    },
+    "airai": {
+        "square": "  ",
+        "long": "  "
+    },
+    "airial-flights": {
+        "square": "  ",
+        "long": "  "
+    },
+    "aisays": {
+        "square": "  ",
+        "long": "  "
+    },
+    "aisekai": {
+        "square": "  ",
+        "long": "  "
+    },
+    "aisuitup": {
+        "square": "  ",
+        "long": "  "
+    },
+    "aiteacha": {
+        "square": "  ",
+        "long": "  "
+    },
+    "aitorke": {
+        "square": "  ",
+        "long": "  "
+    },
+    "aitubo": {
+        "square": "  ",
+        "long": "  "
+    },
+    "aiwright": {
+        "square": "  ",
+        "long": "  "
+    },
+    "albert": {
+        "square": "  ",
+        "long": "  "
+    },
+    "albus-org": {
+        "square": "  ",
+        "long": "  "
+    },
+    "alcotravel": {
+        "square": "  ",
+        "long": "  "
+    },
+    "aldea": {
+        "square": "  ",
+        "long": "  "
+    },
+    "algomo": {
+        "square": "  ",
+        "long": "  "
+    },
+    "alice-and-bob": {
+        "square": "  ",
+        "long": "  "
+    },
+    "all-search-ai": {
+        "square": "  ",
+        "long": "  "
+    },
+    "allcancode": {
+        "square": "  ",
+        "long": "  "
+    },
+    "allclues": {
+        "square": "  ",
+        "long": "  "
+    },
+    "alle-ai": {
+        "square": "  ",
+        "long": "  "
+    },
+    "alltray": {
+        "square": "  ",
+        "long": "  "
+    },
+    "alphainquire": {
+        "square": "  ",
+        "long": "  "
+    },
+    "alta": {
+        "square": "  ",
+        "long": "  "
+    },
+    "alter-ai-secgpt": {
+        "square": "  ",
+        "long": "  "
+    },
+    "alterai": {
+        "square": "  ",
+        "long": "  "
+    },
+    "altered": {
+        "square": "  ",
+        "long": "  "
+    },
+    "amazon-q": {
+        "square": "  ",
+        "long": "  "
+    },
+    "amblr-ai-travel-planner": {
+        "square": "  ",
+        "long": "  "
+    },
+    "ameela": {
+        "square": "  ",
+        "long": "  "
+    },
+    "analyzgpt": {
+        "square": "  ",
+        "long": "  "
+    },
+    "and-gpt": {
+        "square": "  ",
+        "long": "  "
+    },
+    "andisearch": {
+        "square": "  ",
+        "long": "  "
+    },
+    "animalai": {
+        "square": "  ",
+        "long": "  "
+    },
+    "animatable": {
+        "square": "  ",
+        "long": "  "
+    },
+    "anime-ai": {
+        "square": "  ",
+        "long": "  "
+    },
+    "anime-ai-lol": {
+        "square": "  ",
+        "long": "  "
+    },
+    "ankara": {
+        "square": "  ",
+        "long": "  "
+    },
+    "anonymizer": {
+        "square": "  ",
+        "long": "  "
+    },
+    "answerai": {
+        "square": "  ",
+        "long": "  "
+    },
+    "any-summary": {
+        "square": "  ",
+        "long": "  "
+    },
+    "aomni": {
+        "square": "  ",
+        "long": "  "
+    },
+    "aperture-by-lexica": {
+        "square": "  ",
+        "long": "  "
+    },
+    "aphid": {
+        "square": "  ",
+        "long": "  "
+    },
+    "appypie": {
+        "square": "  ",
+        "long": "  "
+    },
+    "araby": {
+        "square": "  ",
+        "long": "  "
+    },
+    "aragon": {
+        "square": "  ",
+        "long": "  "
+    },
+    "arches-ai": {
+        "square": "  ",
+        "long": "  "
+    },
+    "architectai": {
+        "square": "  ",
+        "long": "  "
+    },
+    "architectgpt": {
+        "square": "  ",
+        "long": "  "
+    },
+    "ardor-fitness": {
+        "square": "  ",
+        "long": "  "
+    },
+    "arible-ai-avatars": {
+        "square": "  ",
+        "long": "  "
+    },
+    "artbot-ai": {
+        "square": "  ",
+        "long": "  "
+    },
+    "artbreeder": {
+        "square": "  ",
+        "long": "  "
+    },
+    "artguru": {
+        "square": "  ",
+        "long": "  "
+    },
+    "article-audio": {
+        "square": "  ",
+        "long": "  "
+    },
+    "article-rewriter": {
+        "square": "  ",
+        "long": "  "
+    },
+    "article-summary": {
+        "square": "  ",
+        "long": "  "
+    },
+    "articly": {
+        "square": "  ",
+        "long": "  "
+    },
+    "artificial-studio": {
+        "square": "  ",
+        "long": "  "
+    },
+    "artimator": {
+        "square": "  ",
+        "long": "  "
+    },
+    "artiphoria": {
+        "square": "  ",
+        "long": "  "
+    },
+    "ascendant-art": {
+        "square": "  ",
+        "long": "  "
+    },
+    "ask-an-ai": {
+        "square": "  ",
+        "long": "  "
+    },
+    "ask-command": {
+        "square": "  ",
+        "long": "  "
+    },
+    "ask-jesus": {
+        "square": "  ",
+        "long": "  "
+    },
+    "ask-your-pdf": {
+        "square": "  ",
+        "long": "  "
+    },
+    "askailawyer": {
+        "square": "  ",
+        "long": "  "
+    },
+    "askbff": {
+        "square": "  ",
+        "long": "  "
+    },
+    "askcsv": {
+        "square": "  ",
+        "long": "  "
+    },
+    "askthee": {
+        "square": "  ",
+        "long": "  "
+    },
+    "askvideo": {
+        "square": "  ",
+        "long": "  "
+    },
+    "askyourdatabase": {
+        "square": "  ",
+        "long": "  "
+    },
+    "askyoutube": {
+        "square": "  ",
+        "long": "  "
+    },
+    "assemblyai": {
+        "square": "  ",
+        "long": "  "
+    },
+    "astral": {
+        "square": "  ",
+        "long": "  "
+    },
+    "astria": {
+        "square": "  ",
+        "long": "  "
+    },
+    "astrobot": {
+        "square": "  ",
+        "long": "  "
+    },
+    "astrogpt": {
+        "square": "  ",
+        "long": "  "
+    },
+    "astroguide": {
+        "square": "  ",
+        "long": "  "
+    },
+    "atmo-ai": {
+        "square": "  ",
+        "long": "  "
+    },
+    "atticus": {
+        "square": "  ",
+        "long": "  "
+    },
+    "audio-diary": {
+        "square": "  ",
+        "long": "  "
+    },
+    "audiobot": {
+        "square": "  ",
+        "long": "  "
+    },
+    "audionotes": {
+        "square": "  ",
+        "long": "  "
+    },
+    "audiopen": {
+        "square": "  ",
+        "long": "  "
+    },
+    "audioread-com": {
+        "square": "  ",
+        "long": "  "
+    },
+    "audiotranscription": {
+        "square": "  ",
+        "long": "  "
+    },
+    "auto-apply": {
+        "square": "  ",
+        "long": "  "
+    },
+    "auto-ye-ai": {
+        "square": "  ",
+        "long": "  "
+    },
+    "autoblogging-pro": {
+        "square": "  ",
+        "long": "  "
+    },
+    "autocaption": {
+        "square": "  ",
+        "long": "  "
+    },
+    "autodraft": {
+        "square": "  ",
+        "long": "  "
+    },
+    "autoeasy": {
+        "square": "  ",
+        "long": "  "
+    },
+    "autogmail": {
+        "square": "  ",
+        "long": "  "
+    },
+    "autogpt-js": {
+        "square": "  ",
+        "long": "  "
+    },
+    "autokt": {
+        "square": "  ",
+        "long": "  "
+    },
+    "autolicious": {
+        "square": "  ",
+        "long": "  "
+    },
+    "automatic1111": {
+        "square": "  ",
+        "long": "  "
+    },
+    "autoregex": {
+        "square": "  ",
+        "long": "  "
+    },
+    "autoreviews": {
+        "square": "  ",
+        "long": "  "
+    },
+    "auxilr": {
+        "square": "  ",
+        "long": "  "
+    },
+    "ava-ai": {
+        "square": "  ",
+        "long": "  "
+    },
+    "avanty": {
+        "square": "  ",
+        "long": "  "
+    },
+    "avatarai": {
+        "square": "  ",
+        "long": "  "
+    },
+    "avaturn": {
+        "square": "  ",
+        "long": "  "
+    },
+    "avc-ai": {
+        "square": "  ",
+        "long": "  "
+    },
+    "avian-plugin": {
+        "square": "  ",
+        "long": "  "
+    },
+    "aya": {
+        "square": "  ",
+        "long": "  "
+    },
+    "ayanza": {
+        "square": "  ",
+        "long": "  "
+    },
+    "ayfie": {
+        "square": "  ",
+        "long": "  "
+    },
+    "b7labs": {
+        "square": "  ",
+        "long": "  "
+    },
+    "babystep": {
+        "square": "  ",
+        "long": "  "
+    },
+    "backlinkgpt": {
+        "square": "  ",
+        "long": "  "
+    },
+    "backlinksai": {
+        "square": "  ",
+        "long": "  "
+    },
+    "bai-chat": {
+        "square": "  ",
+        "long": "  "
+    },
+    "bardeen": {
+        "square": "  ",
+        "long": "  "
+    },
+    "bargpt": {
+        "square": "  ",
+        "long": "  "
+    },
+    "baruaai": {
+        "square": "  ",
+        "long": "  "
+    },
+    "bashsenpai": {
+        "square": "  ",
+        "long": "  "
+    },
+    "bassagpt": {
+        "square": "  ",
+        "long": "  "
+    },
+    "beaseness": {
+        "square": "  ",
+        "long": "  "
+    },
+    "beatopia": {
+        "square": "  ",
+        "long": "  "
+    },
+    "beatoven": {
+        "square": "  ",
+        "long": "  "
+    },
+    "bedtimestory": {
+        "square": "  ",
+        "long": "  "
+    },
+    "beebee-com": {
+        "square": "  ",
+        "long": "  "
+    },
+    "beemer": {
+        "square": "  ",
+        "long": "  "
+    },
+    "beeyond-ai": {
+        "square": "  ",
+        "long": "  "
+    },
+    "bestbanner": {
+        "square": "  ",
+        "long": "  "
+    },
+    "bestflights": {
+        "square": "  ",
+        "long": "  "
+    },
+    "bevinzey": {
+        "square": "  ",
+        "long": "  "
+    },
+    "bgrem": {
+        "square": "  ",
+        "long": "  "
+    },
+    "bhuman": {
+        "square": "  ",
+        "long": "  "
+    },
+    "biblepics": {
+        "square": "  ",
+        "long": "  "
+    },
+    "bibliobot": {
+        "square": "  ",
+        "long": "  "
+    },
+    "biblos": {
+        "square": "  ",
+        "long": "  "
+    },
+    "bigdevsoon": {
+        "square": "  ",
+        "long": "  "
+    },
+    "bigjpg": {
+        "square": "  ",
+        "long": "  "
+    },
+    "birthdaicards": {
+        "square": "  ",
+        "long": "  "
+    },
+    "bizplanner": {
+        "square": "  ",
+        "long": "  "
+    },
+    "bizway": {
+        "square": "  ",
+        "long": "  "
+    },
+    "blackbox": {
+        "square": "  ",
+        "long": "  "
+    },
+    "blazesql": {
+        "square": "  ",
+        "long": "  "
+    },
+    "blender-copilot": {
+        "square": "  ",
+        "long": "  "
+    },
+    "blinkn-shop": {
+        "square": "  ",
+        "long": "  "
+    },
+    "blizzy": {
+        "square": "  ",
+        "long": "  "
+    },
+    "blockadelabs": {
+        "square": "  ",
+        "long": "  "
+    },
+    "blognlp": {
+        "square": "  ",
+        "long": "  "
+    },
+    "blogseo": {
+        "square": "  ",
+        "long": "  "
+    },
+    "blogtweet": {
+        "square": "  ",
+        "long": "  "
+    },
+    "bloomoon": {
+        "square": "  ",
+        "long": "  "
+    },
+    "bluedot": {
+        "square": "  ",
+        "long": "  "
+    },
+    "boldicius": {
+        "square": "  ",
+        "long": "  "
+    },
+    "bollywoodai": {
+        "square": "  ",
+        "long": "  "
+    },
+    "bookedit": {
+        "square": "  ",
+        "long": "  "
+    },
+    "booknotes": {
+        "square": "  ",
+        "long": "  "
+    },
+    "booksbyai": {
+        "square": "  ",
+        "long": "  "
+    },
+    "boolpic": {
+        "square": "  ",
+        "long": "  "
+    },
+    "boolvideo": {
+        "square": "  ",
+        "long": "  "
+    },
+    "booth-ai": {
+        "square": "  ",
+        "long": "  "
+    },
+    "boredhumans": {
+        "square": "  ",
+        "long": "  "
+    },
+    "botecko": {
+        "square": "  ",
+        "long": "  "
+    },
+    "botrush": {
+        "square": "  ",
+        "long": "  "
+    },
+    "botsy-gifts": {
+        "square": "  ",
+        "long": "  "
+    },
+    "bottomright": {
+        "square": "  ",
+        "long": "  "
+    },
+    "botx": {
+        "square": "  ",
+        "long": "  "
+    },
+    "boundless-chat": {
+        "square": "  ",
+        "long": "  "
+    },
+    "boundlessai": {
+        "square": "  ",
+        "long": "  "
+    },
+    "brainstormgpt": {
+        "square": "  ",
+        "long": "  "
+    },
+    "brand-name-brainstormer": {
+        "square": "  ",
+        "long": "  "
+    },
+    "brandscript-generator": {
+        "square": "  ",
+        "long": "  "
+    },
+    "brevity": {
+        "square": "  ",
+        "long": "  "
+    },
+    "brewed": {
+        "square": "  ",
+        "long": "  "
+    },
+    "bricksee": {
+        "square": "  ",
+        "long": "  "
+    },
+    "briefly": {
+        "square": "  ",
+        "long": "  "
+    },
+    "browsegpt": {
+        "square": "  ",
+        "long": "  "
+    },
+    "bubble": {
+        "square": "  ",
+        "long": "  "
+    },
+    "budbuddy": {
+        "square": "  ",
+        "long": "  "
+    },
+    "buildalesson": {
+        "square": "  ",
+        "long": "  "
+    },
+    "buildkeeper": {
+        "square": "  ",
+        "long": "  "
+    },
+    "burnerpage": {
+        "square": "  ",
+        "long": "  "
+    },
+    "burstify": {
+        "square": "  ",
+        "long": "  "
+    },
+    "business-ai": {
+        "square": "  ",
+        "long": "  "
+    },
+    "buyer-persona-by-mnemonic": {
+        "square": "  ",
+        "long": "  "
+    },
+    "buzzli": {
+        "square": "  ",
+        "long": "  "
+    },
+    "cactus-interior": {
+        "square": "  ",
+        "long": "  "
+    },
+    "caffeinated-cx": {
+        "square": "  ",
+        "long": "  "
+    },
+    "call-annie": {
+        "square": "  ",
+        "long": "  "
+    },
+    "camelagi": {
+        "square": "  ",
+        "long": "  "
+    },
+    "campbell": {
+        "square": "  ",
+        "long": "  "
+    },
+    "canceledgpt": {
+        "square": "  ",
+        "long": "  "
+    },
+    "candideai": {
+        "square": "  ",
+        "long": "  "
+    },
+    "caption-spark": {
+        "square": "  ",
+        "long": "  "
+    },
+    "captioncreator": {
+        "square": "  ",
+        "long": "  "
+    },
+    "captionmaster": {
+        "square": "  ",
+        "long": "  "
+    },
+    "carbonate": {
+        "square": "  ",
+        "long": "  "
+    },
+    "careerheadshots": {
+        "square": "  ",
+        "long": "  "
+    },
+    "caricaturer": {
+        "square": "  ",
+        "long": "  "
+    },
+    "carlos-app": {
+        "square": "  ",
+        "long": "  "
+    },
+    "caryn-ai": {
+        "square": "  ",
+        "long": "  "
+    },
+    "case-study-writer": {
+        "square": "  ",
+        "long": "  "
+    },
+    "cebra": {
+        "square": "  ",
+        "long": "  "
+    },
+    "celebgpt": {
+        "square": "  ",
+        "long": "  "
+    },
+    "celebrity-voice-changer-ai": {
+        "square": "  ",
+        "long": "  "
+    },
+    "centenarian": {
+        "square": "  ",
+        "long": "  "
+    },
+    "cerelyze": {
+        "square": "  ",
+        "long": "  "
+    },
+    "certainly": {
+        "square": "  ",
+        "long": "  "
+    },
+    "cf-spark": {
+        "square": "  ",
+        "long": "  "
+    },
+    "chabotix": {
+        "square": "  ",
+        "long": "  "
+    },
+    "chai": {
+        "square": "  ",
+        "long": "  "
+    },
+    "chaingpt": {
+        "square": "  ",
+        "long": "  "
+    },
+    "chapple": {
+        "square": "  ",
+        "long": "  "
+    },
+    "chapterme": {
+        "square": "  ",
+        "long": "  "
+    },
+    "character-io": {
+        "square": "  ",
+        "long": "  "
+    },
+    "character-lingo": {
+        "square": "  ",
+        "long": "  "
+    },
+    "characterai": {
+        "square": "  ",
+        "long": "  "
+    },
+    "charisma": {
+        "square": "  ",
+        "long": "  "
+    },
+    "charley": {
+        "square": "  ",
+        "long": "  "
+    },
+    "charlie": {
+        "square": "  ",
+        "long": "  "
+    },
+    "charlie-news": {
+        "square": "  ",
+        "long": "  "
+    },
+    "chart-my-life": {
+        "square": "  ",
+        "long": "  "
+    },
+    "chartai": {
+        "square": "  ",
+        "long": "  "
+    },
+    "chartify": {
+        "square": "  ",
+        "long": "  "
+    },
+    "chartpixel": {
+        "square": "  ",
+        "long": "  "
+    },
+    "chat-bling": {
+        "square": "  ",
+        "long": "  "
+    },
+    "chat-documents": {
+        "square": "  ",
+        "long": "  "
+    },
+    "chat-ever-after": {
+        "square": "  ",
+        "long": "  "
+    },
+    "chat-example": {
+        "square": "  ",
+        "long": "  "
+    },
+    "chat-jams": {
+        "square": "  ",
+        "long": "  "
+    },
+    "chat-kjv": {
+        "square": "  ",
+        "long": "  "
+    },
+    "chat-thing": {
+        "square": "  ",
+        "long": "  "
+    },
+    "chat-youtube": {
+        "square": "  ",
+        "long": "  "
+    },
+    "chat2code-dev": {
+        "square": "  ",
+        "long": "  "
+    },
+    "chat2course": {
+        "square": "  ",
+        "long": "  "
+    },
+    "chat2design": {
+        "square": "  ",
+        "long": "  "
+    },
+    "chat8b": {
+        "square": "  ",
+        "long": "  "
+    },
+    "chatai": {
+        "square": "  ",
+        "long": "  "
+    },
+    "chatavatar": {
+        "square": "  ",
+        "long": "  "
+    },
+    "chatba": {
+        "square": "  ",
+        "long": "  "
+    },
+    "chatbcg": {
+        "square": "  ",
+        "long": "  "
+    },
+    "chatbot-ui": {
+        "square": "  ",
+        "long": "  "
+    },
+    "chatcad": {
+        "square": "  ",
+        "long": "  "
+    },
+    "chatcareer": {
+        "square": "  ",
+        "long": "  "
+    },
+    "chatdoc": {
+        "square": "  ",
+        "long": "  "
+    },
+    "chatfai": {
+        "square": "  ",
+        "long": "  "
+    },
+    "chatfast": {
+        "square": "  ",
+        "long": "  "
+    },
+    "chatflw": {
+        "square": "  ",
+        "long": "  "
+    },
+    "chatgenie": {
+        "square": "  ",
+        "long": "  "
+    },
+    "chatgodai": {
+        "square": "  ",
+        "long": "  "
+    },
+    "chatgpt-as-a-service": {
+        "square": "  ",
+        "long": "  "
+    },
+    "chatgpt-in-google-sheets": {
+        "square": "  ",
+        "long": "  "
+    },
+    "chatgpt-microphone": {
+        "square": "  ",
+        "long": "  "
+    },
+    "chatgpt-voice-assistant": {
+        "square": "  ",
+        "long": "  "
+    },
+    "chatgpt-writer": {
+        "square": "  ",
+        "long": "  "
+    },
+    "chatgptbuilder": {
+        "square": "  ",
+        "long": "  "
+    },
+    "chatgptpromptgenerator": {
+        "square": "  ",
+        "long": "  "
+    },
+    "chatlaw": {
+        "square": "  ",
+        "long": "  "
+    },
+    "chatling": {
+        "square": "  ",
+        "long": "  "
+    },
+    "chatlingo": {
+        "square": "  ",
+        "long": "  "
+    },
+    "chatlit-codes": {
+        "square": "  ",
+        "long": "  "
+    },
+    "chatmap-ai": {
+        "square": "  ",
+        "long": "  "
+    },
+    "chatmate-bb29": {
+        "square": "  ",
+        "long": "  "
+    },
+    "chatnbx": {
+        "square": "  ",
+        "long": "  "
+    },
+    "chatofai": {
+        "square": "  ",
+        "long": "  "
+    },
+    "chatpdf-extension": {
+        "square": "  ",
+        "long": "  "
+    },
+    "chatpilot": {
+        "square": "  ",
+        "long": "  "
+    },
+    "chatronai": {
+        "square": "  ",
+        "long": "  "
+    },
+    "chatshape": {
+        "square": "  ",
+        "long": "  "
+    },
+    "chatshitgpt": {
+        "square": "  ",
+        "long": "  "
+    },
+    "chatsimple-ai-sales-chatbot": {
+        "square": "  ",
+        "long": "  "
+    },
+    "chatsonic": {
+        "square": "  ",
+        "long": "  "
+    },
+    "chatterbox-one": {
+        "square": "  ",
+        "long": "  "
+    },
+    "chattube": {
+        "square": "  ",
+        "long": "  "
+    },
+    "chatty-cat": {
+        "square": "  ",
+        "long": "  "
+    },
+    "chatverse": {
+        "square": "  ",
+        "long": "  "
+    },
+    "chatwebpage": {
+        "square": "  ",
+        "long": "  "
+    },
+    "chatwith": {
+        "square": "  ",
+        "long": "  "
+    },
+    "chatwithpdf": {
+        "square": "  ",
+        "long": "  "
+    },
+    "chatzap": {
+        "square": "  ",
+        "long": "  "
+    },
+    "cheapgpt": {
+        "square": "  ",
+        "long": "  "
+    },
+    "cheatgpt": {
+        "square": "  ",
+        "long": "  "
+    },
+    "cheatlayer": {
+        "square": "  ",
+        "long": "  "
+    },
+    "checkforai": {
+        "square": "  ",
+        "long": "  "
+    },
+    "checklist-generator": {
+        "square": "  ",
+        "long": "  "
+    },
+    "cheesecakewizard": {
+        "square": "  ",
+        "long": "  "
+    },
+    "chekable": {
+        "square": "  ",
+        "long": "  "
+    },
+    "chess-ai": {
+        "square": "  ",
+        "long": "  "
+    },
+    "chirper": {
+        "square": "  ",
+        "long": "  "
+    },
+    "chopcast": {
+        "square": "  ",
+        "long": "  "
+    },
+    "chora": {
+        "square": "  ",
+        "long": "  "
+    },
+    "chromox": {
+        "square": "  ",
+        "long": "  "
+    },
+    "chunker": {
+        "square": "  ",
+        "long": "  "
+    },
+    "clarifypdf": {
+        "square": "  ",
+        "long": "  "
+    },
+    "clariteia": {
+        "square": "  ",
+        "long": "  "
+    },
+    "clarityscribe": {
+        "square": "  ",
+        "long": "  "
+    },
+    "clearmind": {
+        "square": "  ",
+        "long": "  "
+    },
+    "clevopyai": {
+        "square": "  ",
+        "long": "  "
+    },
+    "click2-ai": {
+        "square": "  ",
+        "long": "  "
+    },
+    "clip-fm": {
+        "square": "  ",
+        "long": "  "
+    },
+    "clipbuddy": {
+        "square": "  ",
+        "long": "  "
+    },
+    "clipdrop-replace-background": {
+        "square": "  ",
+        "long": "  "
+    },
+    "clipgpt": {
+        "square": "  ",
+        "long": "  "
+    },
+    "clipmaker": {
+        "square": "  ",
+        "long": "  "
+    },
+    "clipnote": {
+        "square": "  ",
+        "long": "  "
+    },
+    "clonemyvoice": {
+        "square": "  ",
+        "long": "  "
+    },
+    "cloudinary": {
+        "square": "  ",
+        "long": "  "
+    },
+    "clozegpt": {
+        "square": "  ",
+        "long": "  "
+    },
+    "clusterly": {
+        "square": "  ",
+        "long": "  "
+    },
+    "co-founder-ai": {
+        "square": "  ",
+        "long": "  "
+    },
+    "code-genius": {
+        "square": "  ",
+        "long": "  "
+    },
+    "code-interpreter-by-openai": {
+        "square": "  ",
+        "long": "  "
+    },
+    "code99": {
+        "square": "  ",
+        "long": "  "
+    },
+    "codeamigo": {
+        "square": "  ",
+        "long": "  "
+    },
+    "codeconvert-ai": {
+        "square": "  ",
+        "long": "  "
+    },
+    "codegpt": {
+        "square": "  ",
+        "long": "  "
+    },
+    "codeium": {
+        "square": "  ",
+        "long": "  "
+    },
+    "codekidz": {
+        "square": "  ",
+        "long": "  "
+    },
+    "codelessai": {
+        "square": "  ",
+        "long": "  "
+    },
+    "codepal": {
+        "square": "  ",
+        "long": "  "
+    },
+    "codewp": {
+        "square": "  ",
+        "long": "  "
+    },
+    "codium": {
+        "square": "  ",
+        "long": "  "
+    },
+    "cody": {
+        "square": "  ",
+        "long": "  "
+    },
+    "coefficient": {
+        "square": "  ",
+        "long": "  "
+    },
+    "cofin": {
+        "square": "  ",
+        "long": "  "
+    },
+    "cognosys": {
+        "square": "  ",
+        "long": "  "
+    },
+    "collato": {
+        "square": "  ",
+        "long": "  "
+    },
+    "collectivai": {
+        "square": "  ",
+        "long": "  "
+    },
+    "collectivei": {
+        "square": "  ",
+        "long": "  "
+    },
+    "collie": {
+        "square": "  ",
+        "long": "  "
+    },
+    "color-anything": {
+        "square": "  ",
+        "long": "  "
+    },
+    "colorize": {
+        "square": "  ",
+        "long": "  "
+    },
+    "commenter-ai": {
+        "square": "  ",
+        "long": "  "
+    },
+    "companionos": {
+        "square": "  ",
+        "long": "  "
+    },
+    "consensus": {
+        "square": "  ",
+        "long": "  "
+    },
+    "constitute": {
+        "square": "  ",
+        "long": "  "
+    },
+    "content-assistant": {
+        "square": "  ",
+        "long": "  "
+    },
+    "content-company": {
+        "square": "  ",
+        "long": "  "
+    },
+    "contentcal": {
+        "square": "  ",
+        "long": "  "
+    },
+    "contgpt": {
+        "square": "  ",
+        "long": "  "
+    },
+    "contractable": {
+        "square": "  ",
+        "long": "  "
+    },
+    "convai": {
+        "square": "  ",
+        "long": "  "
+    },
+    "converse": {
+        "square": "  ",
+        "long": "  "
+    },
+    "conversly": {
+        "square": "  ",
+        "long": "  "
+    },
+    "converso": {
+        "square": "  ",
+        "long": "  "
+    },
+    "coolmindmaps": {
+        "square": "  ",
+        "long": "  "
+    },
+    "copilot2trip": {
+        "square": "  ",
+        "long": "  "
+    },
+    "copyfactory": {
+        "square": "  ",
+        "long": "  "
+    },
+    "copyleaks-ai-content-detector": {
+        "square": "  ",
+        "long": "  "
+    },
+    "copymate": {
+        "square": "  ",
+        "long": "  "
+    },
+    "copysai": {
+        "square": "  ",
+        "long": "  "
+    },
+    "coral": {
+        "square": "  ",
+        "long": "  "
+    },
+    "cortados": {
+        "square": "  ",
+        "long": "  "
+    },
+    "cosine": {
+        "square": "  ",
+        "long": "  "
+    },
+    "cosmic-whisper-ai": {
+        "square": "  ",
+        "long": "  "
+    },
+    "cosmos": {
+        "square": "  ",
+        "long": "  "
+    },
+    "costgpt": {
+        "square": "  ",
+        "long": "  "
+    },
+    "cotter": {
+        "square": "  ",
+        "long": "  "
+    },
+    "cover-letter-ai": {
+        "square": "  ",
+        "long": "  "
+    },
+    "cover-letter-copilot": {
+        "square": "  ",
+        "long": "  "
+    },
+    "coverbot": {
+        "square": "  ",
+        "long": "  "
+    },
+    "covers-ai": {
+        "square": "  ",
+        "long": "  "
+    },
+    "cpa-pilot": {
+        "square": "  ",
+        "long": "  "
+    },
+    "cradl": {
+        "square": "  ",
+        "long": "  "
+    },
+    "craftmyjd": {
+        "square": "  ",
+        "long": "  "
+    },
+    "creaitor-ai": {
+        "square": "  ",
+        "long": "  "
+    },
+    "crear-ai": {
+        "square": "  ",
+        "long": "  "
+    },
+    "create": {
+        "square": "  ",
+        "long": "  "
+    },
+    "createaivoiceovers": {
+        "square": "  ",
+        "long": "  "
+    },
+    "createbookai": {
+        "square": "  ",
+        "long": "  "
+    },
+    "creatosaurus": {
+        "square": "  ",
+        "long": "  "
+    },
+    "crossplag": {
+        "square": "  ",
+        "long": "  "
+    },
+    "crowdview": {
+        "square": "  ",
+        "long": "  "
+    },
+    "crucible": {
+        "square": "  ",
+        "long": "  "
+    },
+    "crushonai": {
+        "square": "  ",
+        "long": "  "
+    },
+    "cslevelup": {
+        "square": "  ",
+        "long": "  "
+    },
+    "csm-ai": {
+        "square": "  ",
+        "long": "  "
+    },
+    "current-report": {
+        "square": "  ",
+        "long": "  "
+    },
+    "custom-story-creator": {
+        "square": "  ",
+        "long": "  "
+    },
+    "customeriq": {
+        "square": "  ",
+        "long": "  "
+    },
+    "customwritings-essay": {
+        "square": "  ",
+        "long": "  "
+    },
+    "cutout-pro": {
+        "square": "  ",
+        "long": "  "
+    },
+    "cvgrader": {
+        "square": "  ",
+        "long": "  "
+    },
+    "cyborg-content": {
+        "square": "  ",
+        "long": "  "
+    },
+    "d-id-s-creative-reality-studio": {
+        "square": "  ",
+        "long": "  "
+    },
+    "dachi-chat": {
+        "square": "  ",
+        "long": "  "
+    },
+    "dankgpt": {
+        "square": "  ",
+        "long": "  "
+    },
+    "dante-ai": {
+        "square": "  ",
+        "long": "  "
+    },
+    "dart": {
+        "square": "  ",
+        "long": "  "
+    },
+    "databerry": {
+        "square": "  ",
+        "long": "  "
+    },
+    "databutton": {
+        "square": "  ",
+        "long": "  "
+    },
+    "datagptd": {
+        "square": "  ",
+        "long": "  "
+    },
+    "datamotto": {
+        "square": "  ",
+        "long": "  "
+    },
+    "datascale": {
+        "square": "  ",
+        "long": "  "
+    },
+    "datasquirrel": {
+        "square": "  ",
+        "long": "  "
+    },
+    "datazom": {
+        "square": "  ",
+        "long": "  "
+    },
+    "datesai": {
+        "square": "  ",
+        "long": "  "
+    },
+    "dating-ai-pro": {
+        "square": "  ",
+        "long": "  "
+    },
+    "dazzle": {
+        "square": "  ",
+        "long": "  "
+    },
+    "dearflow": {
+        "square": "  ",
+        "long": "  "
+    },
+    "debunkd": {
+        "square": "  ",
+        "long": "  "
+    },
+    "decorous-ai-home-makeovers": {
+        "square": "  ",
+        "long": "  "
+    },
+    "deep-anime": {
+        "square": "  ",
+        "long": "  "
+    },
+    "deepfiction-ai": {
+        "square": "  ",
+        "long": "  "
+    },
+    "deepreview": {
+        "square": "  ",
+        "long": "  "
+    },
+    "deepswap": {
+        "square": "  ",
+        "long": "  "
+    },
+    "deflekt": {
+        "square": "  ",
+        "long": "  "
+    },
+    "deforum-video-generator": {
+        "square": "  ",
+        "long": "  "
+    },
+    "descript": {
+        "square": "  ",
+        "long": "  "
+    },
+    "design-sparks": {
+        "square": "  ",
+        "long": "  "
+    },
+    "designify": {
+        "square": "  ",
+        "long": "  "
+    },
+    "deskday": {
+        "square": "  ",
+        "long": "  "
+    },
+    "detecting-ai-com": {
+        "square": "  ",
+        "long": "  "
+    },
+    "dev-radar": {
+        "square": "  ",
+        "long": "  "
+    },
+    "dezgo": {
+        "square": "  ",
+        "long": "  "
+    },
+    "diagramgpt": {
+        "square": "  ",
+        "long": "  "
+    },
+    "diagramgpt-by-eraser": {
+        "square": "  ",
+        "long": "  "
+    },
+    "diffuse-the-rest": {
+        "square": "  ",
+        "long": "  "
+    },
+    "diffusion-chat": {
+        "square": "  ",
+        "long": "  "
+    },
+    "diffusion-logo-studio": {
+        "square": "  ",
+        "long": "  "
+    },
+    "dify": {
+        "square": "  ",
+        "long": "  "
+    },
+    "digimarkai": {
+        "square": "  ",
+        "long": "  "
+    },
+    "digitalmuses": {
+        "square": "  ",
+        "long": "  "
+    },
+    "dime-a-dozen": {
+        "square": "  ",
+        "long": "  "
+    },
+    "dimensions": {
+        "square": "  ",
+        "long": "  "
+    },
+    "dingr": {
+        "square": "  ",
+        "long": "  "
+    },
+    "dipsway": {
+        "square": "  ",
+        "long": "  "
+    },
+    "discordpal": {
+        "square": "  ",
+        "long": "  "
+    },
+    "divi-form-builder": {
+        "square": "  ",
+        "long": "  "
+    },
+    "docu-ask": {
+        "square": "  ",
+        "long": "  "
+    },
+    "docuchat": {
+        "square": "  ",
+        "long": "  "
+    },
+    "docudo": {
+        "square": "  ",
+        "long": "  "
+    },
+    "docuo": {
+        "square": "  ",
+        "long": "  "
+    },
+    "docup": {
+        "square": "  ",
+        "long": "  "
+    },
+    "docuwriter-ai": {
+        "square": "  ",
+        "long": "  "
+    },
+    "dokkio": {
+        "square": "  ",
+        "long": "  "
+    },
+    "doks-ai": {
+        "square": "  ",
+        "long": "  "
+    },
+    "dolores-ai-girlfriend": {
+        "square": "  ",
+        "long": "  "
+    },
+    "domainhunt": {
+        "square": "  ",
+        "long": "  "
+    },
+    "domainsgpt": {
+        "square": "  ",
+        "long": "  "
+    },
+    "donotpay": {
+        "square": "  ",
+        "long": "  "
+    },
+    "dora-ai": {
+        "square": "  ",
+        "long": "  "
+    },
+    "doubt-clear-ai": {
+        "square": "  ",
+        "long": "  "
+    },
+    "draw-things": {
+        "square": "  ",
+        "long": "  "
+    },
+    "draw3d": {
+        "square": "  ",
+        "long": "  "
+    },
+    "drawmeasheep": {
+        "square": "  ",
+        "long": "  "
+    },
+    "drawmytoday": {
+        "square": "  ",
+        "long": "  "
+    },
+    "dream": {
+        "square": "  ",
+        "long": "  "
+    },
+    "dream-decoder": {
+        "square": "  ",
+        "long": "  "
+    },
+    "dream3d": {
+        "square": "  ",
+        "long": "  "
+    },
+    "dreamboothr": {
+        "square": "  ",
+        "long": "  "
+    },
+    "dreamcard-ai": {
+        "square": "  ",
+        "long": "  "
+    },
+    "dreamface": {
+        "square": "  ",
+        "long": "  "
+    },
+    "dreamgf": {
+        "square": "  ",
+        "long": "  "
+    },
+    "dreamhouse-ai": {
+        "square": "  ",
+        "long": "  "
+    },
+    "dreamkeeper": {
+        "square": "  ",
+        "long": "  "
+    },
+    "dreamlike": {
+        "square": "  ",
+        "long": "  "
+    },
+    "dreampic": {
+        "square": "  ",
+        "long": "  "
+    },
+    "dreampress": {
+        "square": "  ",
+        "long": "  "
+    },
+    "dreamweaverai": {
+        "square": "  ",
+        "long": "  "
+    },
+    "drippi-ai": {
+        "square": "  ",
+        "long": "  "
+    },
+    "drivegenius": {
+        "square": "  ",
+        "long": "  "
+    },
+    "drlambda": {
+        "square": "  ",
+        "long": "  "
+    },
+    "droppedhub": {
+        "square": "  ",
+        "long": "  "
+    },
+    "dropy-ai": {
+        "square": "  ",
+        "long": "  "
+    },
+    "drsaam": {
+        "square": "  ",
+        "long": "  "
+    },
+    "drumloop": {
+        "square": "  ",
+        "long": "  "
+    },
+    "dstill-podcasts": {
+        "square": "  ",
+        "long": "  "
+    },
+    "dubbing-ai": {
+        "square": "  ",
+        "long": "  "
+    },
+    "dubdub": {
+        "square": "  ",
+        "long": "  "
+    },
+    "dubverse-ai": {
+        "square": "  ",
+        "long": "  "
+    },
+    "duino-code-generator": {
+        "square": "  ",
+        "long": "  "
+    },
+    "dupdub": {
+        "square": "  ",
+        "long": "  "
+    },
+    "earningsdigest": {
+        "square": "  ",
+        "long": "  "
+    },
+    "earningsedge": {
+        "square": "  ",
+        "long": "  "
+    },
+    "easy-peasy-ai": {
+        "square": "  ",
+        "long": "  "
+    },
+    "eazy-editor": {
+        "square": "  ",
+        "long": "  "
+    },
+    "eazysitepro": {
+        "square": "  ",
+        "long": "  "
+    },
+    "ebank": {
+        "square": "  ",
+        "long": "  "
+    },
+    "ebookmaker": {
+        "square": "  ",
+        "long": "  "
+    },
+    "ebsynth": {
+        "square": "  ",
+        "long": "  "
+    },
+    "ecrett-music": {
+        "square": "  ",
+        "long": "  "
+    },
+    "eden-ai": {
+        "square": "  ",
+        "long": "  "
+    },
+    "edge": {
+        "square": "  ",
+        "long": "  "
+    },
+    "edit-anything": {
+        "square": "  ",
+        "long": "  "
+    },
+    "editair": {
+        "square": "  ",
+        "long": "  "
+    },
+    "education-copilot": {
+        "square": "  ",
+        "long": "  "
+    },
+    "eduphoria-ai": {
+        "square": "  ",
+        "long": "  "
+    },
+    "eesel": {
+        "square": "  ",
+        "long": "  "
+    },
+    "effortless-email": {
+        "square": "  ",
+        "long": "  "
+    },
+    "eilla": {
+        "square": "  ",
+        "long": "  "
+    },
+    "eklipse": {
+        "square": "  ",
+        "long": "  "
+    },
+    "eleven-labs": {
+        "square": "  ",
+        "long": "  "
+    },
+    "elevenlabs-dubbing": {
+        "square": "  ",
+        "long": "  "
+    },
+    "emailiq": {
+        "square": "  ",
+        "long": "  "
+    },
+    "embed-ai": {
+        "square": "  ",
+        "long": "  "
+    },
+    "embolden": {
+        "square": "  ",
+        "long": "  "
+    },
+    "emdash": {
+        "square": "  ",
+        "long": "  "
+    },
+    "emergent-drums": {
+        "square": "  ",
+        "long": "  "
+    },
+    "epsilon": {
+        "square": "  ",
+        "long": "  "
+    },
+    "erase-bg": {
+        "square": "  ",
+        "long": "  "
+    },
+    "erbuilder": {
+        "square": "  ",
+        "long": "  "
+    },
+    "es-ai": {
+        "square": "  ",
+        "long": "  "
+    },
+    "ess-ai": {
+        "square": "  ",
+        "long": "  "
+    },
+    "essay-writer-ai": {
+        "square": "  ",
+        "long": "  "
+    },
+    "essayservice": {
+        "square": "  ",
+        "long": "  "
+    },
+    "essense": {
+        "square": "  ",
+        "long": "  "
+    },
+    "esyblog": {
+        "square": "  ",
+        "long": "  "
+    },
+    "evercopy": {
+        "square": "  ",
+        "long": "  "
+    },
+    "everlogue": {
+        "square": "  ",
+        "long": "  "
+    },
+    "evermail": {
+        "square": "  ",
+        "long": "  "
+    },
+    "every-anyone": {
+        "square": "  ",
+        "long": "  "
+    },
+    "excelformularizer": {
+        "square": "  ",
+        "long": "  "
+    },
+    "existential": {
+        "square": "  ",
+        "long": "  "
+    },
+    "expense-sorted": {
+        "square": "  ",
+        "long": "  "
+    },
+    "exspanse": {
+        "square": "  ",
+        "long": "  "
+    },
+    "extend-music": {
+        "square": "  ",
+        "long": "  "
+    },
+    "extendimage": {
+        "square": "  ",
+        "long": "  "
+    },
+    "extrapolate": {
+        "square": "  ",
+        "long": "  "
+    },
+    "ezdubs": {
+        "square": "  ",
+        "long": "  "
+    },
+    "fable-fiesta": {
+        "square": "  ",
+        "long": "  "
+    },
+    "fabled": {
+        "square": "  ",
+        "long": "  "
+    },
+    "fabularis": {
+        "square": "  ",
+        "long": "  "
+    },
+    "face-ai-sticker-generator": {
+        "square": "  ",
+        "long": "  "
+    },
+    "face-mix": {
+        "square": "  ",
+        "long": "  "
+    },
+    "face-swapper": {
+        "square": "  ",
+        "long": "  "
+    },
+    "face26": {
+        "square": "  ",
+        "long": "  "
+    },
+    "facelens": {
+        "square": "  ",
+        "long": "  "
+    },
+    "faceshape": {
+        "square": "  ",
+        "long": "  "
+    },
+    "faceswapperonline": {
+        "square": "  ",
+        "long": "  "
+    },
+    "faith-forward": {
+        "square": "  ",
+        "long": "  "
+    },
+    "fakerlabs": {
+        "square": "  ",
+        "long": "  "
+    },
+    "fakeyou": {
+        "square": "  ",
+        "long": "  "
+    },
+    "fanchat": {
+        "square": "  ",
+        "long": "  "
+    },
+    "fantaclaus": {
+        "square": "  ",
+        "long": "  "
+    },
+    "fantoons": {
+        "square": "  ",
+        "long": "  "
+    },
+    "faraday-dev": {
+        "square": "  ",
+        "long": "  "
+    },
+    "fashionadvisorai": {
+        "square": "  ",
+        "long": "  "
+    },
+    "fashionai-me": {
+        "square": "  ",
+        "long": "  "
+    },
+    "fastlane": {
+        "square": "  ",
+        "long": "  "
+    },
+    "fermat": {
+        "square": "  ",
+        "long": "  "
+    },
+    "fiction-fusion": {
+        "square": "  ",
+        "long": "  "
+    },
+    "filechat": {
+        "square": "  ",
+        "long": "  "
+    },
+    "film-flow": {
+        "square": "  ",
+        "long": "  "
+    },
+    "filmforge": {
+        "square": "  ",
+        "long": "  "
+    },
+    "fin-by-intercom": {
+        "square": "  ",
+        "long": "  "
+    },
+    "final-round": {
+        "square": "  ",
+        "long": "  "
+    },
+    "financebrain": {
+        "square": "  ",
+        "long": "  "
+    },
+    "findsight": {
+        "square": "  ",
+        "long": "  "
+    },
+    "findwise": {
+        "square": "  ",
+        "long": "  "
+    },
+    "findyourtriggers": {
+        "square": "  ",
+        "long": "  "
+    },
+    "finecam": {
+        "square": "  ",
+        "long": "  "
+    },
+    "fineshare-singify": {
+        "square": "  ",
+        "long": "  "
+    },
+    "finevoice": {
+        "square": "  ",
+        "long": "  "
+    },
+    "finevoice-ai-voice-changer": {
+        "square": "  ",
+        "long": "  "
+    },
+    "finwise": {
+        "square": "  ",
+        "long": "  "
+    },
+    "fire-photo-shoot": {
+        "square": "  ",
+        "long": "  "
+    },
+    "firehaircut": {
+        "square": "  ",
+        "long": "  "
+    },
+    "fix-my-resume": {
+        "square": "  ",
+        "long": "  "
+    },
+    "flair": {
+        "square": "  ",
+        "long": "  "
+    },
+    "flashwise": {
+        "square": "  ",
+        "long": "  "
+    },
+    "flick-ai-assistant": {
+        "square": "  ",
+        "long": "  "
+    },
+    "flirtai": {
+        "square": "  ",
+        "long": "  "
+    },
+    "flirtflix": {
+        "square": "  ",
+        "long": "  "
+    },
+    "flirtify": {
+        "square": "  ",
+        "long": "  "
+    },
+    "floneum": {
+        "square": "  ",
+        "long": "  "
+    },
+    "flourish": {
+        "square": "  ",
+        "long": "  "
+    },
+    "flowiseai": {
+        "square": "  ",
+        "long": "  "
+    },
+    "flutterflow-ai-gen": {
+        "square": "  ",
+        "long": "  "
+    },
+    "fly-ai": {
+        "square": "  ",
+        "long": "  "
+    },
+    "focia": {
+        "square": "  ",
+        "long": "  "
+    },
+    "followfox": {
+        "square": "  ",
+        "long": "  "
+    },
+    "followr": {
+        "square": "  ",
+        "long": "  "
+    },
+    "forefront": {
+        "square": "  ",
+        "long": "  "
+    },
+    "forever-voices": {
+        "square": "  ",
+        "long": "  "
+    },
+    "formula-dog": {
+        "square": "  ",
+        "long": "  "
+    },
+    "formulas-hq": {
+        "square": "  ",
+        "long": "  "
+    },
+    "formwise": {
+        "square": "  ",
+        "long": "  "
+    },
+    "formzil": {
+        "square": "  ",
+        "long": "  "
+    },
+    "fotofix": {
+        "square": "  ",
+        "long": "  "
+    },
+    "foxyapps": {
+        "square": "  ",
+        "long": "  "
+    },
+    "fraime": {
+        "square": "  ",
+        "long": "  "
+    },
+    "framedrop": {
+        "square": "  ",
+        "long": "  "
+    },
+    "framer": {
+        "square": "  ",
+        "long": "  "
+    },
+    "frederick": {
+        "square": "  ",
+        "long": "  "
+    },
+    "free-ai-detector": {
+        "square": "  ",
+        "long": "  "
+    },
+    "free-blog-post-generator": {
+        "square": "  ",
+        "long": "  "
+    },
+    "free-text-to-speech": {
+        "square": "  ",
+        "long": "  "
+    },
+    "freeaikit": {
+        "square": "  ",
+        "long": "  "
+    },
+    "freed-ai": {
+        "square": "  ",
+        "long": "  "
+    },
+    "freelino": {
+        "square": "  ",
+        "long": "  "
+    },
+    "freepik": {
+        "square": "  ",
+        "long": "  "
+    },
+    "freewriteai": {
+        "square": "  ",
+        "long": "  "
+    },
+    "frictionless": {
+        "square": "  ",
+        "long": "  "
+    },
+    "friendly-ai": {
+        "square": "  ",
+        "long": "  "
+    },
+    "func-news": {
+        "square": "  ",
+        "long": "  "
+    },
+    "funny-tweet-generator": {
+        "square": "  ",
+        "long": "  "
+    },
+    "fusion-app": {
+        "square": "  ",
+        "long": "  "
+    },
+    "fusion-brain": {
+        "square": "  ",
+        "long": "  "
+    },
+    "futurenotes": {
+        "square": "  ",
+        "long": "  "
+    },
+    "gali": {
+        "square": "  ",
+        "long": "  "
+    },
+    "game-generator": {
+        "square": "  ",
+        "long": "  "
+    },
+    "gamma": {
+        "square": "  ",
+        "long": "  "
+    },
+    "garden-of-ai": {
+        "square": "  ",
+        "long": "  "
+    },
+    "gateai": {
+        "square": "  ",
+        "long": "  "
+    },
+    "gemsouls": {
+        "square": "  ",
+        "long": "  "
+    },
+    "gencraft": {
+        "square": "  ",
+        "long": "  "
+    },
+    "genera-so": {
+        "square": "  ",
+        "long": "  "
+    },
+    "generai": {
+        "square": "  ",
+        "long": "  "
+    },
+    "genieai": {
+        "square": "  ",
+        "long": "  "
+    },
+    "genius-pdf": {
+        "square": "  ",
+        "long": "  "
+    },
+    "genius-trip": {
+        "square": "  ",
+        "long": "  "
+    },
+    "genji": {
+        "square": "  ",
+        "long": "  "
+    },
+    "genmo": {
+        "square": "  ",
+        "long": "  "
+    },
+    "genpictures": {
+        "square": "  ",
+        "long": "  "
+    },
+    "gentext-ai-assistant": {
+        "square": "  ",
+        "long": "  "
+    },
+    "gentlegossip": {
+        "square": "  ",
+        "long": "  "
+    },
+    "gerwin": {
+        "square": "  ",
+        "long": "  "
+    },
+    "getbotz": {
+        "square": "  ",
+        "long": "  "
+    },
+    "getdone": {
+        "square": "  ",
+        "long": "  "
+    },
+    "getgenie": {
+        "square": "  ",
+        "long": "  "
+    },
+    "getimg-ai": {
+        "square": "  ",
+        "long": "  "
+    },
+    "getmax": {
+        "square": "  ",
+        "long": "  "
+    },
+    "getme-flights": {
+        "square": "  ",
+        "long": "  "
+    },
+    "getodata": {
+        "square": "  ",
+        "long": "  "
+    },
+    "getonboard": {
+        "square": "  ",
+        "long": "  "
+    },
+    "ghostcut": {
+        "square": "  ",
+        "long": "  "
+    },
+    "ghostposts-ai": {
+        "square": "  ",
+        "long": "  "
+    },
+    "ghostwriter": {
+        "square": "  ",
+        "long": "  "
+    },
+    "gienjibot": {
+        "square": "  ",
+        "long": "  "
+    },
+    "giftideasai": {
+        "square": "  ",
+        "long": "  "
+    },
+    "giftruly": {
+        "square": "  ",
+        "long": "  "
+    },
+    "giotto": {
+        "square": "  ",
+        "long": "  "
+    },
+    "gist-ai": {
+        "square": "  ",
+        "long": "  "
+    },
+    "gistai": {
+        "square": "  ",
+        "long": "  "
+    },
+    "gistreader": {
+        "square": "  ",
+        "long": "  "
+    },
+    "gistty": {
+        "square": "  ",
+        "long": "  "
+    },
+    "gita-ai": {
+        "square": "  ",
+        "long": "  "
+    },
+    "gitgab": {
+        "square": "  ",
+        "long": "  "
+    },
+    "github-copilot": {
+        "square": "  ",
+        "long": "  "
+    },
+    "github-copilot-x": {
+        "square": "  ",
+        "long": "  "
+    },
+    "gitsul-group": {
+        "square": "  ",
+        "long": "  "
+    },
+    "gitterbot": {
+        "square": "  ",
+        "long": "  "
+    },
+    "gitwit": {
+        "square": "  ",
+        "long": "  "
+    },
+    "gizmo": {
+        "square": "  ",
+        "long": "  "
+    },
+    "gizzmo": {
+        "square": "  ",
+        "long": "  "
+    },
+    "gladia": {
+        "square": "  ",
+        "long": "  "
+    },
+    "glaive": {
+        "square": "  ",
+        "long": "  "
+    },
+    "glambase": {
+        "square": "  ",
+        "long": "  "
+    },
+    "gleek": {
+        "square": "  ",
+        "long": "  "
+    },
+    "gliglish": {
+        "square": "  ",
+        "long": "  "
+    },
+    "glimmer": {
+        "square": "  ",
+        "long": "  "
+    },
+    "glimpse": {
+        "square": "  ",
+        "long": "  "
+    },
+    "gling": {
+        "square": "  ",
+        "long": "  "
+    },
+    "glowbom": {
+        "square": "  ",
+        "long": "  "
+    },
+    "glowup-ai": {
+        "square": "  ",
+        "long": "  "
+    },
+    "gmailgpt": {
+        "square": "  ",
+        "long": "  "
+    },
+    "godmode": {
+        "square": "  ",
+        "long": "  "
+    },
+    "gogptgo": {
+        "square": "  ",
+        "long": "  "
+    },
+    "gordon-ramsai": {
+        "square": "  ",
+        "long": "  "
+    },
+    "gpt-calculator": {
+        "square": "  ",
+        "long": "  "
+    },
+    "gpt-chatbot": {
+        "square": "  ",
+        "long": "  "
+    },
+    "gpt-games": {
+        "square": "  ",
+        "long": "  "
+    },
+    "gpt-grammarly": {
+        "square": "  ",
+        "long": "  "
+    },
+    "gpt-ppt": {
+        "square": "  ",
+        "long": "  "
+    },
+    "gpt-sms": {
+        "square": "  ",
+        "long": "  "
+    },
+    "gpt4autocoder": {
+        "square": "  ",
+        "long": "  "
+    },
+    "gpt4free": {
+        "square": "  ",
+        "long": "  "
+    },
+    "gptassistant": {
+        "square": "  ",
+        "long": "  "
+    },
+    "gptbots": {
+        "square": "  ",
+        "long": "  "
+    },
+    "gptconsole": {
+        "square": "  ",
+        "long": "  "
+    },
+    "gptea": {
+        "square": "  ",
+        "long": "  "
+    },
+    "gptgame": {
+        "square": "  ",
+        "long": "  "
+    },
+    "gptkit": {
+        "square": "  ",
+        "long": "  "
+    },
+    "gptmyday": {
+        "square": "  ",
+        "long": "  "
+    },
+    "gptocr": {
+        "square": "  ",
+        "long": "  "
+    },
+    "gpurich": {
+        "square": "  ",
+        "long": "  "
+    },
+    "grambotplus": {
+        "square": "  ",
+        "long": "  "
+    },
+    "grammar-ai": {
+        "square": "  ",
+        "long": "  "
+    },
+    "grammar-gpt": {
+        "square": "  ",
+        "long": "  "
+    },
+    "grapegpt": {
+        "square": "  ",
+        "long": "  "
+    },
+    "graphlit": {
+        "square": "  ",
+        "long": "  "
+    },
+    "graphy-app": {
+        "square": "  ",
+        "long": "  "
+    },
+    "graviti-diffus": {
+        "square": "  ",
+        "long": "  "
+    },
+    "gravitywrite": {
+        "square": "  ",
+        "long": "  "
+    },
+    "green-room-ai": {
+        "square": "  ",
+        "long": "  "
+    },
+    "green-screen-ai": {
+        "square": "  ",
+        "long": "  "
+    },
+    "greip": {
+        "square": "  ",
+        "long": "  "
+    },
+    "grep-help": {
+        "square": "  ",
+        "long": "  "
+    },
+    "guidde": {
+        "square": "  ",
+        "long": "  "
+    },
+    "guided": {
+        "square": "  ",
+        "long": "  "
+    },
+    "gummy-search": {
+        "square": "  ",
+        "long": "  "
+    },
+    "gymbuddy": {
+        "square": "  ",
+        "long": "  "
+    },
+    "hacker-ai": {
+        "square": "  ",
+        "long": "  "
+    },
+    "hai": {
+        "square": "  ",
+        "long": "  "
+    },
+    "haiku-lens": {
+        "square": "  ",
+        "long": "  "
+    },
+    "hansei": {
+        "square": "  ",
+        "long": "  "
+    },
+    "happy-mama": {
+        "square": "  ",
+        "long": "  "
+    },
+    "happyaccidents": {
+        "square": "  ",
+        "long": "  "
+    },
+    "happyrobot": {
+        "square": "  ",
+        "long": "  "
+    },
+    "harley": {
+        "square": "  ",
+        "long": "  "
+    },
+    "harpa": {
+        "square": "  ",
+        "long": "  "
+    },
+    "headlinesai": {
+        "square": "  ",
+        "long": "  "
+    },
+    "headshotpro": {
+        "square": "  ",
+        "long": "  "
+    },
+    "headshotsai": {
+        "square": "  ",
+        "long": "  "
+    },
+    "health-scanner": {
+        "square": "  ",
+        "long": "  "
+    },
+    "healthgpt": {
+        "square": "  ",
+        "long": "  "
+    },
+    "heather-ai": {
+        "square": "  ",
+        "long": "  "
+    },
+    "hehealth": {
+        "square": "  ",
+        "long": "  "
+    },
+    "height-copilot": {
+        "square": "  ",
+        "long": "  "
+    },
+    "heimdall": {
+        "square": "  ",
+        "long": "  "
+    },
+    "helix": {
+        "square": "  ",
+        "long": "  "
+    },
+    "hell-s-pitching": {
+        "square": "  ",
+        "long": "  "
+    },
+    "henshu": {
+        "square": "  ",
+        "long": "  "
+    },
+    "hercule": {
+        "square": "  ",
+        "long": "  "
+    },
+    "herogpt": {
+        "square": "  ",
+        "long": "  "
+    },
+    "heropack": {
+        "square": "  ",
+        "long": "  "
+    },
+    "herotalk": {
+        "square": "  ",
+        "long": "  "
+    },
+    "heuristica": {
+        "square": "  ",
+        "long": "  "
+    },
+    "hexowatch": {
+        "square": "  ",
+        "long": "  "
+    },
+    "heygen": {
+        "square": "  ",
+        "long": "  "
+    },
+    "heyphoto": {
+        "square": "  ",
+        "long": "  "
+    },
+    "heyscience": {
+        "square": "  ",
+        "long": "  "
+    },
+    "hi-wifu": {
+        "square": "  ",
+        "long": "  "
+    },
+    "hichatbot": {
+        "square": "  ",
+        "long": "  "
+    },
+    "hidden-images": {
+        "square": "  ",
+        "long": "  "
+    },
+    "hidemyai": {
+        "square": "  ",
+        "long": "  "
+    },
+    "highperformer-social-bio": {
+        "square": "  ",
+        "long": "  "
+    },
+    "hints": {
+        "square": "  ",
+        "long": "  "
+    },
+    "hirable": {
+        "square": "  ",
+        "long": "  "
+    },
+    "historica": {
+        "square": "  ",
+        "long": "  "
+    },
+    "hitpaw-watermark-remover": {
+        "square": "  ",
+        "long": "  "
+    },
+    "hnresumetojobs": {
+        "square": "  ",
+        "long": "  "
+    },
+    "hocoos": {
+        "square": "  ",
+        "long": "  "
+    },
+    "holara": {
+        "square": "  ",
+        "long": "  "
+    },
+    "honeyhive": {
+        "square": "  ",
+        "long": "  "
+    },
+    "hoopsai": {
+        "square": "  ",
+        "long": "  "
+    },
+    "hoppy-copy": {
+        "square": "  ",
+        "long": "  "
+    },
+    "horizon": {
+        "square": "  ",
+        "long": "  "
+    },
+    "hotcheck": {
+        "square": "  ",
+        "long": "  "
+    },
+    "howtowrite": {
+        "square": "  ",
+        "long": "  "
+    },
+    "humancircles": {
+        "square": "  ",
+        "long": "  "
+    },
+    "humanize-ai-text": {
+        "square": "  ",
+        "long": "  "
+    },
+    "huru": {
+        "square": "  ",
+        "long": "  "
+    },
+    "huxli": {
+        "square": "  ",
+        "long": "  "
+    },
+    "hypeindex": {
+        "square": "  ",
+        "long": "  "
+    },
+    "hyperaide": {
+        "square": "  ",
+        "long": "  "
+    },
+    "hyperficient": {
+        "square": "  ",
+        "long": "  "
+    },
+    "hyperwrite": {
+        "square": "  ",
+        "long": "  "
+    },
+    "iacrea": {
+        "square": "  ",
+        "long": "  "
+    },
+    "iask": {
+        "square": "  ",
+        "long": "  "
+    },
+    "iatextos": {
+        "square": "  ",
+        "long": "  "
+    },
+    "ichatbook": {
+        "square": "  ",
+        "long": "  "
+    },
+    "ichatwithgpt": {
+        "square": "  ",
+        "long": "  "
+    },
+    "iconifyai": {
+        "square": "  ",
+        "long": "  "
+    },
+    "iconik": {
+        "square": "  ",
+        "long": "  "
+    },
+    "ideasai": {
+        "square": "  ",
+        "long": "  "
+    },
+    "idocu": {
+        "square": "  ",
+        "long": "  "
+    },
+    "igirl": {
+        "square": "  ",
+        "long": "  "
+    },
+    "iillustrate": {
+        "square": "  ",
+        "long": "  "
+    },
+    "ilmui-dev": {
+        "square": "  ",
+        "long": "  "
+    },
+    "image-prompter": {
+        "square": "  ",
+        "long": "  "
+    },
+    "image-to-caption": {
+        "square": "  ",
+        "long": "  "
+    },
+    "image-to-caption-generator": {
+        "square": "  ",
+        "long": "  "
+    },
+    "imageeditor": {
+        "square": "  ",
+        "long": "  "
+    },
+    "imagegen-ai-image-generator": {
+        "square": "  ",
+        "long": "  "
+    },
+    "imagica": {
+        "square": "  ",
+        "long": "  "
+    },
+    "imaginai": {
+        "square": "  ",
+        "long": "  "
+    },
+    "imaginaition": {
+        "square": "  ",
+        "long": "  "
+    },
+    "imagine-ai-art-generator": {
+        "square": "  ",
+        "long": "  "
+    },
+    "imagine-me": {
+        "square": "  ",
+        "long": "  "
+    },
+    "imean": {
+        "square": "  ",
+        "long": "  "
+    },
+    "imgcreator": {
+        "square": "  ",
+        "long": "  "
+    },
+    "imgupscaler": {
+        "square": "  ",
+        "long": "  "
+    },
+    "impakt-ai-coach": {
+        "square": "  ",
+        "long": "  "
+    },
+    "inbox-narrator": {
+        "square": "  ",
+        "long": "  "
+    },
+    "infinitbackgrounds": {
+        "square": "  ",
+        "long": "  "
+    },
+    "infiniteconversation": {
+        "square": "  ",
+        "long": "  "
+    },
+    "infobot": {
+        "square": "  ",
+        "long": "  "
+    },
+    "inkdrop": {
+        "square": "  ",
+        "long": "  "
+    },
+    "inlovewith": {
+        "square": "  ",
+        "long": "  "
+    },
+    "inquistory": {
+        "square": "  ",
+        "long": "  "
+    },
+    "insight7": {
+        "square": "  ",
+        "long": "  "
+    },
+    "insightai-dev": {
+        "square": "  ",
+        "long": "  "
+    },
+    "insighthack": {
+        "square": "  ",
+        "long": "  "
+    },
+    "insta-learn": {
+        "square": "  ",
+        "long": "  "
+    },
+    "instabooks": {
+        "square": "  ",
+        "long": "  "
+    },
+    "instanews": {
+        "square": "  ",
+        "long": "  "
+    },
+    "instant-singer": {
+        "square": "  ",
+        "long": "  "
+    },
+    "instantai": {
+        "square": "  ",
+        "long": "  "
+    },
+    "instantart": {
+        "square": "  ",
+        "long": "  "
+    },
+    "instantchapters": {
+        "square": "  ",
+        "long": "  "
+    },
+    "instaphotoai": {
+        "square": "  ",
+        "long": "  "
+    },
+    "insyte-ai": {
+        "square": "  ",
+        "long": "  "
+    },
+    "intellimail": {
+        "square": "  ",
+        "long": "  "
+    },
+    "intellinode": {
+        "square": "  ",
+        "long": "  "
+    },
+    "intentseek": {
+        "square": "  ",
+        "long": "  "
+    },
+    "interactive-mathematics": {
+        "square": "  ",
+        "long": "  "
+    },
+    "interior-ai": {
+        "square": "  ",
+        "long": "  "
+    },
+    "interior-computer": {
+        "square": "  ",
+        "long": "  "
+    },
+    "interview-machines": {
+        "square": "  ",
+        "long": "  "
+    },
+    "interviewai-me": {
+        "square": "  ",
+        "long": "  "
+    },
+    "interviewsby-ai": {
+        "square": "  ",
+        "long": "  "
+    },
+    "intimate": {
+        "square": "  ",
+        "long": "  "
+    },
+    "inventive": {
+        "square": "  ",
+        "long": "  "
+    },
+    "invictaai": {
+        "square": "  ",
+        "long": "  "
+    },
+    "invideo": {
+        "square": "  ",
+        "long": "  "
+    },
+    "inwisely": {
+        "square": "  ",
+        "long": "  "
+    },
+    "ircopilot": {
+        "square": "  ",
+        "long": "  "
+    },
+    "ironiq": {
+        "square": "  ",
+        "long": "  "
+    },
+    "is-this-image-nsfw": {
+        "square": "  ",
+        "long": "  "
+    },
+    "isaac-editor": {
+        "square": "  ",
+        "long": "  "
+    },
+    "isaax": {
+        "square": "  ",
+        "long": "  "
+    },
+    "isthistrue": {
+        "square": "  ",
+        "long": "  "
+    },
+    "iwish": {
+        "square": "  ",
+        "long": "  "
+    },
+    "iwishtherewas": {
+        "square": "  ",
+        "long": "  "
+    },
+    "ix-coach": {
+        "square": "  ",
+        "long": "  "
+    },
+    "jackrabbit-ops": {
+        "square": "  ",
+        "long": "  "
+    },
+    "jaeves": {
+        "square": "  ",
+        "long": "  "
+    },
+    "jeffrey-c-lavie": {
+        "square": "  ",
+        "long": "  "
+    },
+    "jenni": {
+        "square": "  ",
+        "long": "  "
+    },
+    "jester-ai-caption-writer": {
+        "square": "  ",
+        "long": "  "
+    },
+    "jinni": {
+        "square": "  ",
+        "long": "  "
+    },
+    "jit-codes": {
+        "square": "  ",
+        "long": "  "
+    },
+    "jobcopy": {
+        "square": "  ",
+        "long": "  "
+    },
+    "jobmind": {
+        "square": "  ",
+        "long": "  "
+    },
+    "jobs-scout": {
+        "square": "  ",
+        "long": "  "
+    },
+    "jobsearch-coach": {
+        "square": "  ",
+        "long": "  "
+    },
+    "joi-ai": {
+        "square": "  ",
+        "long": "  "
+    },
+    "joi-ai-girlfriend-18": {
+        "square": "  ",
+        "long": "  "
+    },
+    "jotgenius": {
+        "square": "  ",
+        "long": "  "
+    },
+    "jpghd": {
+        "square": "  ",
+        "long": "  "
+    },
+    "judeai": {
+        "square": "  ",
+        "long": "  "
+    },
+    "jurny": {
+        "square": "  ",
+        "long": "  "
+    },
+    "kadoa": {
+        "square": "  ",
+        "long": "  "
+    },
+    "kaedim": {
+        "square": "  ",
+        "long": "  "
+    },
+    "kafkai": {
+        "square": "  ",
+        "long": "  "
+    },
+    "kai-app": {
+        "square": "  ",
+        "long": "  "
+    },
+    "kanaries": {
+        "square": "  ",
+        "long": "  "
+    },
+    "kay": {
+        "square": "  ",
+        "long": "  "
+    },
+    "keepertax": {
+        "square": "  ",
+        "long": "  "
+    },
+    "keepi": {
+        "square": "  ",
+        "long": "  "
+    },
+    "keywrds": {
+        "square": "  ",
+        "long": "  "
+    },
+    "kiask": {
+        "square": "  ",
+        "long": "  "
+    },
+    "kick-co": {
+        "square": "  ",
+        "long": "  "
+    },
+    "kickresume": {
+        "square": "  ",
+        "long": "  "
+    },
+    "kindle-gpt": {
+        "square": "  ",
+        "long": "  "
+    },
+    "kintsugi": {
+        "square": "  ",
+        "long": "  "
+    },
+    "kits-ai": {
+        "square": "  ",
+        "long": "  "
+    },
+    "kittensai": {
+        "square": "  ",
+        "long": "  "
+    },
+    "kittl": {
+        "square": "  ",
+        "long": "  "
+    },
+    "klap": {
+        "square": "  ",
+        "long": "  "
+    },
+    "kleap": {
+        "square": "  ",
+        "long": "  "
+    },
+    "klu": {
+        "square": "  ",
+        "long": "  "
+    },
+    "klynk": {
+        "square": "  ",
+        "long": "  "
+    },
+    "knowbase": {
+        "square": "  ",
+        "long": "  "
+    },
+    "knowledge-drive": {
+        "square": "  ",
+        "long": "  "
+    },
+    "koe-app": {
+        "square": "  ",
+        "long": "  "
+    },
+    "kombine-ai": {
+        "square": "  ",
+        "long": "  "
+    },
+    "kome-ai": {
+        "square": "  ",
+        "long": "  "
+    },
+    "konjer": {
+        "square": "  ",
+        "long": "  "
+    },
+    "krater": {
+        "square": "  ",
+        "long": "  "
+    },
+    "kreado-ai": {
+        "square": "  ",
+        "long": "  "
+    },
+    "kubee": {
+        "square": "  ",
+        "long": "  "
+    },
+    "kubocreate": {
+        "square": "  ",
+        "long": "  "
+    },
+    "kundy": {
+        "square": "  ",
+        "long": "  "
+    },
+    "kupid-ai": {
+        "square": "  ",
+        "long": "  "
+    },
+    "kupiks": {
+        "square": "  ",
+        "long": "  "
+    },
+    "laketool": {
+        "square": "  ",
+        "long": "  "
+    },
+    "lalal": {
+        "square": "  ",
+        "long": "  "
+    },
+    "lander": {
+        "square": "  ",
+        "long": "  "
+    },
+    "landing-ai": {
+        "square": "  ",
+        "long": "  "
+    },
+    "langotalk": {
+        "square": "  ",
+        "long": "  "
+    },
+    "languagetool": {
+        "square": "  ",
+        "long": "  "
+    },
+    "larry-the-elf": {
+        "square": "  ",
+        "long": "  "
+    },
+    "layer-ai-research-assistant": {
+        "square": "  ",
+        "long": "  "
+    },
+    "lazy-cards": {
+        "square": "  ",
+        "long": "  "
+    },
+    "lean-canvas-ai": {
+        "square": "  ",
+        "long": "  "
+    },
+    "learngpt": {
+        "square": "  ",
+        "long": "  "
+    },
+    "learnlingo": {
+        "square": "  ",
+        "long": "  "
+    },
+    "learnplan": {
+        "square": "  ",
+        "long": "  "
+    },
+    "learnt": {
+        "square": "  ",
+        "long": "  "
+    },
+    "lecture-mate": {
+        "square": "  ",
+        "long": "  "
+    },
+    "ledgerbox": {
+        "square": "  ",
+        "long": "  "
+    },
+    "legal-ai": {
+        "square": "  ",
+        "long": "  "
+    },
+    "legalnow": {
+        "square": "  ",
+        "long": "  "
+    },
+    "legalyze": {
+        "square": "  ",
+        "long": "  "
+    },
+    "lemonstocks": {
+        "square": "  ",
+        "long": "  "
+    },
+    "lensco": {
+        "square": "  ",
+        "long": "  "
+    },
+    "lessonplans": {
+        "square": "  ",
+        "long": "  "
+    },
+    "letsask": {
+        "square": "  ",
+        "long": "  "
+    },
+    "letsview-chat": {
+        "square": "  ",
+        "long": "  "
+    },
+    "letterly-app": {
+        "square": "  ",
+        "long": "  "
+    },
+    "lettermagic": {
+        "square": "  ",
+        "long": "  "
+    },
+    "letternerd": {
+        "square": "  ",
+        "long": "  "
+    },
+    "lettria": {
+        "square": "  ",
+        "long": "  "
+    },
+    "levity": {
+        "square": "  ",
+        "long": "  "
+    },
+    "liarliar": {
+        "square": "  ",
+        "long": "  "
+    },
+    "libraai": {
+        "square": "  ",
+        "long": "  "
+    },
+    "librarian-ai": {
+        "square": "  ",
+        "long": "  "
+    },
+    "liftoff": {
+        "square": "  ",
+        "long": "  "
+    },
+    "lightrail": {
+        "square": "  ",
+        "long": "  "
+    },
+    "limecube": {
+        "square": "  ",
+        "long": "  "
+    },
+    "limeline": {
+        "square": "  ",
+        "long": "  "
+    },
+    "line-21": {
+        "square": "  ",
+        "long": "  "
+    },
+    "liner": {
+        "square": "  ",
+        "long": "  "
+    },
+    "lingostar": {
+        "square": "  ",
+        "long": "  "
+    },
+    "lingosync": {
+        "square": "  ",
+        "long": "  "
+    },
+    "lingtual": {
+        "square": "  ",
+        "long": "  "
+    },
+    "linkedin-post-spinner": {
+        "square": "  ",
+        "long": "  "
+    },
+    "linnk-the-reading-navigator": {
+        "square": "  ",
+        "long": "  "
+    },
+    "lisa": {
+        "square": "  ",
+        "long": "  "
+    },
+    "listen-monster": {
+        "square": "  ",
+        "long": "  "
+    },
+    "listnr-2-0": {
+        "square": "  ",
+        "long": "  "
+    },
+    "llama2-by-meta": {
+        "square": "  ",
+        "long": "  "
+    },
+    "llamabot": {
+        "square": "  ",
+        "long": "  "
+    },
+    "lmnt": {
+        "square": "  ",
+        "long": "  "
+    },
+    "lmql": {
+        "square": "  ",
+        "long": "  "
+    },
+    "logo-mockup": {
+        "square": "  ",
+        "long": "  "
+    },
+    "logobrainstorm": {
+        "square": "  ",
+        "long": "  "
+    },
+    "logocreatorai": {
+        "square": "  ",
+        "long": "  "
+    },
+    "logopicture-ai": {
+        "square": "  ",
+        "long": "  "
+    },
+    "logopony": {
+        "square": "  ",
+        "long": "  "
+    },
+    "logorax": {
+        "square": "  ",
+        "long": "  "
+    },
+    "longshot-ai": {
+        "square": "  ",
+        "long": "  "
+    },
+    "looti": {
+        "square": "  ",
+        "long": "  "
+    },
+    "loti": {
+        "square": "  ",
+        "long": "  "
+    },
+    "lotse": {
+        "square": "  ",
+        "long": "  "
+    },
+    "loudly": {
+        "square": "  ",
+        "long": "  "
+    },
+    "lovelines": {
+        "square": "  ",
+        "long": "  "
+    },
+    "lucid-beads": {
+        "square": "  ",
+        "long": "  "
+    },
+    "lustlab-ai": {
+        "square": "  ",
+        "long": "  "
+    },
+    "luw-ai": {
+        "square": "  ",
+        "long": "  "
+    },
+    "lyricallabs": {
+        "square": "  ",
+        "long": "  "
+    },
+    "lyriclab": {
+        "square": "  ",
+        "long": "  "
+    },
+    "m1-project": {
+        "square": "  ",
+        "long": "  "
+    },
+    "maax-ai": {
+        "square": "  ",
+        "long": "  "
+    },
+    "macgpt": {
+        "square": "  ",
+        "long": "  "
+    },
+    "macha": {
+        "square": "  ",
+        "long": "  "
+    },
+    "madison-ai": {
+        "square": "  ",
+        "long": "  "
+    },
+    "maester-blog-creator": {
+        "square": "  ",
+        "long": "  "
+    },
+    "magai": {
+        "square": "  ",
+        "long": "  "
+    },
+    "mage-space": {
+        "square": "  ",
+        "long": "  "
+    },
+    "magic-app-generator": {
+        "square": "  ",
+        "long": "  "
+    },
+    "magic-eraser": {
+        "square": "  ",
+        "long": "  "
+    },
+    "magic-hour": {
+        "square": "  ",
+        "long": "  "
+    },
+    "magic-loops": {
+        "square": "  ",
+        "long": "  "
+    },
+    "magic-patterns": {
+        "square": "  ",
+        "long": "  "
+    },
+    "magic-thumbnails": {
+        "square": "  ",
+        "long": "  "
+    },
+    "magicads": {
+        "square": "  ",
+        "long": "  "
+    },
+    "magical": {
+        "square": "  ",
+        "long": "  "
+    },
+    "magicblog": {
+        "square": "  ",
+        "long": "  "
+    },
+    "magicchat": {
+        "square": "  ",
+        "long": "  "
+    },
+    "magickimg": {
+        "square": "  ",
+        "long": "  "
+    },
+    "magicpost": {
+        "square": "  ",
+        "long": "  "
+    },
+    "magicprospect": {
+        "square": "  ",
+        "long": "  "
+    },
+    "magicslides": {
+        "square": "  ",
+        "long": "  "
+    },
+    "magictool-ai-chrome-extension": {
+        "square": "  ",
+        "long": "  "
+    },
+    "magicwrite": {
+        "square": "  ",
+        "long": "  "
+    },
+    "magma-tutor": {
+        "square": "  ",
+        "long": "  "
+    },
+    "magnific": {
+        "square": "  ",
+        "long": "  "
+    },
+    "maigic-book": {
+        "square": "  ",
+        "long": "  "
+    },
+    "mailecho": {
+        "square": "  ",
+        "long": "  "
+    },
+    "mailmaestro": {
+        "square": "  ",
+        "long": "  "
+    },
+    "mails-ai": {
+        "square": "  ",
+        "long": "  "
+    },
+    "maily-wizard": {
+        "square": "  ",
+        "long": "  "
+    },
+    "make-a-video": {
+        "square": "  ",
+        "long": "  "
+    },
+    "makebelieve": {
+        "square": "  ",
+        "long": "  "
+    },
+    "makelanding": {
+        "square": "  ",
+        "long": "  "
+    },
+    "malloy": {
+        "square": "  ",
+        "long": "  "
+    },
+    "manga-tv": {
+        "square": "  ",
+        "long": "  "
+    },
+    "manifest-ai": {
+        "square": "  ",
+        "long": "  "
+    },
+    "maps-gpt": {
+        "square": "  ",
+        "long": "  "
+    },
+    "maroofy": {
+        "square": "  ",
+        "long": "  "
+    },
+    "maskmyprompt": {
+        "square": "  ",
+        "long": "  "
+    },
+    "masterdebater": {
+        "square": "  ",
+        "long": "  "
+    },
+    "masterpiece-studio": {
+        "square": "  ",
+        "long": "  "
+    },
+    "matilda": {
+        "square": "  ",
+        "long": "  "
+    },
+    "mavex": {
+        "square": "  ",
+        "long": "  "
+    },
+    "maya": {
+        "square": "  ",
+        "long": "  "
+    },
+    "md-editor": {
+        "square": "  ",
+        "long": "  "
+    },
+    "meboom": {
+        "square": "  ",
+        "long": "  "
+    },
+    "medgpt": {
+        "square": "  ",
+        "long": "  "
+    },
+    "meetcopilot-app": {
+        "square": "  ",
+        "long": "  "
+    },
+    "meeting-summarizer": {
+        "square": "  ",
+        "long": "  "
+    },
+    "meetshepherd": {
+        "square": "  ",
+        "long": "  "
+    },
+    "meetsurvey": {
+        "square": "  ",
+        "long": "  "
+    },
+    "melody-studio": {
+        "square": "  ",
+        "long": "  "
+    },
+    "mem": {
+        "square": "  ",
+        "long": "  "
+    },
+    "memoirist": {
+        "square": "  ",
+        "long": "  "
+    },
+    "menubot": {
+        "square": "  ",
+        "long": "  "
+    },
+    "mergeml": {
+        "square": "  ",
+        "long": "  "
+    },
+    "metabob": {
+        "square": "  ",
+        "long": "  "
+    },
+    "metaview": {
+        "square": "  ",
+        "long": "  "
+    },
+    "metrotechs": {
+        "square": "  ",
+        "long": "  "
+    },
+    "mgai": {
+        "square": "  ",
+        "long": "  "
+    },
+    "mida": {
+        "square": "  ",
+        "long": "  "
+    },
+    "mighty-travels": {
+        "square": "  ",
+        "long": "  "
+    },
+    "mimir": {
+        "square": "  ",
+        "long": "  "
+    },
+    "mindgrasp": {
+        "square": "  ",
+        "long": "  "
+    },
+    "mindmategpt": {
+        "square": "  ",
+        "long": "  "
+    },
+    "mindmess": {
+        "square": "  ",
+        "long": "  "
+    },
+    "mindos": {
+        "square": "  ",
+        "long": "  "
+    },
+    "mindsera": {
+        "square": "  ",
+        "long": "  "
+    },
+    "mindsmith": {
+        "square": "  ",
+        "long": "  "
+    },
+    "mindstudio": {
+        "square": "  ",
+        "long": "  "
+    },
+    "minister-ai": {
+        "square": "  ",
+        "long": "  "
+    },
+    "mintlify": {
+        "square": "  ",
+        "long": "  "
+    },
+    "mirrorthink": {
+        "square": "  ",
+        "long": "  "
+    },
+    "mix-check-studio": {
+        "square": "  ",
+        "long": "  "
+    },
+    "mixo": {
+        "square": "  ",
+        "long": "  "
+    },
+    "mixpanel-spark": {
+        "square": "  ",
+        "long": "  "
+    },
+    "mobai": {
+        "square": "  ",
+        "long": "  "
+    },
+    "mobel": {
+        "square": "  ",
+        "long": "  "
+    },
+    "mobilegpt": {
+        "square": "  ",
+        "long": "  "
+    },
+    "modelscope-text-to-video": {
+        "square": "  ",
+        "long": "  "
+    },
+    "modif": {
+        "square": "  ",
+        "long": "  "
+    },
+    "modyfi": {
+        "square": "  ",
+        "long": "  "
+    },
+    "moemate": {
+        "square": "  ",
+        "long": "  "
+    },
+    "molin": {
+        "square": "  ",
+        "long": "  "
+    },
+    "momentsai": {
+        "square": "  ",
+        "long": "  "
+    },
+    "monai": {
+        "square": "  ",
+        "long": "  "
+    },
+    "moodify": {
+        "square": "  ",
+        "long": "  "
+    },
+    "moodplaylist": {
+        "square": "  ",
+        "long": "  "
+    },
+    "moogle": {
+        "square": "  ",
+        "long": "  "
+    },
+    "more-graphics-stickers": {
+        "square": "  ",
+        "long": "  "
+    },
+    "morphlin": {
+        "square": "  ",
+        "long": "  "
+    },
+    "motionagent": {
+        "square": "  ",
+        "long": "  "
+    },
+    "motionit": {
+        "square": "  ",
+        "long": "  "
+    },
+    "moviewiser": {
+        "square": "  ",
+        "long": "  "
+    },
+    "mr-cook": {
+        "square": "  ",
+        "long": "  "
+    },
+    "musenet": {
+        "square": "  ",
+        "long": "  "
+    },
+    "musicfy": {
+        "square": "  ",
+        "long": "  "
+    },
+    "musiclips": {
+        "square": "  ",
+        "long": "  "
+    },
+    "musiclm": {
+        "square": "  ",
+        "long": "  "
+    },
+    "musiclm-by-google": {
+        "square": "  ",
+        "long": "  "
+    },
+    "musico": {
+        "square": "  ",
+        "long": "  "
+    },
+    "musicstar-ai": {
+        "square": "  ",
+        "long": "  "
+    },
+    "muzaic-studio": {
+        "square": "  ",
+        "long": "  "
+    },
+    "muze-one": {
+        "square": "  ",
+        "long": "  "
+    },
+    "my-pocket-lawyer": {
+        "square": "  ",
+        "long": "  "
+    },
+    "my-reader": {
+        "square": "  ",
+        "long": "  "
+    },
+    "my-virtual-media": {
+        "square": "  ",
+        "long": "  "
+    },
+    "myai-ninja": {
+        "square": "  ",
+        "long": "  "
+    },
+    "mycyclopedia": {
+        "square": "  ",
+        "long": "  "
+    },
+    "myfit-ai": {
+        "square": "  ",
+        "long": "  "
+    },
+    "myfitchecker": {
+        "square": "  ",
+        "long": "  "
+    },
+    "mygoodtape": {
+        "square": "  ",
+        "long": "  "
+    },
+    "myko-ai": {
+        "square": "  ",
+        "long": "  "
+    },
+    "mylens-ai": {
+        "square": "  ",
+        "long": "  "
+    },
+    "mylessonpal": {
+        "square": "  ",
+        "long": "  "
+    },
+    "mymind": {
+        "square": "  ",
+        "long": "  "
+    },
+    "myndmap": {
+        "square": "  ",
+        "long": "  "
+    },
+    "myprint-ai": {
+        "square": "  ",
+        "long": "  "
+    },
+    "mystorica": {
+        "square": "  ",
+        "long": "  "
+    },
+    "mytarotai": {
+        "square": "  ",
+        "long": "  "
+    },
+    "myvocal": {
+        "square": "  ",
+        "long": "  "
+    },
+    "mywaifus": {
+        "square": "  ",
+        "long": "  "
+    },
+    "nack-ai": {
+        "square": "  ",
+        "long": "  "
+    },
+    "name-generator": {
+        "square": "  ",
+        "long": "  "
+    },
+    "namedbyai": {
+        "square": "  ",
+        "long": "  "
+    },
+    "namelix": {
+        "square": "  ",
+        "long": "  "
+    },
+    "namemancer": {
+        "square": "  ",
+        "long": "  "
+    },
+    "namique": {
+        "square": "  ",
+        "long": "  "
+    },
+    "narraive": {
+        "square": "  ",
+        "long": "  "
+    },
+    "neevaai": {
+        "square": "  ",
+        "long": "  "
+    },
+    "neferdata": {
+        "square": "  ",
+        "long": "  "
+    },
+    "nero-face-animation": {
+        "square": "  ",
+        "long": "  "
+    },
+    "nero-image-upscaler": {
+        "square": "  ",
+        "long": "  "
+    },
+    "neuralcanvas": {
+        "square": "  ",
+        "long": "  "
+    },
+    "neuraltext": {
+        "square": "  ",
+        "long": "  "
+    },
+    "neurobit": {
+        "square": "  ",
+        "long": "  "
+    },
+    "never": {
+        "square": "  ",
+        "long": "  "
+    },
+    "newsai-me": {
+        "square": "  ",
+        "long": "  "
+    },
+    "newsdeck-from-onesub": {
+        "square": "  ",
+        "long": "  "
+    },
+    "newsnotfound": {
+        "square": "  ",
+        "long": "  "
+    },
+    "nextatlas-generate": {
+        "square": "  ",
+        "long": "  "
+    },
+    "nexusgpt": {
+        "square": "  ",
+        "long": "  "
+    },
+    "nichebot": {
+        "square": "  ",
+        "long": "  "
+    },
+    "nichess": {
+        "square": "  ",
+        "long": "  "
+    },
+    "nmkd-stable-diffusion": {
+        "square": "  ",
+        "long": "  "
+    },
+    "noagi-chat": {
+        "square": "  ",
+        "long": "  "
+    },
+    "noiselith": {
+        "square": "  ",
+        "long": "  "
+    },
+    "nolanai": {
+        "square": "  ",
+        "long": "  "
+    },
+    "nolej": {
+        "square": "  ",
+        "long": "  "
+    },
+    "nolimit-ai": {
+        "square": "  ",
+        "long": "  "
+    },
+    "nomi-ai": {
+        "square": "  ",
+        "long": "  "
+    },
+    "noodl": {
+        "square": "  ",
+        "long": "  "
+    },
+    "noowai": {
+        "square": "  ",
+        "long": "  "
+    },
+    "nostress": {
+        "square": "  ",
+        "long": "  "
+    },
+    "not-a-person": {
+        "square": "  ",
+        "long": "  "
+    },
+    "notedly": {
+        "square": "  ",
+        "long": "  "
+    },
+    "notionsmith": {
+        "square": "  ",
+        "long": "  "
+    },
+    "nova-a-i": {
+        "square": "  ",
+        "long": "  "
+    },
+    "novelai": {
+        "square": "  ",
+        "long": "  "
+    },
+    "noworry-ai-psychologist": {
+        "square": "  ",
+        "long": "  "
+    },
+    "nowy": {
+        "square": "  ",
+        "long": "  "
+    },
+    "numerous": {
+        "square": "  ",
+        "long": "  "
+    },
+    "nuse": {
+        "square": "  ",
+        "long": "  "
+    },
+    "nutriadmin": {
+        "square": "  ",
+        "long": "  "
+    },
+    "nuz": {
+        "square": "  ",
+        "long": "  "
+    },
+    "nyx-gallery": {
+        "square": "  ",
+        "long": "  "
+    },
+    "octane-ai": {
+        "square": "  ",
+        "long": "  "
+    },
+    "octiai": {
+        "square": "  ",
+        "long": "  "
+    },
+    "octopus": {
+        "square": "  ",
+        "long": "  "
+    },
+    "oda-studio": {
+        "square": "  ",
+        "long": "  "
+    },
+    "odin": {
+        "square": "  ",
+        "long": "  "
+    },
+    "ollama": {
+        "square": "  ",
+        "long": "  "
+    },
+    "olympia": {
+        "square": "  ",
+        "long": "  "
+    },
+    "omnigpt": {
+        "square": "  ",
+        "long": "  "
+    },
+    "omniinfer": {
+        "square": "  ",
+        "long": "  "
+    },
+    "omnisets": {
+        "square": "  ",
+        "long": "  "
+    },
+    "oneclickarticlecreator": {
+        "square": "  ",
+        "long": "  "
+    },
+    "onesub": {
+        "square": "  ",
+        "long": "  "
+    },
+    "onlybabes-ai": {
+        "square": "  ",
+        "long": "  "
+    },
+    "openai-bot": {
+        "square": "  ",
+        "long": "  "
+    },
+    "openai-study-buddy": {
+        "square": "  ",
+        "long": "  "
+    },
+    "openart-photo-booth": {
+        "square": "  ",
+        "long": "  "
+    },
+    "openchat": {
+        "square": "  ",
+        "long": "  "
+    },
+    "opendream": {
+        "square": "  ",
+        "long": "  "
+    },
+    "openjourney-bot": {
+        "square": "  ",
+        "long": "  "
+    },
+    "openread": {
+        "square": "  ",
+        "long": "  "
+    },
+    "openrep": {
+        "square": "  ",
+        "long": "  "
+    },
+    "opinly": {
+        "square": "  ",
+        "long": "  "
+    },
+    "opnbx-ai": {
+        "square": "  ",
+        "long": "  "
+    },
+    "opsberry": {
+        "square": "  ",
+        "long": "  "
+    },
+    "optitalk": {
+        "square": "  ",
+        "long": "  "
+    },
+    "opus-clip": {
+        "square": "  ",
+        "long": "  "
+    },
+    "oracle": {
+        "square": "  ",
+        "long": "  "
+    },
+    "orb-producer": {
+        "square": "  ",
+        "long": "  "
+    },
+    "originality": {
+        "square": "  ",
+        "long": "  "
+    },
+    "ortusbuddy": {
+        "square": "  ",
+        "long": "  "
+    },
+    "otheryou": {
+        "square": "  ",
+        "long": "  "
+    },
+    "outboundly": {
+        "square": "  ",
+        "long": "  "
+    },
+    "outdone-v2": {
+        "square": "  ",
+        "long": "  "
+    },
+    "pagefelt": {
+        "square": "  ",
+        "long": "  "
+    },
+    "pagegenie": {
+        "square": "  ",
+        "long": "  "
+    },
+    "pagegpt": {
+        "square": "  ",
+        "long": "  "
+    },
+    "paige": {
+        "square": "  ",
+        "long": "  "
+    },
+    "painta": {
+        "square": "  ",
+        "long": "  "
+    },
+    "palette": {
+        "square": "  ",
+        "long": "  "
+    },
+    "pandachat": {
+        "square": "  ",
+        "long": "  "
+    },
+    "pandas-make": {
+        "square": "  ",
+        "long": "  "
+    },
+    "paperclips-copilot": {
+        "square": "  ",
+        "long": "  "
+    },
+    "papertalk": {
+        "square": "  ",
+        "long": "  "
+    },
+    "paradot": {
+        "square": "  ",
+        "long": "  "
+    },
+    "paragraph-ai": {
+        "square": "  ",
+        "long": "  "
+    },
+    "paralegal-ai": {
+        "square": "  ",
+        "long": "  "
+    },
+    "parea": {
+        "square": "  ",
+        "long": "  "
+    },
+    "parseur": {
+        "square": "  ",
+        "long": "  "
+    },
+    "parsio": {
+        "square": "  ",
+        "long": "  "
+    },
+    "pawsome-namer": {
+        "square": "  ",
+        "long": "  "
+    },
+    "pawtrait-studio": {
+        "square": "  ",
+        "long": "  "
+    },
+    "pdf-pals-chatpdf-on-mac": {
+        "square": "  ",
+        "long": "  "
+    },
+    "pdf-talk": {
+        "square": "  ",
+        "long": "  "
+    },
+    "pdf-translator": {
+        "square": "  ",
+        "long": "  "
+    },
+    "pdf2gpt": {
+        "square": "  ",
+        "long": "  "
+    },
+    "pdfconvo": {
+        "square": "  ",
+        "long": "  "
+    },
+    "pdfgpt": {
+        "square": "  ",
+        "long": "  "
+    },
+    "pdfpeer": {
+        "square": "  ",
+        "long": "  "
+    },
+    "peach-app": {
+        "square": "  ",
+        "long": "  "
+    },
+    "penparrot": {
+        "square": "  ",
+        "long": "  "
+    },
+    "pensieve": {
+        "square": "  ",
+        "long": "  "
+    },
+    "pentest-copilot": {
+        "square": "  ",
+        "long": "  "
+    },
+    "peppertype-ai": {
+        "square": "  ",
+        "long": "  "
+    },
+    "perfectessaywriter": {
+        "square": "  ",
+        "long": "  "
+    },
+    "permar-ai": {
+        "square": "  ",
+        "long": "  "
+    },
+    "perplexity-ai": {
+        "square": "  ",
+        "long": "  "
+    },
+    "personal-replit-ghostwriter": {
+        "square": "  ",
+        "long": "  "
+    },
+    "personalities-me": {
+        "square": "  ",
+        "long": "  "
+    },
+    "personaxpress": {
+        "square": "  ",
+        "long": "  "
+    },
+    "petalica-paint": {
+        "square": "  ",
+        "long": "  "
+    },
+    "petals": {
+        "square": "  ",
+        "long": "  "
+    },
+    "pezzo-ai": {
+        "square": "  ",
+        "long": "  "
+    },
+    "philosophy": {
+        "square": "  ",
+        "long": "  "
+    },
+    "phind": {
+        "square": "  ",
+        "long": "  "
+    },
+    "phot-ai": {
+        "square": "  ",
+        "long": "  "
+    },
+    "photo-ai-studio": {
+        "square": "  ",
+        "long": "  "
+    },
+    "photo-studio": {
+        "square": "  ",
+        "long": "  "
+    },
+    "photo-to-cartoon": {
+        "square": "  ",
+        "long": "  "
+    },
+    "photoai": {
+        "square": "  ",
+        "long": "  "
+    },
+    "photodel": {
+        "square": "  ",
+        "long": "  "
+    },
+    "photofairy": {
+        "square": "  ",
+        "long": "  "
+    },
+    "photor-ai": {
+        "square": "  ",
+        "long": "  "
+    },
+    "photoshot": {
+        "square": "  ",
+        "long": "  "
+    },
+    "photostockeditor": {
+        "square": "  ",
+        "long": "  "
+    },
+    "phototag-ai": {
+        "square": "  ",
+        "long": "  "
+    },
+    "pi": {
+        "square": "  ",
+        "long": "  "
+    },
+    "picapiu": {
+        "square": "  ",
+        "long": "  "
+    },
+    "picavatar": {
+        "square": "  ",
+        "long": "  "
+    },
+    "picker-ai": {
+        "square": "  ",
+        "long": "  "
+    },
+    "pico": {
+        "square": "  ",
+        "long": "  "
+    },
+    "pics-enhancer": {
+        "square": "  ",
+        "long": "  "
+    },
+    "picsart": {
+        "square": "  ",
+        "long": "  "
+    },
+    "picso": {
+        "square": "  ",
+        "long": "  "
+    },
+    "pictales": {
+        "square": "  ",
+        "long": "  "
+    },
+    "pictodream": {
+        "square": "  ",
+        "long": "  "
+    },
+    "pictorial": {
+        "square": "  ",
+        "long": "  "
+    },
+    "picverseai": {
+        "square": "  ",
+        "long": "  "
+    },
+    "piggy-magic": {
+        "square": "  ",
+        "long": "  "
+    },
+    "piggy-quiz-maker": {
+        "square": "  ",
+        "long": "  "
+    },
+    "pikup-ai": {
+        "square": "  ",
+        "long": "  "
+    },
+    "pillowtalks-chat": {
+        "square": "  ",
+        "long": "  "
+    },
+    "pimyes": {
+        "square": "  ",
+        "long": "  "
+    },
+    "pinbot": {
+        "square": "  ",
+        "long": "  "
+    },
+    "pitch-patterns": {
+        "square": "  ",
+        "long": "  "
+    },
+    "pitchgrade": {
+        "square": "  ",
+        "long": "  "
+    },
+    "pitchyouridea": {
+        "square": "  ",
+        "long": "  "
+    },
+    "pixar-ai-posters": {
+        "square": "  ",
+        "long": "  "
+    },
+    "pixelhunter": {
+        "square": "  ",
+        "long": "  "
+    },
+    "pixelpet": {
+        "square": "  ",
+        "long": "  "
+    },
+    "pixels2flutter": {
+        "square": "  ",
+        "long": "  "
+    },
+    "pixelz-ai": {
+        "square": "  ",
+        "long": "  "
+    },
+    "pixiebrix": {
+        "square": "  ",
+        "long": "  "
+    },
+    "plan-by-ixigo": {
+        "square": "  ",
+        "long": "  "
+    },
+    "plantrips": {
+        "square": "  ",
+        "long": "  "
+    },
+    "player2-tax": {
+        "square": "  ",
+        "long": "  "
+    },
+    "playlistai": {
+        "square": "  ",
+        "long": "  "
+    },
+    "playtext": {
+        "square": "  ",
+        "long": "  "
+    },
+    "plazmapunk": {
+        "square": "  ",
+        "long": "  "
+    },
+    "please-don-t-code": {
+        "square": "  ",
+        "long": "  "
+    },
+    "pluto": {
+        "square": "  ",
+        "long": "  "
+    },
+    "pocket-hansei": {
+        "square": "  ",
+        "long": "  "
+    },
+    "podai": {
+        "square": "  ",
+        "long": "  "
+    },
+    "podcast-disclosed": {
+        "square": "  ",
+        "long": "  "
+    },
+    "poddy": {
+        "square": "  ",
+        "long": "  "
+    },
+    "podnotes": {
+        "square": "  ",
+        "long": "  "
+    },
+    "podshorty": {
+        "square": "  ",
+        "long": "  "
+    },
+    "podstash": {
+        "square": "  ",
+        "long": "  "
+    },
+    "poly-ai": {
+        "square": "  ",
+        "long": "  "
+    },
+    "ponzu-gg": {
+        "square": "  ",
+        "long": "  "
+    },
+    "portrait-by-vana": {
+        "square": "  ",
+        "long": "  "
+    },
+    "post-genie": {
+        "square": "  ",
+        "long": "  "
+    },
+    "post-genius": {
+        "square": "  ",
+        "long": "  "
+    },
+    "postys": {
+        "square": "  ",
+        "long": "  "
+    },
+    "potato-trade": {
+        "square": "  ",
+        "long": "  "
+    },
+    "powerdrill": {
+        "square": "  ",
+        "long": "  "
+    },
+    "powerly": {
+        "square": "  ",
+        "long": "  "
+    },
+    "pptx": {
+        "square": "  ",
+        "long": "  "
+    },
+    "practice-interview": {
+        "square": "  ",
+        "long": "  "
+    },
+    "practicetalking": {
+        "square": "  ",
+        "long": "  "
+    },
+    "pragma": {
+        "square": "  ",
+        "long": "  "
+    },
+    "praktika": {
+        "square": "  ",
+        "long": "  "
+    },
+    "praxy-ai": {
+        "square": "  ",
+        "long": "  "
+    },
+    "predis": {
+        "square": "  ",
+        "long": "  "
+    },
+    "prepar": {
+        "square": "  ",
+        "long": "  "
+    },
+    "preppally-resume-ai": {
+        "square": "  ",
+        "long": "  "
+    },
+    "prepsup": {
+        "square": "  ",
+        "long": "  "
+    },
+    "presentationgpt": {
+        "square": "  ",
+        "long": "  "
+    },
+    "presentationsai": {
+        "square": "  ",
+        "long": "  "
+    },
+    "prezo": {
+        "square": "  ",
+        "long": "  "
+    },
+    "primeprofile": {
+        "square": "  ",
+        "long": "  "
+    },
+    "privatgpt": {
+        "square": "  ",
+        "long": "  "
+    },
+    "privee-fun": {
+        "square": "  ",
+        "long": "  "
+    },
+    "process-st": {
+        "square": "  ",
+        "long": "  "
+    },
+    "prodia": {
+        "square": "  ",
+        "long": "  "
+    },
+    "productai": {
+        "square": "  ",
+        "long": "  "
+    },
+    "productshots": {
+        "square": "  ",
+        "long": "  "
+    },
+    "profile-pro": {
+        "square": "  ",
+        "long": "  "
+    },
+    "profilepicture-ai": {
+        "square": "  ",
+        "long": "  "
+    },
+    "profilepro": {
+        "square": "  ",
+        "long": "  "
+    },
+    "prome": {
+        "square": "  ",
+        "long": "  "
+    },
+    "prometh": {
+        "square": "  ",
+        "long": "  "
+    },
+    "prompt-club": {
+        "square": "  ",
+        "long": "  "
+    },
+    "prompt-refine": {
+        "square": "  ",
+        "long": "  "
+    },
+    "prompta-app": {
+        "square": "  ",
+        "long": "  "
+    },
+    "promptads": {
+        "square": "  ",
+        "long": "  "
+    },
+    "promptchainer": {
+        "square": "  ",
+        "long": "  "
+    },
+    "prompter": {
+        "square": "  ",
+        "long": "  "
+    },
+    "prompthackers": {
+        "square": "  ",
+        "long": "  "
+    },
+    "promptheus": {
+        "square": "  ",
+        "long": "  "
+    },
+    "prompthunt": {
+        "square": "  ",
+        "long": "  "
+    },
+    "promptinterface-ai": {
+        "square": "  ",
+        "long": "  "
+    },
+    "promptperfect-xyz": {
+        "square": "  ",
+        "long": "  "
+    },
+    "promptscaper": {
+        "square": "  ",
+        "long": "  "
+    },
+    "pronounce": {
+        "square": "  ",
+        "long": "  "
+    },
+    "proposalsgenerator": {
+        "square": "  ",
+        "long": "  "
+    },
+    "proseable": {
+        "square": "  ",
+        "long": "  "
+    },
+    "prosona": {
+        "square": "  ",
+        "long": "  "
+    },
+    "prototext": {
+        "square": "  ",
+        "long": "  "
+    },
+    "protowallet": {
+        "square": "  ",
+        "long": "  "
+    },
+    "pseudoeditor": {
+        "square": "  ",
+        "long": "  "
+    },
+    "punchlines": {
+        "square": "  ",
+        "long": "  "
+    },
+    "pxl8": {
+        "square": "  ",
+        "long": "  "
+    },
+    "q-slack-chatbot": {
+        "square": "  ",
+        "long": "  "
+    },
+    "qet-ai": {
+        "square": "  ",
+        "long": "  "
+    },
+    "qlip": {
+        "square": "  ",
+        "long": "  "
+    },
+    "qosma": {
+        "square": "  ",
+        "long": "  "
+    },
+    "qrcode1s": {
+        "square": "  ",
+        "long": "  "
+    },
+    "qrdiffusion": {
+        "square": "  ",
+        "long": "  "
+    },
+    "questgen": {
+        "square": "  ",
+        "long": "  "
+    },
+    "questionai": {
+        "square": "  ",
+        "long": "  "
+    },
+    "questionyoutube": {
+        "square": "  ",
+        "long": "  "
+    },
+    "quick-ads": {
+        "square": "  ",
+        "long": "  "
+    },
+    "quickie": {
+        "square": "  ",
+        "long": "  "
+    },
+    "quicklines": {
+        "square": "  ",
+        "long": "  "
+    },
+    "quicktask": {
+        "square": "  ",
+        "long": "  "
+    },
+    "quillbot-paraphraser": {
+        "square": "  ",
+        "long": "  "
+    },
+    "quilt-create": {
+        "square": "  ",
+        "long": "  "
+    },
+    "quino": {
+        "square": "  ",
+        "long": "  "
+    },
+    "quiz-wizard": {
+        "square": "  ",
+        "long": "  "
+    },
+    "quizbot": {
+        "square": "  ",
+        "long": "  "
+    },
+    "quizgecko": {
+        "square": "  ",
+        "long": "  "
+    },
+    "quizwhiz": {
+        "square": "  ",
+        "long": "  "
+    },
+    "rapli": {
+        "square": "  ",
+        "long": "  "
+    },
+    "rappingai": {
+        "square": "  ",
+        "long": "  "
+    },
+    "reachout": {
+        "square": "  ",
+        "long": "  "
+    },
+    "react-gpt-designer": {
+        "square": "  ",
+        "long": "  "
+    },
+    "readspeaker-ai": {
+        "square": "  ",
+        "long": "  "
+    },
+    "ready-to-send": {
+        "square": "  ",
+        "long": "  "
+    },
+    "realismgpt": {
+        "square": "  ",
+        "long": "  "
+    },
+    "rebeccai": {
+        "square": "  ",
+        "long": "  "
+    },
+    "recall-ai": {
+        "square": "  ",
+        "long": "  "
+    },
+    "recapiogpt": {
+        "square": "  ",
+        "long": "  "
+    },
+    "recapit-summaries": {
+        "square": "  ",
+        "long": "  "
+    },
+    "recast": {
+        "square": "  ",
+        "long": "  "
+    },
+    "recraft": {
+        "square": "  ",
+        "long": "  "
+    },
+    "rediron-bookmate": {
+        "square": "  ",
+        "long": "  "
+    },
+    "reemix": {
+        "square": "  ",
+        "long": "  "
+    },
+    "reface": {
+        "square": "  ",
+        "long": "  "
+    },
+    "reflect-ai": {
+        "square": "  ",
+        "long": "  "
+    },
+    "reflectr": {
+        "square": "  ",
+        "long": "  "
+    },
+    "refraction": {
+        "square": "  ",
+        "long": "  "
+    },
+    "reimage-ai": {
+        "square": "  ",
+        "long": "  "
+    },
+    "reimagine": {
+        "square": "  ",
+        "long": "  "
+    },
+    "religo": {
+        "square": "  ",
+        "long": "  "
+    },
+    "remixmyface": {
+        "square": "  ",
+        "long": "  "
+    },
+    "remove-bg": {
+        "square": "  ",
+        "long": "  "
+    },
+    "removebg-dev": {
+        "square": "  ",
+        "long": "  "
+    },
+    "rephrasee": {
+        "square": "  ",
+        "long": "  "
+    },
+    "replika": {
+        "square": "  ",
+        "long": "  "
+    },
+    "reply-muse": {
+        "square": "  ",
+        "long": "  "
+    },
+    "replymind": {
+        "square": "  ",
+        "long": "  "
+    },
+    "replyze": {
+        "square": "  ",
+        "long": "  "
+    },
+    "repromptify": {
+        "square": "  ",
+        "long": "  "
+    },
+    "reroom": {
+        "square": "  ",
+        "long": "  "
+    },
+    "research-in-english": {
+        "square": "  ",
+        "long": "  "
+    },
+    "research-studio": {
+        "square": "  ",
+        "long": "  "
+    },
+    "resemble-ai": {
+        "square": "  ",
+        "long": "  "
+    },
+    "resleeve": {
+        "square": "  ",
+        "long": "  "
+    },
+    "respeecher": {
+        "square": "  ",
+        "long": "  "
+    },
+    "restorephotos": {
+        "square": "  ",
+        "long": "  "
+    },
+    "resumaker": {
+        "square": "  ",
+        "long": "  "
+    },
+    "resumatic": {
+        "square": "  ",
+        "long": "  "
+    },
+    "resume-revival": {
+        "square": "  ",
+        "long": "  "
+    },
+    "resume-studio": {
+        "square": "  ",
+        "long": "  "
+    },
+    "resume-trick": {
+        "square": "  ",
+        "long": "  "
+    },
+    "resumemaker-online": {
+        "square": "  ",
+        "long": "  "
+    },
+    "revochat": {
+        "square": "  ",
+        "long": "  "
+    },
+    "rewind": {
+        "square": "  ",
+        "long": "  "
+    },
+    "rexipie": {
+        "square": "  ",
+        "long": "  "
+    },
+    "ribbo": {
+        "square": "  ",
+        "long": "  "
+    },
+    "riffusion": {
+        "square": "  ",
+        "long": "  "
+    },
+    "ripx": {
+        "square": "  ",
+        "long": "  "
+    },
+    "rivalflow": {
+        "square": "  ",
+        "long": "  "
+    },
+    "rizemail": {
+        "square": "  ",
+        "long": "  "
+    },
+    "roastmyresu-me": {
+        "square": "  ",
+        "long": "  "
+    },
+    "roboresponseai": {
+        "square": "  ",
+        "long": "  "
+    },
+    "rocket-ai": {
+        "square": "  ",
+        "long": "  "
+    },
+    "roketfy": {
+        "square": "  ",
+        "long": "  "
+    },
+    "roleplai": {
+        "square": "  ",
+        "long": "  "
+    },
+    "roll": {
+        "square": "  ",
+        "long": "  "
+    },
+    "roomgpt": {
+        "square": "  ",
+        "long": "  "
+    },
+    "rosebud-journal": {
+        "square": "  ",
+        "long": "  "
+    },
+    "routeperfect": {
+        "square": "  ",
+        "long": "  "
+    },
+    "rundiffusion": {
+        "square": "  ",
+        "long": "  "
+    },
+    "runway-gen-2": {
+        "square": "  ",
+        "long": "  "
+    },
+    "rupt": {
+        "square": "  ",
+        "long": "  "
+    },
+    "rythmex": {
+        "square": "  ",
+        "long": "  "
+    },
+    "safegpt": {
+        "square": "  ",
+        "long": "  "
+    },
+    "salam-chat": {
+        "square": "  ",
+        "long": "  "
+    },
+    "40h": {
+        "square": "  ",
+        "long": "  "
+    },
+    "adcreative": {
+        "square": "  ",
+        "long": "  "
+    },
+    "agent4": {
+        "square": "  ",
+        "long": "  "
+    },
+    "agentgpt": {
+        "square": "  ",
+        "long": "  "
+    },
+    "ai-headshots": {
+        "square": "  ",
+        "long": "  "
+    },
+    "ai-image-upscaler": {
+        "square": "  ",
+        "long": "  "
+    },
+    "ai-image-wizard": {
+        "square": "  ",
+        "long": "  "
+    },
+    "ai-jingle-generator": {
+        "square": "  ",
+        "long": "  "
+    },
+    "ai-portrait": {
+        "square": "  ",
+        "long": "  "
+    },
+    "ai-shakespeare": {
+        "square": "  ",
+        "long": "  "
+    },
+    "ai-wallpapers-generator": {
+        "square": "  ",
+        "long": "  "
+    },
+    "ai-yearbook-art": {
+        "square": "  ",
+        "long": "  "
+    },
+    "ai-youtube-summarizer": {
+        "square": "  ",
+        "long": "  "
+    },
+    "aigifs": {
+        "square": "  ",
+        "long": "  "
+    },
+    "aigpt": {
+        "square": "  ",
+        "long": "  "
+    },
+    "animateddrawings-by-meta": {
+        "square": "  ",
+        "long": "  "
+    },
+    "artbot": {
+        "square": "  ",
+        "long": "  "
+    },
+    "autogpt": {
+        "square": "  ",
+        "long": "  "
+    },
+    "beducated": {
+        "square": "  ",
+        "long": "  "
+    },
+    "beedone": {
+        "square": "  ",
+        "long": "  "
+    },
+    "beepbooply": {
+        "square": "  ",
+        "long": "  "
+    },
+    "bertha-ai": {
+        "square": "  ",
+        "long": "  "
+    },
+    "bespokefriends": {
+        "square": "  ",
+        "long": "  "
+    },
+    "bloom": {
+        "square": "  ",
+        "long": "  "
+    },
+    "bomml": {
+        "square": "  ",
+        "long": "  "
+    },
+    "bosco": {
+        "square": "  ",
+        "long": "  "
+    },
+    "bot3-ai": {
+        "square": "  ",
+        "long": "  "
+    },
+    "botify": {
+        "square": "  ",
+        "long": "  "
+    },
+    "capcut-online-creative-suite": {
+        "square": "  ",
+        "long": "  "
+    },
+    "captions": {
+        "square": "  ",
+        "long": "  "
+    },
+    "carousel-generator": {
+        "square": "  ",
+        "long": "  "
+    },
+    "cleffy": {
+        "square": "  ",
+        "long": "  "
+    },
+    "commander-gpt": {
+        "square": "  ",
+        "long": "  "
+    },
+    "comment-generator": {
+        "square": "  ",
+        "long": "  "
+    },
+    "conceptmap-ai": {
+        "square": "  ",
+        "long": "  "
+    },
+    "conker": {
+        "square": "  ",
+        "long": "  "
+    },
+    "copy-ai": {
+        "square": "  ",
+        "long": "  "
+    },
+    "coursebox": {
+        "square": "  ",
+        "long": "  "
+    },
+    "coursegen": {
+        "square": "  ",
+        "long": "  "
+    },
+    "coverletter-gpt": {
+        "square": "  ",
+        "long": "  "
+    },
+    "covrltr": {
+        "square": "  ",
+        "long": "  "
+    },
+    "createdraft": {
+        "square": "  ",
+        "long": "  "
+    },
+    "d-id": {
+        "square": "  ",
+        "long": "  "
+    },
+    "dataku": {
+        "square": "  ",
+        "long": "  "
+    },
+    "dating-profile-pro": {
+        "square": "  ",
+        "long": "  "
+    },
+    "decisionmentor": {
+        "square": "  ",
+        "long": "  "
+    },
+    "deep-art-effects": {
+        "square": "  ",
+        "long": "  "
+    },
+    "deep-image": {
+        "square": "  ",
+        "long": "  "
+    },
+    "deep-nostalgia": {
+        "square": "  ",
+        "long": "  "
+    },
+    "deepfake-detector": {
+        "square": "  ",
+        "long": "  "
+    },
+    "disney-ai-poster": {
+        "square": "  ",
+        "long": "  "
+    },
+    "dispute-ai": {
+        "square": "  ",
+        "long": "  "
+    },
+    "docanalyzer": {
+        "square": "  ",
+        "long": "  "
+    },
+    "docentpro": {
+        "square": "  ",
+        "long": "  "
+    },
+    "docgpt-io": {
+        "square": "  ",
+        "long": "  "
+    },
+    "domyshoot": {
+        "square": "  ",
+        "long": "  "
+    },
+    "draftsai": {
+        "square": "  ",
+        "long": "  "
+    },
+    "dragan": {
+        "square": "  ",
+        "long": "  "
+    },
+    "drawing-prompt": {
+        "square": "  ",
+        "long": "  "
+    },
+    "dreamgen": {
+        "square": "  ",
+        "long": "  "
+    },
+    "durable-ai-site-builder": {
+        "square": "  ",
+        "long": "  "
+    },
+    "easterlabs": {
+        "square": "  ",
+        "long": "  "
+    },
+    "easyseo-ai": {
+        "square": "  ",
+        "long": "  "
+    },
+    "editapp": {
+        "square": "  ",
+        "long": "  "
+    },
+    "eloise": {
+        "square": "  ",
+        "long": "  "
+    },
+    "evolup": {
+        "square": "  ",
+        "long": "  "
+    },
+    "eyeware-beam": {
+        "square": "  ",
+        "long": "  "
+    },
+    "fabfab-ai": {
+        "square": "  ",
+        "long": "  "
+    },
+    "faceapp": {
+        "square": "  ",
+        "long": "  "
+    },
+    "faind": {
+        "square": "  ",
+        "long": "  "
+    },
+    "final-touch": {
+        "square": "  ",
+        "long": "  "
+    },
+    "finchat": {
+        "square": "  ",
+        "long": "  "
+    },
+    "fixmebot": {
+        "square": "  ",
+        "long": "  "
+    },
+    "flexgpt": {
+        "square": "  ",
+        "long": "  "
+    },
+    "flot-ai": {
+        "square": "  ",
+        "long": "  "
+    },
+    "flowchai": {
+        "square": "  ",
+        "long": "  "
+    },
+    "flowpoint": {
+        "square": "  ",
+        "long": "  "
+    },
+    "flushai": {
+        "square": "  ",
+        "long": "  "
+    },
+    "fontjoy": {
+        "square": "  ",
+        "long": "  "
+    },
+    "football-ai": {
+        "square": "  ",
+        "long": "  "
+    },
+    "frase-io": {
+        "square": "  ",
+        "long": "  "
+    },
+    "free-music-demixer": {
+        "square": "  ",
+        "long": "  "
+    },
+    "gamelight-ai-backed-mobile-marketing": {
+        "square": "  ",
+        "long": "  "
+    },
+    "getresponse": {
+        "square": "  ",
+        "long": "  "
+    },
+    "gptinf": {
+        "square": "  ",
+        "long": "  "
+    },
+    "hitpaw-video-enhancer": {
+        "square": "  ",
+        "long": "  "
+    },
+    "hitpaw-voice-changer": {
+        "square": "  ",
+        "long": "  "
+    },
+    "homedesignsai": {
+        "square": "  ",
+        "long": "  "
+    },
+    "hookgen": {
+        "square": "  ",
+        "long": "  "
+    },
+    "ideogram": {
+        "square": "  ",
+        "long": "  "
+    },
+    "illa": {
+        "square": "  ",
+        "long": "  "
+    },
+    "impulse-ai": {
+        "square": "  ",
+        "long": "  "
+    },
+    "inksprout-video": {
+        "square": "  ",
+        "long": "  "
+    },
+    "inlinks": {
+        "square": "  ",
+        "long": "  "
+    },
+    "instant": {
+        "square": "  ",
+        "long": "  "
+    },
+    "insummary": {
+        "square": "  ",
+        "long": "  "
+    },
+    "interview-jarvis": {
+        "square": "  ",
+        "long": "  "
+    },
+    "jan": {
+        "square": "  ",
+        "long": "  "
+    },
+    "jasper-ai": {
+        "square": "  ",
+        "long": "  "
+    },
+    "jellypod": {
+        "square": "  ",
+        "long": "  "
+    },
+    "jobwizard": {
+        "square": "  ",
+        "long": "  "
+    },
+    "justblog": {
+        "square": "  ",
+        "long": "  "
+    },
+    "justvise": {
+        "square": "  ",
+        "long": "  "
+    },
+    "kardsai": {
+        "square": "  ",
+        "long": "  "
+    },
+    "keywordsearch": {
+        "square": "  ",
+        "long": "  "
+    },
+    "kinky-ai": {
+        "square": "  ",
+        "long": "  "
+    },
+    "kiwi-video": {
+        "square": "  ",
+        "long": "  "
+    },
+    "learn-xyz": {
+        "square": "  ",
+        "long": "  "
+    },
+    "local-falcon": {
+        "square": "  ",
+        "long": "  "
+    },
+    "logo-rank": {
+        "square": "  ",
+        "long": "  "
+    },
+    "looka": {
+        "square": "  ",
+        "long": "  "
+    },
+    "lutra-ai": {
+        "square": "  ",
+        "long": "  "
+    },
+    "make3d": {
+        "square": "  ",
+        "long": "  "
+    },
+    "makedraft": {
+        "square": "  ",
+        "long": "  "
+    },
+    "maze-guru": {
+        "square": "  ",
+        "long": "  "
+    },
+    "memecam": {
+        "square": "  ",
+        "long": "  "
+    },
+    "metaphor": {
+        "square": "  ",
+        "long": "  "
+    },
+    "metavoice-studio": {
+        "square": "  ",
+        "long": "  "
+    },
+    "mobirise": {
+        "square": "  ",
+        "long": "  "
+    },
+    "muah-ai": {
+        "square": "  ",
+        "long": "  "
+    },
+    "my-spicy-vanilla": {
+        "square": "  ",
+        "long": "  "
+    },
+    "nastia": {
+        "square": "  ",
+        "long": "  "
+    },
+    "oneclickhuman": {
+        "square": "  ",
+        "long": "  "
+    },
+    "onlywaifus": {
+        "square": "  ",
+        "long": "  "
+    },
+    "osum": {
+        "square": "  ",
+        "long": "  "
+    },
+    "oxolo": {
+        "square": "  ",
+        "long": "  "
+    },
+    "pantheon-ai": {
+        "square": "  ",
+        "long": "  "
+    },
+    "paperclip": {
+        "square": "  ",
+        "long": "  "
+    },
+    "papermark": {
+        "square": "  ",
+        "long": "  "
+    },
+    "paraphraser": {
+        "square": "  ",
+        "long": "  "
+    },
+    "parental-bot": {
+        "square": "  ",
+        "long": "  "
+    },
+    "parrot-ai": {
+        "square": "  ",
+        "long": "  "
+    },
+    "photo-to-anime": {
+        "square": "  ",
+        "long": "  "
+    },
+    "photoenhanceai": {
+        "square": "  ",
+        "long": "  "
+    },
+    "picai": {
+        "square": "  ",
+        "long": "  "
+    },
+    "pineapple-builder": {
+        "square": "  ",
+        "long": "  "
+    },
+    "pirr": {
+        "square": "  ",
+        "long": "  "
+    },
+    "pitchpower": {
+        "square": "  ",
+        "long": "  "
+    },
+    "pixai-art": {
+        "square": "  ",
+        "long": "  "
+    },
+    "pixverse": {
+        "square": "  ",
+        "long": "  "
+    },
+    "plus-ai": {
+        "square": "  ",
+        "long": "  "
+    },
+    "poetry-tips": {
+        "square": "  ",
+        "long": "  "
+    },
+    "poster-studio": {
+        "square": "  ",
+        "long": "  "
+    },
+    "postperfect": {
+        "square": "  ",
+        "long": "  "
+    },
+    "powerups": {
+        "square": "  ",
+        "long": "  "
+    },
+    "puppiesai": {
+        "square": "  ",
+        "long": "  "
+    },
+    "qrfiddle": {
+        "square": "  ",
+        "long": "  "
+    },
+    "qrx-codes": {
+        "square": "  ",
+        "long": "  "
+    },
+    "quandri": {
+        "square": "  ",
+        "long": "  "
+    },
+    "quick-creator": {
+        "square": "  ",
+        "long": "  "
+    },
+    "quickvid": {
+        "square": "  ",
+        "long": "  "
+    },
+    "random-face-generator": {
+        "square": "  ",
+        "long": "  "
+    },
+    "randomseed": {
+        "square": "  ",
+        "long": "  "
+    },
+    "rasgo": {
+        "square": "  ",
+        "long": "  "
+    },
+    "recapext": {
+        "square": "  ",
+        "long": "  "
+    },
+    "relogoai": {
+        "square": "  ",
+        "long": "  "
+    },
+    "remagineai": {
+        "square": "  ",
+        "long": "  "
+    },
+    "remail": {
+        "square": "  ",
+        "long": "  "
+    },
+    "rephrasely": {
+        "square": "  ",
+        "long": "  "
+    },
+    "reprompt": {
+        "square": "  ",
+        "long": "  "
+    },
+    "rerender-ai": {
+        "square": "  ",
+        "long": "  "
+    },
+    "resume-worded": {
+        "square": "  ",
+        "long": "  "
+    },
+    "resumebuild": {
+        "square": "  ",
+        "long": "  "
+    },
+    "resumeresponsegpt": {
+        "square": "  ",
+        "long": "  "
+    },
+    "reviewly": {
+        "square": "  ",
+        "long": "  "
+    },
+    "revocalize-ai": {
+        "square": "  ",
+        "long": "  "
+    },
+    "revrite": {
+        "square": "  ",
+        "long": "  "
+    },
+    "roughly": {
+        "square": "  ",
+        "long": "  "
+    },
+    "saveday": {
+        "square": "  ",
+        "long": "  "
+    },
+    "scholarcy": {
+        "square": "  ",
+        "long": "  "
+    },
+    "schoolhack": {
+        "square": "  ",
+        "long": "  "
+    },
+    "scispace": {
+        "square": "  ",
+        "long": "  "
+    },
+    "scisummary": {
+        "square": "  ",
+        "long": "  "
+    },
+    "scite": {
+        "square": "  ",
+        "long": "  "
+    },
+    "scribebuddy": {
+        "square": "  ",
+        "long": "  "
+    },
+    "scriptme": {
+        "square": "  ",
+        "long": "  "
+    },
+    "seaart": {
+        "square": "  ",
+        "long": "  "
+    },
+    "search-alkemy": {
+        "square": "  ",
+        "long": "  "
+    },
+    "semanticscholar": {
+        "square": "  ",
+        "long": "  "
+    },
+    "shopwithai": {
+        "square": "  ",
+        "long": "  "
+    },
+    "slidemaker": {
+        "square": "  ",
+        "long": "  "
+    },
+    "slidespilot": {
+        "square": "  ",
+        "long": "  "
+    },
+    "slumbr": {
+        "square": "  ",
+        "long": "  "
+    },
+    "songr": {
+        "square": "  ",
+        "long": "  "
+    },
+    "songtell": {
+        "square": "  ",
+        "long": "  "
+    },
+    "soundful": {
+        "square": "  ",
+        "long": "  "
+    },
+    "soundraw": {
+        "square": "  ",
+        "long": "  "
+    },
+    "speechki": {
+        "square": "  ",
+        "long": "  "
+    },
+    "spell-so": {
+        "square": "  ",
+        "long": "  "
+    },
+    "spellbook": {
+        "square": "  ",
+        "long": "  "
+    },
+    "spence": {
+        "square": "  ",
+        "long": "  "
+    },
+    "sphinx-mind": {
+        "square": "  ",
+        "long": "  "
+    },
+    "splash": {
+        "square": "  ",
+        "long": "  "
+    },
+    "sqlbuddy": {
+        "square": "  ",
+        "long": "  "
+    },
+    "stackbear": {
+        "square": "  ",
+        "long": "  "
+    },
+    "stockimg-ai": {
+        "square": "  ",
+        "long": "  "
+    },
+    "storia-lab": {
+        "square": "  ",
+        "long": "  "
+    },
+    "storyboardhero": {
+        "square": "  ",
+        "long": "  "
+    },
+    "storybooks": {
+        "square": "  ",
+        "long": "  "
+    },
+    "stripchats": {
+        "square": "  ",
+        "long": "  "
+    },
+    "studygpt": {
+        "square": "  ",
+        "long": "  "
+    },
+    "stunning": {
+        "square": "  ",
+        "long": "  "
+    },
+    "subject-line-generator": {
+        "square": "  ",
+        "long": "  "
+    },
+    "summify": {
+        "square": "  ",
+        "long": "  "
+    },
+    "supercreator-ai": {
+        "square": "  ",
+        "long": "  "
+    },
+    "superlines": {
+        "square": "  ",
+        "long": "  "
+    },
+    "superpower-gpt": {
+        "square": "  ",
+        "long": "  "
+    },
+    "swipesai": {
+        "square": "  ",
+        "long": "  "
+    },
+    "swot-analysis": {
+        "square": "  ",
+        "long": "  "
+    },
+    "synthesia": {
+        "square": "  ",
+        "long": "  "
+    },
+    "talenter": {
+        "square": "  ",
+        "long": "  "
+    },
+    "talk-to-books": {
+        "square": "  ",
+        "long": "  "
+    },
+    "talk-to-santa-cat": {
+        "square": "  ",
+        "long": "  "
+    },
+    "tattosai": {
+        "square": "  ",
+        "long": "  "
+    },
+    "tavern-of-azoth": {
+        "square": "  ",
+        "long": "  "
+    },
+    "teachally": {
+        "square": "  ",
+        "long": "  "
+    },
+    "textify-by-storia": {
+        "square": "  ",
+        "long": "  "
+    },
+    "ticketgenius": {
+        "square": "  ",
+        "long": "  "
+    },
+    "toastyroast": {
+        "square": "  ",
+        "long": "  "
+    },
+    "transcript-lol": {
+        "square": "  ",
+        "long": "  "
+    },
+    "travelnaut": {
+        "square": "  ",
+        "long": "  "
+    },
+    "tugan": {
+        "square": "  ",
+        "long": "  "
+    },
+    "tune-the-ads": {
+        "square": "  ",
+        "long": "  "
+    },
+    "turing-school": {
+        "square": "  ",
+        "long": "  "
+    },
+    "txt-muse": {
+        "square": "  ",
+        "long": "  "
+    },
+    "type-studio": {
+        "square": "  ",
+        "long": "  "
+    },
+    "typebar": {
+        "square": "  ",
+        "long": "  "
+    },
+    "unreadai": {
+        "square": "  ",
+        "long": "  "
+    },
+    "userevaluation": {
+        "square": "  ",
+        "long": "  "
+    },
+    "uxsniff": {
+        "square": "  ",
+        "long": "  "
+    },
+    "venturusai": {
+        "square": "  ",
+        "long": "  "
+    },
+    "videopoet-by-google": {
+        "square": "  ",
+        "long": "  "
+    },
+    "vidnoz": {
+        "square": "  ",
+        "long": "  "
+    },
+    "vidyo": {
+        "square": "  ",
+        "long": "  "
+    },
+    "viesus": {
+        "square": "  ",
+        "long": "  "
+    },
+    "viewit": {
+        "square": "  ",
+        "long": "  "
+    },
+    "virtual-house-flip": {
+        "square": "  ",
+        "long": "  "
+    },
+    "vispunk": {
+        "square": "  ",
+        "long": "  "
+    },
+    "voicepen": {
+        "square": "  ",
+        "long": "  "
+    },
+    "vokabeln": {
+        "square": "  ",
+        "long": "  "
+    },
+    "voyaj": {
+        "square": "  ",
+        "long": "  "
+    },
+    "vscoped": {
+        "square": "  ",
+        "long": "  "
+    },
+    "waitroom": {
+        "square": "  ",
+        "long": "  "
+    },
+    "wave-ai-note-taker-transcription-and-summary-tool": {
+        "square": "  ",
+        "long": "  "
+    },
+    "wavtool": {
+        "square": "  ",
+        "long": "  "
+    },
+    "webullar": {
+        "square": "  ",
+        "long": "  "
+    },
+    "what-font-is": {
+        "square": "  ",
+        "long": "  "
+    },
+    "wizdom": {
+        "square": "  ",
+        "long": "  "
+    },
+    "write-homes": {
+        "square": "  ",
+        "long": "  "
+    },
+    "xploro": {
+        "square": "  ",
+        "long": "  "
+    },
+    "youtalk": {
+        "square": "  ",
+        "long": "  "
+    },
+    "youtube-transcript-ai-summary": {
+        "square": "  ",
+        "long": "  "
+    },
+    "zencall": {
+        "square": "  ",
+        "long": "  "
+    },
+    "voge-by-metabrix": {
+        "square": "  ",
+        "long": "  "
+    },
+    "zerogpt-detector": {
+        "square": "  ",
+        "long": "  "
+    },
+    "founderpal": {
+        "square": "  ",
+        "long": "  "
+    },
+    "learnery": {
+        "square": "  ",
+        "long": "  "
+    },
+    "tinyeinstein": {
+        "square": "  ",
+        "long": "  "
+    },
+    "platoria": {
+        "square": "  ",
+        "long": "  "
+    },
+    "snackzai": {
+        "square": "  ",
+        "long": "  "
+    },
+    "shmooz": {
+        "square": "  ",
+        "long": "  "
+    },
+    "rendernet": {
+        "square": "  ",
+        "long": "  "
+    },
+    "symbiotai": {
+        "square": "  ",
+        "long": "  "
+    },
+    "videodubber": {
+        "square": "  ",
+        "long": "  "
+    },
+    "nsfw-js": {
+        "square": "  ",
+        "long": "  "
+    },
+    "uberduck": {
+        "square": "  ",
+        "long": "  "
+    },
+    "voice-crush": {
+        "square": "  ",
+        "long": "  "
+    },
+    "speechgen": {
+        "square": "  ",
+        "long": "  "
+    },
+    "coderabbit": {
+        "square": "  ",
+        "long": "  "
+    },
+    "supportal": {
+        "square": "  ",
+        "long": "  "
+    },
+    "braiv": {
+        "square": "  ",
+        "long": "  "
+    },
+    "captiongenerator": {
+        "square": "  ",
+        "long": "  "
+    },
+    "naturalreader": {
+        "square": "  ",
+        "long": "  "
+    },
+    "soofy": {
+        "square": "  ",
+        "long": "  "
+    },
+    "veed-io": {
+        "square": "  ",
+        "long": "  "
+    },
+    "inventai": {
+        "square": "  ",
+        "long": "  "
+    },
+    "yard-vision": {
+        "square": "  ",
+        "long": "  "
+    },
+    "seona": {
+        "square": "  ",
+        "long": "  "
+    },
+    "stack-ai": {
+        "square": "  ",
+        "long": "  "
+    },
+    "gopdf-10339": {
+        "square": "  ",
+        "long": "  "
+    },
+    "amper-ai": {
+        "square": "  ",
+        "long": "  "
+    },
+    "anime-ai-art": {
+        "square": "  ",
+        "long": "  "
+    },
+    "documind": {
+        "square": "  ",
+        "long": "  "
+    },
+    "proai": {
+        "square": "  ",
+        "long": "  "
+    },
+    "offline-chatgpt": {
+        "square": "  ",
+        "long": "  "
+    },
+    "teal-resume-builder": {
+        "square": "  ",
+        "long": "  "
+    },
+    "postgenerator": {
+        "square": "  ",
+        "long": "  "
+    },
+    "hitwit-ai": {
+        "square": "  ",
+        "long": "  "
+    },
+    "unfake": {
+        "square": "  ",
+        "long": "  "
+    },
+    "denoiser-by-tapeit": {
+        "square": "  ",
+        "long": "  "
+    },
+    "maya-ai": {
+        "square": "  ",
+        "long": "  "
+    },
+    "vgpt": {
+        "square": "  ",
+        "long": "  "
+    },
+    "visionstory": {
+        "square": "  ",
+        "long": "  "
+    },
+    "replyguy": {
+        "square": "  ",
+        "long": "  "
+    },
+    "gptmatch-me": {
+        "square": "  ",
+        "long": "  "
+    },
+    "tutorly": {
+        "square": "  ",
+        "long": "  "
+    },
+    "stockmusic": {
+        "square": "  ",
+        "long": "  "
+    },
+    "targum-video": {
+        "square": "  ",
+        "long": "  "
+    },
+    "kawaai": {
+        "square": "  ",
+        "long": "  "
+    },
+    "ogimi": {
+        "square": "  ",
+        "long": "  "
+    },
+    "ux-design-gpt": {
+        "square": "  ",
+        "long": "  "
+    },
+    "yt-summarizer": {
+        "square": "  ",
+        "long": "  "
+    },
+    "calligrapher": {
+        "square": "  ",
+        "long": "  "
+    },
+    "tarotnova": {
+        "square": "  ",
+        "long": "  "
+    },
+    "tutgpt": {
+        "square": "  ",
+        "long": "  "
+    },
+    "skillify": {
+        "square": "  ",
+        "long": "  "
+    },
+    "sendframe": {
+        "square": "  ",
+        "long": "  "
+    },
+    "talkbackai": {
+        "square": "  ",
+        "long": "  "
+    },
+    "trywize": {
+        "square": "  ",
+        "long": "  "
+    },
+    "gptexcel": {
+        "square": "  ",
+        "long": "  "
+    },
+    "trinka": {
+        "square": "  ",
+        "long": "  "
+    },
+    "luminar-ai": {
+        "square": "  ",
+        "long": "  "
+    },
+    "kidsaistory": {
+        "square": "  ",
+        "long": "  "
+    },
+    "feedeo": {
+        "square": "  ",
+        "long": "  "
+    },
+    "tradeui": {
+        "square": "  ",
+        "long": "  "
+    },
+    "twitter-algorithm-chatbot": {
+        "square": "  ",
+        "long": "  "
+    },
+    "useway": {
+        "square": "  ",
+        "long": "  "
+    },
+    "ai-perfect-assistant": {
+        "square": "  ",
+        "long": "  "
+    },
+    "conch": {
+        "square": "  ",
+        "long": "  "
+    },
+    "ai-undetect": {
+        "square": "  ",
+        "long": "  "
+    },
+    "skillflow": {
+        "square": "  ",
+        "long": "  "
+    },
+    "starstruck": {
+        "square": "  ",
+        "long": "  "
+    },
+    "spiritme": {
+        "square": "  ",
+        "long": "  "
+    },
+    "top-vs-best": {
+        "square": "  ",
+        "long": "  "
+    },
+    "lorekeeper": {
+        "square": "  ",
+        "long": "  "
+    },
+    "taplio": {
+        "square": "  ",
+        "long": "  "
+    },
+    "scrip-ai": {
+        "square": "  ",
+        "long": "  "
+    },
+    "canirank": {
+        "square": "  ",
+        "long": "  "
+    },
+    "speaksai-talkerai": {
+        "square": "  ",
+        "long": "  "
+    },
+    "playground": {
+        "square": "  ",
+        "long": "  "
+    },
+    "sighted-ai": {
+        "square": "  ",
+        "long": "  "
+    },
+    "math99th": {
+        "square": "  ",
+        "long": "  "
+    },
+    "airparser": {
+        "square": "  ",
+        "long": "  "
+    },
+    "healthfood-ai": {
+        "square": "  ",
+        "long": "  "
+    },
+    "labophase": {
+        "square": "  ",
+        "long": "  "
+    },
+    "exemplary-ai": {
+        "square": "  ",
+        "long": "  "
+    },
+    "tldr-newspaper": {
+        "square": "  ",
+        "long": "  "
+    },
+    "turncage": {
+        "square": "  ",
+        "long": "  "
+    },
+    "video-summarization": {
+        "square": "  ",
+        "long": "  "
+    },
+    "weld": {
+        "square": "  ",
+        "long": "  "
+    },
+    "neural-frames": {
+        "square": "  ",
+        "long": "  "
+    },
+    "seenapse": {
+        "square": "  ",
+        "long": "  "
+    },
+    "gigapixel-ai": {
+        "square": "  ",
+        "long": "  "
+    },
+    "trimmr": {
+        "square": "  ",
+        "long": "  "
+    },
+    "adola": {
+        "square": "  ",
+        "long": "  "
+    },
+    "seanceai": {
+        "square": "  ",
+        "long": "  "
+    },
+    "small-steps": {
+        "square": "  ",
+        "long": "  "
+    },
+    "soon-app": {
+        "square": "  ",
+        "long": "  "
+    },
+    "social-intents": {
+        "square": "  ",
+        "long": "  "
+    },
+    "whybot": {
+        "square": "  ",
+        "long": "  "
+    },
+    "to-teach-ai": {
+        "square": "  ",
+        "long": "  "
+    },
+    "write-my-prd": {
+        "square": "  ",
+        "long": "  "
+    },
+    "tiktak-co-pilot-studio": {
+        "square": "  ",
+        "long": "  "
+    },
+    "sqlephant": {
+        "square": "  ",
+        "long": "  "
+    },
+    "mtg-card-creator": {
+        "square": "  ",
+        "long": "  "
+    },
+    "typecast": {
+        "square": "  ",
+        "long": "  "
+    },
+    "syllaby": {
+        "square": "  ",
+        "long": "  "
+    },
+    "vidiofy": {
+        "square": "  ",
+        "long": "  "
+    },
+    "word-studio": {
+        "square": "  ",
+        "long": "  "
+    },
+    "slidesai": {
+        "square": "  ",
+        "long": "  "
+    },
+    "build-chatbot": {
+        "square": "  ",
+        "long": "  "
+    },
+    "soap-note-ai": {
+        "square": "  ",
+        "long": "  "
+    },
+    "smart-girl": {
+        "square": "  ",
+        "long": "  "
+    },
+    "voices-ai": {
+        "square": "  ",
+        "long": "  "
+    },
+    "hypotenuse-ai": {
+        "square": "  ",
+        "long": "  "
+    },
+    "rapidai": {
+        "square": "  ",
+        "long": "  "
+    },
+    "secondsoul": {
+        "square": "  ",
+        "long": "  "
+    },
+    "re-art-ai-image-generator": {
+        "square": "  ",
+        "long": "  "
+    },
+    "rytr": {
+        "square": "  ",
+        "long": "  "
+    },
+    "magegpt": {
+        "square": "  ",
+        "long": "  "
+    },
+    "teste-ai": {
+        "square": "  ",
+        "long": "  "
+    },
+    "mimiko": {
+        "square": "  ",
+        "long": "  "
+    },
+    "slidenotes": {
+        "square": "  ",
+        "long": "  "
+    },
+    "mytales": {
+        "square": "  ",
+        "long": "  "
+    },
+    "seobot": {
+        "square": "  ",
+        "long": "  "
+    },
+    "yobi": {
+        "square": "  ",
+        "long": "  "
+    },
+    "candyai": {
+        "square": "  ",
+        "long": "  "
+    },
+    "three-sigma": {
+        "square": "  ",
+        "long": "  "
+    },
+    "sitegpt": {
+        "square": "  ",
+        "long": "  "
+    },
+    "play-ht": {
+        "square": "  ",
+        "long": "  "
+    },
+    "ubie-ai-symptom-checker": {
+        "square": "  ",
+        "long": "  "
+    },
+    "searcholic": {
+        "square": "  ",
+        "long": "  "
+    },
+    "wavel-ai": {
+        "square": "  ",
+        "long": "  "
+    },
+    "starcycle": {
+        "square": "  ",
+        "long": "  "
+    },
+    "photoproai": {
+        "square": "  ",
+        "long": "  "
+    },
+    "upworkcoverletter": {
+        "square": "  ",
+        "long": "  "
+    },
+    "ultimate-skill-extractor-by-further": {
+        "square": "  ",
+        "long": "  "
+    },
+    "todo-is": {
+        "square": "  ",
+        "long": "  "
+    },
+    "literally-anything": {
+        "square": "  ",
+        "long": "  "
+    },
+    "tusk": {
+        "square": "  ",
+        "long": "  "
+    },
+    "storywizard": {
+        "square": "  ",
+        "long": "  "
+    },
+    "distillr": {
+        "square": "  ",
+        "long": "  "
+    },
+    "tract": {
+        "square": "  ",
+        "long": "  "
+    },
+    "chatgpt-for-translators": {
+        "square": "  ",
+        "long": "  "
+    },
+    "stilo": {
+        "square": "  ",
+        "long": "  "
+    },
+    "mubert": {
+        "square": "  ",
+        "long": "  "
+    },
+    "spacely": {
+        "square": "  ",
+        "long": "  "
+    },
+    "text-the-girl": {
+        "square": "  ",
+        "long": "  "
+    },
+    "leap-learning": {
+        "square": "  ",
+        "long": "  "
+    },
+    "explainpaper": {
+        "square": "  ",
+        "long": "  "
+    },
+    "deepl": {
+        "square": "  ",
+        "long": "  "
+    },
+    "ai-dungeon": {
+        "square": "  ",
+        "long": "  "
+    },
+    "learningstudioai": {
+        "square": "  ",
+        "long": "  "
+    },
+    "rewriterpro-ai": {
+        "square": "  ",
+        "long": "  "
+    },
+    "caktus": {
+        "square": "  ",
+        "long": "  "
+    },
+    "memable": {
+        "square": "  ",
+        "long": "  "
+    },
+    "drugcard": {
+        "square": "  ",
+        "long": "  "
+    },
+    "taggy": {
+        "square": "  ",
+        "long": "  "
+    },
+    "brief-news": {
+        "square": "  ",
+        "long": "  "
+    },
+    "videotap": {
+        "square": "  ",
+        "long": "  "
+    },
+    "10web": {
+        "square": "  ",
+        "long": "  "
+    },
+    "tekst": {
+        "square": "  ",
+        "long": "  "
+    },
+    "text-to-design": {
+        "square": "  ",
+        "long": "  "
+    },
+    "wpturbo": {
+        "square": "  ",
+        "long": "  "
+    },
+    "ipic-ai": {
+        "square": "  ",
+        "long": "  "
+    },
+    "useemoji": {
+        "square": "  ",
+        "long": "  "
+    },
+    "cartoonize": {
+        "square": "  ",
+        "long": "  "
+    },
+    "tome": {
+        "square": "  ",
+        "long": "  "
+    },
+    "skoot": {
+        "square": "  ",
+        "long": "  "
+    },
+    "typho": {
+        "square": "  ",
+        "long": "  "
+    },
+    "speechelo": {
+        "square": "  ",
+        "long": "  "
+    },
+    "napkin": {
+        "square": "  ",
+        "long": "  "
+    },
+    "reloc-tech": {
+        "square": "  ",
+        "long": "  "
+    },
+    "tracksy": {
+        "square": "  ",
+        "long": "  "
+    },
+    "hal9": {
+        "square": "  ",
+        "long": "  "
+    },
+    "justlearn": {
+        "square": "  ",
+        "long": "  "
+    },
+    "wordme": {
+        "square": "  ",
+        "long": "  "
+    },
+    "visoid": {
+        "square": "  ",
+        "long": "  "
+    },
+    "ai-pet-photos": {
+        "square": "  ",
+        "long": "  "
+    },
+    "twine": {
+        "square": "  ",
+        "long": "  "
+    },
+    "boltai": {
+        "square": "  ",
+        "long": "  "
+    },
+    "summarygpt": {
+        "square": "  ",
+        "long": "  "
+    },
+    "notes-ai": {
+        "square": "  ",
+        "long": "  "
+    },
+    "shopmigo": {
+        "square": "  ",
+        "long": "  "
+    },
+    "stork-chatgpt-for-teams": {
+        "square": "  ",
+        "long": "  "
+    },
+    "speech-meter": {
+        "square": "  ",
+        "long": "  "
+    },
+    "promptly-generated": {
+        "square": "  ",
+        "long": "  "
+    },
+    "thelio": {
+        "square": "  ",
+        "long": "  "
+    },
+    "synthesizer-v": {
+        "square": "  ",
+        "long": "  "
+    },
+    "virtulook": {
+        "square": "  ",
+        "long": "  "
+    },
+    "infogpt": {
+        "square": "  ",
+        "long": "  "
+    },
+    "eightify-explore": {
+        "square": "  ",
+        "long": "  "
+    },
+    "smartbot": {
+        "square": "  ",
+        "long": "  "
+    },
+    "makemyweb": {
+        "square": "  ",
+        "long": "  "
+    },
+    "try-it-on-ai": {
+        "square": "  ",
+        "long": "  "
+    },
+    "spot-ai": {
+        "square": "  ",
+        "long": "  "
+    },
+    "ask-abe": {
+        "square": "  ",
+        "long": "  "
+    },
+    "spinreactor": {
+        "square": "  ",
+        "long": "  "
+    },
+    "nutshell-summaries": {
+        "square": "  ",
+        "long": "  "
+    },
+    "vidby": {
+        "square": "  ",
+        "long": "  "
+    },
+    "ireadfaster": {
+        "square": "  ",
+        "long": "  "
+    },
+    "sudowrite": {
+        "square": "  ",
+        "long": "  "
+    },
+    "decision-note": {
+        "square": "  ",
+        "long": "  "
+    },
+    "recruitgenius": {
+        "square": "  ",
+        "long": "  "
+    },
+    "comicsmaker": {
+        "square": "  ",
+        "long": "  "
+    },
+    "ttsmaker": {
+        "square": "  ",
+        "long": "  "
+    },
+    "twinsync": {
+        "square": "  ",
+        "long": "  "
+    },
+    "academic-help": {
+        "square": "  ",
+        "long": "  "
+    },
+    "ai-song-generator-music-maker": {
+        "square": "  ",
+        "long": "  "
+    },
+    "medical-chat": {
+        "square": "  ",
+        "long": "  "
+    },
+    "userdesk": {
+        "square": "  ",
+        "long": "  "
+    },
+    "ai-music-generator": {
+        "square": "  ",
+        "long": "  "
+    },
+    "flashcardx": {
+        "square": "  ",
+        "long": "  "
+    },
+    "gpt-prompt-tuner": {
+        "square": "  ",
+        "long": "  "
+    },
+    "stable-animation": {
+        "square": "  ",
+        "long": "  "
+    },
+    "teacherbot": {
+        "square": "  ",
+        "long": "  "
+    },
+    "speakup": {
+        "square": "  ",
+        "long": "  "
+    },
+    "webwave-ai": {
+        "square": "  ",
+        "long": "  "
+    },
+    "suitup": {
+        "square": "  ",
+        "long": "  "
+    },
+    "shelfhelp": {
+        "square": "  ",
+        "long": "  "
+    },
+    "bonfire-ai-powered-concierge-bot": {
+        "square": "  ",
+        "long": "  "
+    },
+    "stormi-ai": {
+        "square": "  ",
+        "long": "  "
+    },
+    "lazyeyefix": {
+        "square": "  ",
+        "long": "  "
+    },
+    "usechat": {
+        "square": "  ",
+        "long": "  "
+    },
+    "sococal": {
+        "square": "  ",
+        "long": "  "
+    },
+    "fronty": {
+        "square": "  ",
+        "long": "  "
+    },
+    "smexy": {
+        "square": "  ",
+        "long": "  "
+    },
+    "vidio": {
+        "square": "  ",
+        "long": "  "
+    },
+    "imagetopromptai": {
+        "square": "  ",
+        "long": "  "
+    },
+    "listening": {
+        "square": "  ",
+        "long": "  "
+    },
+    "hitpaw-photo-ai": {
+        "square": "  ",
+        "long": "  "
+    },
+    "x-minus": {
+        "square": "  ",
+        "long": "  "
+    },
+    "webstudio": {
+        "square": "  ",
+        "long": "  "
+    },
+    "writebyai": {
+        "square": "  ",
+        "long": "  "
+    },
+    "hisanta-ai": {
+        "square": "  ",
+        "long": "  "
+    },
+    "books-by-ai": {
+        "square": "  ",
+        "long": "  "
+    },
+    "speechmatics": {
+        "square": "  ",
+        "long": "  "
+    },
+    "photoeditor": {
+        "square": "  ",
+        "long": "  "
+    },
+    "trends-critical": {
+        "square": "  ",
+        "long": "  "
+    },
+    "kahma": {
+        "square": "  ",
+        "long": "  "
+    },
+    "fine-tuner-ai": {
+        "square": "  ",
+        "long": "  "
+    },
+    "utrrr": {
+        "square": "  ",
+        "long": "  "
+    },
+    "ai-interior-planner": {
+        "square": "  ",
+        "long": "  "
+    },
+    "traverseai": {
+        "square": "  ",
+        "long": "  "
+    },
+    "echowin": {
+        "square": "  ",
+        "long": "  "
+    },
+    "stocked-ai": {
+        "square": "  ",
+        "long": "  "
+    },
+    "taranify": {
+        "square": "  ",
+        "long": "  "
+    },
+    "tl-dv": {
+        "square": "  ",
+        "long": "  "
+    },
+    "sidekick-by-jigso": {
+        "square": "  ",
+        "long": "  "
+    },
+    "animegenius": {
+        "square": "  ",
+        "long": "  "
+    },
+    "moments": {
+        "square": "  ",
+        "long": "  "
+    },
+    "your-political-place": {
+        "square": "  ",
+        "long": "  "
+    },
+    "docdecoder": {
+        "square": "  ",
+        "long": "  "
+    },
+    "deepgram": {
+        "square": "  ",
+        "long": "  "
+    },
+    "selfie-vibe": {
+        "square": "  ",
+        "long": "  "
+    },
+    "icetana": {
+        "square": "  ",
+        "long": "  "
+    },
+    "summarize-one": {
+        "square": "  ",
+        "long": "  "
+    },
+    "tl-dr-ai-summarizer": {
+        "square": "  ",
+        "long": "  "
+    },
+    "spline-ai-alpha": {
+        "square": "  ",
+        "long": "  "
+    },
+    "airaso": {
+        "square": "  ",
+        "long": "  "
+    },
+    "conju": {
+        "square": "  ",
+        "long": "  "
+    },
+    "girlfriendgpt": {
+        "square": "  ",
+        "long": "  "
+    },
+    "spective-innovation": {
+        "square": "  ",
+        "long": "  "
+    },
+    "parsers-vc": {
+        "square": "  ",
+        "long": "  "
+    },
+    "windchat": {
+        "square": "  ",
+        "long": "  "
+    },
+    "endless-visual-novel": {
+        "square": "  ",
+        "long": "  "
+    },
+    "smry": {
+        "square": "  ",
+        "long": "  "
+    },
+    "speakai-cc": {
+        "square": "  ",
+        "long": "  "
+    },
+    "deepfacelive": {
+        "square": "  ",
+        "long": "  "
+    },
+    "revoldiv": {
+        "square": "  ",
+        "long": "  "
+    },
+    "piktochart": {
+        "square": "  ",
+        "long": "  "
+    },
+    "traivl": {
+        "square": "  ",
+        "long": "  "
+    },
+    "reachifyme": {
+        "square": "  ",
+        "long": "  "
+    },
+    "storychief": {
+        "square": "  ",
+        "long": "  "
+    },
+    "videomylisting": {
+        "square": "  ",
+        "long": "  "
+    },
+    "whatsgpt": {
+        "square": "  ",
+        "long": "  "
+    },
+    "webscrapeai": {
+        "square": "  ",
+        "long": "  "
+    },
+    "script-monkey": {
+        "square": "  ",
+        "long": "  "
+    },
+    "voice-swap": {
+        "square": "  ",
+        "long": "  "
+    },
+    "makerbox": {
+        "square": "  ",
+        "long": "  "
+    },
+    "songwraiter": {
+        "square": "  ",
+        "long": "  "
+    },
+    "blendgate": {
+        "square": "  ",
+        "long": "  "
+    },
+    "youtube-summarized": {
+        "square": "  ",
+        "long": "  "
+    },
+    "email-ai-for-e-commerce-by-1hero": {
+        "square": "  ",
+        "long": "  "
+    },
+    "gista": {
+        "square": "  ",
+        "long": "  "
+    },
+    "smartlinked": {
+        "square": "  ",
+        "long": "  "
+    },
+    "suno": {
+        "square": "  ",
+        "long": "  "
+    },
+    "spikes-studio": {
+        "square": "  ",
+        "long": "  "
+    },
+    "you-tldr": {
+        "square": "  ",
+        "long": "  "
+    },
+    "theoasis": {
+        "square": "  ",
+        "long": "  "
+    },
+    "songmeaning-ai": {
+        "square": "  ",
+        "long": "  "
+    },
+    "wolframalpha": {
+        "square": "  ",
+        "long": "  "
+    },
+    "salesforge": {
+        "square": "  ",
+        "long": "  "
+    },
+    "shortgen-video": {
+        "square": "  ",
+        "long": "  "
+    },
+    "dockie": {
+        "square": "  ",
+        "long": "  "
+    },
+    "story-bard": {
+        "square": "  ",
+        "long": "  "
+    },
+    "thisresumedoesnotexist": {
+        "square": "  ",
+        "long": "  "
+    },
+    "loya": {
+        "square": "  ",
+        "long": "  "
+    },
+    "superluminal": {
+        "square": "  ",
+        "long": "  "
+    },
+    "chatpdf": {
+        "square": "  ",
+        "long": "  "
+    },
+    "programming-helper": {
+        "square": "  ",
+        "long": "  "
+    },
+    "cap-hacker": {
+        "square": "  ",
+        "long": "  "
+    },
+    "mealmate": {
+        "square": "  ",
+        "long": "  "
+    },
+    "trolly-ai": {
+        "square": "  ",
+        "long": "  "
+    },
+    "aiter": {
+        "square": "  ",
+        "long": "  "
+    },
+    "smartbird": {
+        "square": "  ",
+        "long": "  "
+    },
+    "squirrly-seo": {
+        "square": "  ",
+        "long": "  "
+    },
+    "stable-diffusion-prompt-generator": {
+        "square": "  ",
+        "long": "  "
+    },
+    "website-summary-ai": {
+        "square": "  ",
+        "long": "  "
+    },
+    "skillpool": {
+        "square": "  ",
+        "long": "  "
+    },
+    "speak-com": {
+        "square": "  ",
+        "long": "  "
+    },
+    "asknotion": {
+        "square": "  ",
+        "long": "  "
+    },
+    "fictiongpt": {
+        "square": "  ",
+        "long": "  "
+    },
+    "remover-app": {
+        "square": "  ",
+        "long": "  "
+    },
+    "cleanup-pictures": {
+        "square": "  ",
+        "long": "  "
+    },
+    "vee": {
+        "square": "  ",
+        "long": "  "
+    },
+    "tarot-master": {
+        "square": "  ",
+        "long": "  "
+    },
+    "logoai": {
+        "square": "  ",
+        "long": "  "
+    },
+    "samplab": {
+        "square": "  ",
+        "long": "  "
+    },
+    "turboscribe": {
+        "square": "  ",
+        "long": "  "
+    },
+    "voicify": {
+        "square": "  ",
+        "long": "  "
+    },
+    "slickgpt": {
+        "square": "  ",
+        "long": "  "
+    },
+    "classpoint-ai": {
+        "square": "  ",
+        "long": "  "
+    },
+    "happychat-ai": {
+        "square": "  ",
+        "long": "  "
+    },
+    "travelgenie": {
+        "square": "  ",
+        "long": "  "
+    },
+    "workbookpdf": {
+        "square": "  ",
+        "long": "  "
+    },
+    "askpot": {
+        "square": "  ",
+        "long": "  "
+    },
+    "newsanalyst": {
+        "square": "  ",
+        "long": "  "
+    },
+    "webtastic": {
+        "square": "  ",
+        "long": "  "
+    },
+    "generative-engine": {
+        "square": "  ",
+        "long": "  "
+    },
+    "clothoff": {
+        "square": "  ",
+        "long": "  "
+    },
+    "wocstreet": {
+        "square": "  ",
+        "long": "  "
+    },
+    "deepen": {
+        "square": "  ",
+        "long": "  "
+    },
+    "deepmotion": {
+        "square": "  ",
+        "long": "  "
+    },
+    "voxbox": {
+        "square": "  ",
+        "long": "  "
+    },
+    "exporeader": {
+        "square": "  ",
+        "long": "  "
+    },
+    "videogen": {
+        "square": "  ",
+        "long": "  "
+    },
+    "livepolls-slide-generator": {
+        "square": "  ",
+        "long": "  "
+    },
+    "seo-writing-ai": {
+        "square": "  ",
+        "long": "  "
+    },
+    "albus": {
+        "square": "  ",
+        "long": "  "
+    },
+    "sitesgpt": {
+        "square": "  ",
+        "long": "  "
+    },
+    "seduced": {
+        "square": "  ",
+        "long": "  "
+    },
+    "keymate": {
+        "square": "  ",
+        "long": "  "
+    },
+    "sincode-ai": {
+        "square": "  ",
+        "long": "  "
+    },
+    "mrscrapper": {
+        "square": "  ",
+        "long": "  "
+    },
+    "paperclips": {
+        "square": "  ",
+        "long": "  "
+    },
+    "trickle": {
+        "square": "  ",
+        "long": "  "
+    },
+    "simplebio": {
+        "square": "  ",
+        "long": "  "
+    },
+    "endless-academy": {
+        "square": "  ",
+        "long": "  "
+    },
+    "vibrato": {
+        "square": "  ",
+        "long": "  "
+    },
+    "ideascore": {
+        "square": "  ",
+        "long": "  "
+    },
+    "thumbsnap": {
+        "square": "  ",
+        "long": "  "
+    },
+    "sensechat": {
+        "square": "  ",
+        "long": "  "
+    },
+    "scarlettpanda": {
+        "square": "  ",
+        "long": "  "
+    },
+    "talebot": {
+        "square": "  ",
+        "long": "  "
+    },
+    "totoy": {
+        "square": "  ",
+        "long": "  "
+    },
+    "zerobot": {
+        "square": "  ",
+        "long": "  "
+    },
+    "winggg": {
+        "square": "  ",
+        "long": "  "
+    },
+    "stormz": {
+        "square": "  ",
+        "long": "  "
+    },
+    "tldr-this": {
+        "square": "  ",
+        "long": "  "
+    },
+    "academicgpt": {
+        "square": "  ",
+        "long": "  "
+    },
+    "wisdolia": {
+        "square": "  ",
+        "long": "  "
+    },
+    "soca-ai": {
+        "square": "  ",
+        "long": "  "
+    },
+    "sheet-ai": {
+        "square": "  ",
+        "long": "  "
+    },
+    "verble": {
+        "square": "  ",
+        "long": "  "
+    },
+    "vocabuddy": {
+        "square": "  ",
+        "long": "  "
+    },
+    "wordartly": {
+        "square": "  ",
+        "long": "  "
+    },
+    "talentgenius-coach": {
+        "square": "  ",
+        "long": "  "
+    },
+    "msdos-image-tools": {
+        "square": "  ",
+        "long": "  "
+    },
+    "hotbot": {
+        "square": "  ",
+        "long": "  "
+    },
+    "social-scanner": {
+        "square": "  ",
+        "long": "  "
+    },
+    "lumi-tarot": {
+        "square": "  ",
+        "long": "  "
+    },
+    "ultramail": {
+        "square": "  ",
+        "long": "  "
+    },
+    "westidol": {
+        "square": "  ",
+        "long": "  "
+    },
+    "make-logo-ai": {
+        "square": "  ",
+        "long": "  "
+    },
+    "tradytics": {
+        "square": "  ",
+        "long": "  "
+    },
+    "trips": {
+        "square": "  ",
+        "long": "  "
+    },
+    "simplescraper": {
+        "square": "  ",
+        "long": "  "
+    },
+    "createapp": {
+        "square": "  ",
+        "long": "  "
+    },
+    "wishpond": {
+        "square": "  ",
+        "long": "  "
+    },
+    "upscalepics": {
+        "square": "  ",
+        "long": "  "
+    },
+    "what-a-prompt": {
+        "square": "  ",
+        "long": "  "
+    },
+    "smaty": {
+        "square": "  ",
+        "long": "  "
+    },
+    "shortmake": {
+        "square": "  ",
+        "long": "  "
+    },
+    "tutorai": {
+        "square": "  ",
+        "long": "  "
+    },
+    "autorfp": {
+        "square": "  ",
+        "long": "  "
+    },
+    "sd-telegram-bot": {
+        "square": "  ",
+        "long": "  "
+    },
+    "beloga": {
+        "square": "  ",
+        "long": "  "
+    },
+    "studyflash": {
+        "square": "  ",
+        "long": "  "
+    },
+    "deepfloyd": {
+        "square": "  ",
+        "long": "  "
+    },
+    "sermongpt": {
+        "square": "  ",
+        "long": "  "
+    },
+    "query-vary": {
+        "square": "  ",
+        "long": "  "
+    },
+    "selfgazer": {
+        "square": "  ",
+        "long": "  "
+    },
+    "video-editor-by-vidds": {
+        "square": "  ",
+        "long": "  "
+    },
+    "b12-io": {
+        "square": "  ",
+        "long": "  "
+    },
+    "promptchan": {
+        "square": "  ",
+        "long": "  "
+    },
+    "talknotes": {
+        "square": "  ",
+        "long": "  "
+    },
+    "virtual-face": {
+        "square": "  ",
+        "long": "  "
+    },
+    "comicify": {
+        "square": "  ",
+        "long": "  "
+    },
+    "yourmove": {
+        "square": "  ",
+        "long": "  "
+    },
+    "munch": {
+        "square": "  ",
+        "long": "  "
+    },
+    "staypia": {
+        "square": "  ",
+        "long": "  "
+    },
+    "zeebra": {
+        "square": "  ",
+        "long": "  "
+    },
+    "audiobox-by-meta": {
+        "square": "  ",
+        "long": "  "
+    },
+    "textarea": {
+        "square": "  ",
+        "long": "  "
+    },
+    "spoke-ai": {
+        "square": "  ",
+        "long": "  "
+    },
+    "undertonesai": {
+        "square": "  ",
+        "long": "  "
+    },
+    "sequencegenius": {
+        "square": "  ",
+        "long": "  "
+    },
+    "melon": {
+        "square": "  ",
+        "long": "  "
+    },
+    "galadon": {
+        "square": "  ",
+        "long": "  "
+    },
+    "copyninja": {
+        "square": "  ",
+        "long": "  "
+    },
+    "betterpic-ai-headshots": {
+        "square": "  ",
+        "long": "  "
+    },
+    "trove": {
+        "square": "  ",
+        "long": "  "
+    },
+    "venty-chat": {
+        "square": "  ",
+        "long": "  "
+    },
+    "pfpmaker": {
+        "square": "  ",
+        "long": "  "
+    },
+    "h2o-ai": {
+        "square": "  ",
+        "long": "  "
+    },
+    "octocom": {
+        "square": "  ",
+        "long": "  "
+    },
+    "yodayo": {
+        "square": "  ",
+        "long": "  "
+    },
+    "strongr-fastr": {
+        "square": "  ",
+        "long": "  "
+    },
+    "mindmap": {
+        "square": "  ",
+        "long": "  "
+    },
+    "aimreply": {
+        "square": "  ",
+        "long": "  "
+    },
+    "yoursearch": {
+        "square": "  ",
+        "long": "  "
+    },
+    "botly": {
+        "square": "  ",
+        "long": "  "
+    },
+    "slidespeak": {
+        "square": "  ",
+        "long": "  "
+    },
+    "snapart": {
+        "square": "  ",
+        "long": "  "
+    },
+    "capgo": {
+        "square": "  ",
+        "long": "  "
+    },
+    "this-product-does-not-exist": {
+        "square": "  ",
+        "long": "  "
+    },
+    "ai-screenwriter": {
+        "square": "  ",
+        "long": "  "
+    },
+    "socra": {
+        "square": "  ",
+        "long": "  "
+    },
+    "caspa": {
+        "square": "  ",
+        "long": "  "
+    },
+    "scrabblecam": {
+        "square": "  ",
+        "long": "  "
+    },
+    "ai-input": {
+        "square": "  ",
+        "long": "  "
+    },
+    "slidesgo": {
+        "square": "  ",
+        "long": "  "
+    },
+    "voxify": {
+        "square": "  ",
+        "long": "  "
+    },
+    "typpo": {
+        "square": "  ",
+        "long": "  "
+    },
+    "sanebox": {
+        "square": "  ",
+        "long": "  "
+    },
+    "virtuozyai": {
+        "square": "  ",
+        "long": "  "
+    },
+    "segmed": {
+        "square": "  ",
+        "long": "  "
+    },
+    "letsenhance": {
+        "square": "  ",
+        "long": "  "
+    },
+    "descrb": {
+        "square": "  ",
+        "long": "  "
+    },
+    "explore-ai": {
+        "square": "  ",
+        "long": "  "
+    },
+    "talkme": {
+        "square": "  ",
+        "long": "  "
+    },
+    "zenprompts": {
+        "square": "  ",
+        "long": "  "
+    },
+    "swapface": {
+        "square": "  ",
+        "long": "  "
+    },
+    "knowlee": {
+        "square": "  ",
+        "long": "  "
+    },
+    "twelve-labs": {
+        "square": "  ",
+        "long": "  "
+    },
+    "tokkingheads": {
+        "square": "  ",
+        "long": "  "
+    },
+    "videosum": {
+        "square": "  ",
+        "long": "  "
+    },
+    "unsummary": {
+        "square": "  ",
+        "long": "  "
+    },
+    "write-panda": {
+        "square": "  ",
+        "long": "  "
+    },
+    "samurai-ai": {
+        "square": "  ",
+        "long": "  "
+    },
+    "jochem": {
+        "square": "  ",
+        "long": "  "
+    },
+    "agentive": {
+        "square": "  ",
+        "long": "  "
+    },
+    "pgs-principles": {
+        "square": "  ",
+        "long": "  "
+    },
+    "summarify-me": {
+        "square": "  ",
+        "long": "  "
+    },
+    "scribe-search": {
+        "square": "  ",
+        "long": "  "
+    },
+    "dash-ai": {
+        "square": "  ",
+        "long": "  "
+    },
+    "wepik": {
+        "square": "  ",
+        "long": "  "
+    },
+    "vatic-ai": {
+        "square": "  ",
+        "long": "  "
+    },
+    "deepfakesweb": {
+        "square": "  ",
+        "long": "  "
+    },
+    "system-pro": {
+        "square": "  ",
+        "long": "  "
+    },
+    "schoolai": {
+        "square": "  ",
+        "long": "  "
+    },
+    "transpic": {
+        "square": "  ",
+        "long": "  "
+    },
+    "sharly-ai": {
+        "square": "  ",
+        "long": "  "
+    },
+    "tripchatter-ai-chat-travel-assistant": {
+        "square": "  ",
+        "long": "  "
+    },
+    "venturekit": {
+        "square": "  ",
+        "long": "  "
+    },
+    "kaba": {
+        "square": "  ",
+        "long": "  "
+    },
+    "stable-ui": {
+        "square": "  ",
+        "long": "  "
+    },
+    "texturelab": {
+        "square": "  ",
+        "long": "  "
+    },
+    "unicorn-platform": {
+        "square": "  ",
+        "long": "  "
+    },
+    "julius": {
+        "square": "  ",
+        "long": "  "
+    },
+    "zzzcode": {
+        "square": "  ",
+        "long": "  "
+    },
+    "wuko-ai": {
+        "square": "  ",
+        "long": "  "
+    },
+    "wagpt": {
+        "square": "  ",
+        "long": "  "
+    },
+    "zapro": {
+        "square": "  ",
+        "long": "  "
+    },
+    "steppit": {
+        "square": "  ",
+        "long": "  "
+    },
+    "smalltalk": {
+        "square": "  ",
+        "long": "  "
+    },
+    "senuto-content-writer": {
+        "square": "  ",
+        "long": "  "
+    },
+    "xcodechatgpt": {
+        "square": "  ",
+        "long": "  "
+    },
+    "vmake-video-enhancer": {
+        "square": "  ",
+        "long": "  "
+    },
+    "extractify": {
+        "square": "  ",
+        "long": "  "
+    },
+    "elicit": {
+        "square": "  ",
+        "long": "  "
+    },
+    "bothatch": {
+        "square": "  ",
+        "long": "  "
+    },
+    "brewit": {
+        "square": "  ",
+        "long": "  "
+    },
+    "frontdoor": {
+        "square": "  ",
+        "long": "  "
+    },
+    "tts-monster": {
+        "square": "  ",
+        "long": "  "
+    },
+    "rizz": {
+        "square": "  ",
+        "long": "  "
+    },
+    "textero-ai-ai-essay-writer": {
+        "square": "  ",
+        "long": "  "
+    },
+    "smitty": {
+        "square": "  ",
+        "long": "  "
+    },
+    "doogle-ai": {
+        "square": "  ",
+        "long": "  "
+    },
+    "webwhiz": {
+        "square": "  ",
+        "long": "  "
+    },
+    "uimagic": {
+        "square": "  ",
+        "long": "  "
+    },
+    "scenario": {
+        "square": "  ",
+        "long": "  "
+    },
+    "updateyourresume": {
+        "square": "  ",
+        "long": "  "
+    },
+    "silic": {
+        "square": "  ",
+        "long": "  "
+    },
+    "scrap-so": {
+        "square": "  ",
+        "long": "  "
+    },
+    "simplified": {
+        "square": "  ",
+        "long": "  "
+    },
+    "slait-school": {
+        "square": "  ",
+        "long": "  "
+    },
+    "spacegen": {
+        "square": "  ",
+        "long": "  "
+    },
+    "unschooler": {
+        "square": "  ",
+        "long": "  "
+    },
+    "zipik": {
+        "square": "  ",
+        "long": "  "
+    },
+    "autodubber": {
+        "square": "  ",
+        "long": "  "
+    },
+    "stocknews-ai": {
+        "square": "  ",
+        "long": "  "
+    },
+    "bot-butcher": {
+        "square": "  ",
+        "long": "  "
+    },
+    "splitmyexpenses": {
+        "square": "  ",
+        "long": "  "
+    },
+    "solidpoint": {
+        "square": "  ",
+        "long": "  "
+    },
+    "scrivvy": {
+        "square": "  ",
+        "long": "  "
+    },
+    "wondercraft": {
+        "square": "  ",
+        "long": "  "
+    },
+    "textero-essay-outlines": {
+        "square": "  ",
+        "long": "  "
+    },
+    "coursebot": {
+        "square": "  ",
+        "long": "  "
+    },
+    "visuali": {
+        "square": "  ",
+        "long": "  "
+    },
+    "saleszen": {
+        "square": "  ",
+        "long": "  "
+    },
+    "repo-ai": {
+        "square": "  ",
+        "long": "  "
+    },
+    "textcraft-ai": {
+        "square": "  ",
+        "long": "  "
+    },
+    "idea-generator": {
+        "square": "  ",
+        "long": "  "
+    },
+    "silly-robot-cards": {
+        "square": "  ",
+        "long": "  "
+    },
+    "text-to-video-ai": {
+        "square": "  ",
+        "long": "  "
+    },
+    "tubeboost": {
+        "square": "  ",
+        "long": "  "
+    },
+    "sticker-prompt-generator": {
+        "square": "  ",
+        "long": "  "
+    },
+    "zoom-ai-companion": {
+        "square": "  ",
+        "long": "  "
+    },
+    "tweetstorm": {
+        "square": "  ",
+        "long": "  "
+    },
+    "heights": {
+        "square": "  ",
+        "long": "  "
+    },
+    "talkie": {
+        "square": "  ",
+        "long": "  "
+    },
+    "storynest": {
+        "square": "  ",
+        "long": "  "
+    },
+    "thinktask": {
+        "square": "  ",
+        "long": "  "
+    },
+    "synthmind": {
+        "square": "  ",
+        "long": "  "
+    },
+    "small-talk-simulator": {
+        "square": "  ",
+        "long": "  "
+    },
+    "ventii": {
+        "square": "  ",
+        "long": "  "
+    },
+    "story-multiplier": {
+        "square": "  ",
+        "long": "  "
+    },
+    "simpleland": {
+        "square": "  ",
+        "long": "  "
+    },
+    "myshell": {
+        "square": "  ",
+        "long": "  "
+    },
+    "towords": {
+        "square": "  ",
+        "long": "  "
+    },
+    "shuttle": {
+        "square": "  ",
+        "long": "  "
+    },
+    "what-the-chef": {
+        "square": "  ",
+        "long": "  "
+    },
+    "angles": {
+        "square": "  ",
+        "long": "  "
+    },
+    "storybeat": {
+        "square": "  ",
+        "long": "  "
+    },
+    "tenorshare": {
+        "square": "  ",
+        "long": "  "
+    },
+    "swapmyface": {
+        "square": "  ",
+        "long": "  "
+    },
+    "sofabrain": {
+        "square": "  ",
+        "long": "  "
+    },
+    "tactic": {
+        "square": "  ",
+        "long": "  "
+    },
+    "video2text": {
+        "square": "  ",
+        "long": "  "
+    },
+    "textfx": {
+        "square": "  ",
+        "long": "  "
+    },
+    "trip-club": {
+        "square": "  ",
+        "long": "  "
+    },
+    "wonderchat": {
+        "square": "  ",
+        "long": "  "
+    },
+    "strategizing-app": {
+        "square": "  ",
+        "long": "  "
+    },
+    "typeboss": {
+        "square": "  ",
+        "long": "  "
+    },
+    "speedy": {
+        "square": "  ",
+        "long": "  "
+    },
+    "job-hunt-mode": {
+        "square": "  ",
+        "long": "  "
+    },
+    "seo-app": {
+        "square": "  ",
+        "long": "  "
+    },
+    "snipd-podcast-summaries": {
+        "square": "  ",
+        "long": "  "
+    },
+    "gemini-by-google": {
+        "square": "  ",
+        "long": "  "
+    },
+    "social-media-bio-generator": {
+        "square": "  ",
+        "long": "  "
+    },
+    "productscope-ai": {
+        "square": "  ",
+        "long": "  "
+    },
+    "infinite-drum-machine": {
+        "square": "  ",
+        "long": "  "
+    },
+    "strofe": {
+        "square": "  ",
+        "long": "  "
+    },
+    "waveformer": {
+        "square": "  ",
+        "long": "  "
+    },
+    "venthive": {
+        "square": "  ",
+        "long": "  "
+    },
+    "transkribieren": {
+        "square": "  ",
+        "long": "  "
+    },
+    "thinkdiffusion": {
+        "square": "  ",
+        "long": "  "
+    },
+    "business-idea-generator-ai": {
+        "square": "  ",
+        "long": "  "
+    },
+    "sourcely": {
+        "square": "  ",
+        "long": "  "
+    },
+    "sdxl-turbo": {
+        "square": "  ",
+        "long": "  "
+    },
+    "video2recipe": {
+        "square": "  ",
+        "long": "  "
+    },
+    "vocabulary-lesson-generator": {
+        "square": "  ",
+        "long": "  "
+    },
+    "vocol": {
+        "square": "  ",
+        "long": "  "
+    },
+    "sona": {
+        "square": "  ",
+        "long": "  "
+    },
+    "heylibby": {
+        "square": "  ",
+        "long": "  "
+    },
+    "medisearch": {
+        "square": "  ",
+        "long": "  "
+    },
+    "videomind": {
+        "square": "  ",
+        "long": "  "
+    },
+    "webyn": {
+        "square": "  ",
+        "long": "  "
+    },
+    "ghostthewriter": {
+        "square": "  ",
+        "long": "  "
+    },
+    "speakperfect": {
+        "square": "  ",
+        "long": "  "
+    },
+    "video-editor-ai": {
+        "square": "  ",
+        "long": "  "
+    },
+    "snapdress": {
+        "square": "  ",
+        "long": "  "
+    },
+    "scribewave": {
+        "square": "  ",
+        "long": "  "
+    },
+    "tweet-hunter": {
+        "square": "  ",
+        "long": "  "
+    },
+    "tradingview": {
+        "square": "  ",
+        "long": "  "
+    },
+    "tudle": {
+        "square": "  ",
+        "long": "  "
+    },
+    "chatgpt-outlook-plugin": {
+        "square": "  ",
+        "long": "  "
+    },
+    "what-the-chat": {
+        "square": "  ",
+        "long": "  "
+    },
+    "sus-guru": {
+        "square": "  ",
+        "long": "  "
+    },
+    "sql-chat": {
+        "square": "  ",
+        "long": "  "
+    },
+    "talkingphoto-by-movio": {
+        "square": "  ",
+        "long": "  "
+    },
+    "transformify-automate": {
+        "square": "  ",
+        "long": "  "
+    },
+    "viable": {
+        "square": "  ",
+        "long": "  "
+    },
+    "tunes-for-tales": {
+        "square": "  ",
+        "long": "  "
+    },
+    "taskade": {
+        "square": "  ",
+        "long": "  "
+    },
+    "samwell": {
+        "square": "  ",
+        "long": "  "
+    },
+    "studio-momento": {
+        "square": "  ",
+        "long": "  "
+    },
+    "verbalate": {
+        "square": "  ",
+        "long": "  "
+    },
+    "shedevrum": {
+        "square": "  ",
+        "long": "  "
+    },
+    "supermanage-ai": {
+        "square": "  ",
+        "long": "  "
+    },
+    "shitfilter-news": {
+        "square": "  ",
+        "long": "  "
+    },
+    "secureai-tools": {
+        "square": "  ",
+        "long": "  "
+    },
+    "what-if-app": {
+        "square": "  ",
+        "long": "  "
+    },
+    "writehuman": {
+        "square": "  ",
+        "long": "  "
+    },
+    "sbhelper": {
+        "square": "  ",
+        "long": "  "
+    },
+    "travelplan": {
+        "square": "  ",
+        "long": "  "
+    },
+    "roast-my-desk": {
+        "square": "  ",
+        "long": "  "
+    },
+    "r2-copilot": {
+        "square": "  ",
+        "long": "  "
+    },
+    "talkio": {
+        "square": "  ",
+        "long": "  "
+    },
+    "vigirl": {
+        "square": "  ",
+        "long": "  "
+    },
+    "unlimitedgpt": {
+        "square": "  ",
+        "long": "  "
+    },
+    "hummingbird": {
+        "square": "  ",
+        "long": "  "
+    },
+    "wavoai": {
+        "square": "  ",
+        "long": "  "
+    },
+    "storyscape": {
+        "square": "  ",
+        "long": "  "
+    },
+    "travopo": {
+        "square": "  ",
+        "long": "  "
+    },
+    "shakespeare-ai-toolbar": {
+        "square": "  ",
+        "long": "  "
+    },
+    "your-ai-avatar": {
+        "square": "  ",
+        "long": "  "
+    },
+    "talkbud": {
+        "square": "  ",
+        "long": "  "
+    },
+    "skinive": {
+        "square": "  ",
+        "long": "  "
+    },
+    "imai": {
+        "square": "  ",
+        "long": "  "
+    },
+    "sitewith-ai": {
+        "square": "  ",
+        "long": "  "
+    },
+    "summarize-tech": {
+        "square": "  ",
+        "long": "  "
+    },
+    "voyp": {
+        "square": "  ",
+        "long": "  "
+    },
+    "typegenie": {
+        "square": "  ",
+        "long": "  "
+    },
+    "unlimited-chat-bot": {
+        "square": "  ",
+        "long": "  "
+    },
+    "staccato": {
+        "square": "  ",
+        "long": "  "
+    },
+    "swagai": {
+        "square": "  ",
+        "long": "  "
+    },
+    "truewind": {
+        "square": "  ",
+        "long": "  "
+    },
+    "kaiber": {
+        "square": "  ",
+        "long": "  "
+    },
+    "cluc-io": {
+        "square": "  ",
+        "long": "  "
+    },
+    "transcribethis": {
+        "square": "  ",
+        "long": "  "
+    },
+    "shako": {
+        "square": "  ",
+        "long": "  "
+    },
+    "uncode-it": {
+        "square": "  ",
+        "long": "  "
+    },
+    "swapper": {
+        "square": "  ",
+        "long": "  "
+    },
+    "webo": {
+        "square": "  ",
+        "long": "  "
+    },
+    "snapby-ai": {
+        "square": "  ",
+        "long": "  "
+    },
+    "script-it": {
+        "square": "  ",
+        "long": "  "
+    },
+    "pdfpal-ai": {
+        "square": "  ",
+        "long": "  "
+    },
+    "bandofacile": {
+        "square": "  ",
+        "long": "  "
+    },
+    "summarizethis": {
+        "square": "  ",
+        "long": "  "
+    },
+    "sceneryai": {
+        "square": "  ",
+        "long": "  "
+    },
+    "wachatgpt": {
+        "square": "  ",
+        "long": "  "
+    },
+    "spur-fit": {
+        "square": "  ",
+        "long": "  "
+    },
+    "modelfuse": {
+        "square": "  ",
+        "long": "  "
+    },
+    "yeschat": {
+        "square": "  ",
+        "long": "  "
+    },
+    "inedit": {
+        "square": "  ",
+        "long": "  "
+    },
+    "vondy": {
+        "square": "  ",
+        "long": "  "
+    },
+    "opus": {
+        "square": "  ",
+        "long": "  "
+    },
+    "bulkcontent": {
+        "square": "  ",
+        "long": "  "
+    },
+    "video-highlight": {
+        "square": "  ",
+        "long": "  "
+    },
+    "timecomplexity": {
+        "square": "  ",
+        "long": "  "
+    },
+    "visualhound": {
+        "square": "  ",
+        "long": "  "
+    },
+    "tinder-glowup": {
+        "square": "  ",
+        "long": "  "
+    },
+    "stable-warpfusion": {
+        "square": "  ",
+        "long": "  "
+    },
+    "generated-photos": {
+        "square": "  ",
+        "long": "  "
+    },
+    "coinfeeds": {
+        "square": "  ",
+        "long": "  "
+    },
+    "promptai-app": {
+        "square": "  ",
+        "long": "  "
+    },
+    "outermode": {
+        "square": "  ",
+        "long": "  "
+    },
+    "ai-room-styles": {
+        "square": "  ",
+        "long": "  "
+    },
+    "flex-ai": {
+        "square": "  ",
+        "long": "  "
+    },
+    "mysports-ai": {
+        "square": "  ",
+        "long": "  "
+    },
+    "zoo-by-replicate": {
+        "square": "  ",
+        "long": "  "
+    },
+    "twilix": {
+        "square": "  ",
+        "long": "  "
+    },
+    "writesparkle": {
+        "square": "  ",
+        "long": "  "
+    },
+    "stream-slides": {
+        "square": "  ",
+        "long": "  "
+    },
+    "simpler": {
+        "square": "  ",
+        "long": "  "
+    },
+    "telborg": {
+        "square": "  ",
+        "long": "  "
+    },
+    "pulze": {
+        "square": "  ",
+        "long": "  "
+    },
+    "summaverse": {
+        "square": "  ",
+        "long": "  "
+    },
+    "shotrate": {
+        "square": "  ",
+        "long": "  "
+    },
+    "swiftcover": {
+        "square": "  ",
+        "long": "  "
+    },
+    "travelaroundtheworld": {
+        "square": "  ",
+        "long": "  "
+    },
+    "wilowrid": {
+        "square": "  ",
+        "long": "  "
+    },
+    "travelplanbooker": {
+        "square": "  ",
+        "long": "  "
+    },
+    "songbot-ai": {
+        "square": "  ",
+        "long": "  "
+    },
+    "sanalabs": {
+        "square": "  ",
+        "long": "  "
+    },
+    "vectara": {
+        "square": "  ",
+        "long": "  "
+    },
+    "hostinger": {
+        "square": "  ",
+        "long": "  "
+    },
+    "wonderplan": {
+        "square": "  ",
+        "long": "  "
+    },
+    "splitsong": {
+        "square": "  ",
+        "long": "  "
+    },
+    "video-to-blog": {
+        "square": "  ",
+        "long": "  "
+    },
+    "youraimvp": {
+        "square": "  ",
+        "long": "  "
+    },
+    "seo-content-ai": {
+        "square": "  ",
+        "long": "  "
+    },
+    "validator-ai": {
+        "square": "  ",
+        "long": "  "
+    },
+    "modelize": {
+        "square": "  ",
+        "long": "  "
+    },
+    "sprig": {
+        "square": "  ",
+        "long": "  "
+    },
+    "vieutopia": {
+        "square": "  ",
+        "long": "  "
+    },
+    "lmnt-voicover": {
+        "square": "  ",
+        "long": "  "
+    },
+    "shaan": {
+        "square": "  ",
+        "long": "  "
+    },
+    "wisedata": {
+        "square": "  ",
+        "long": "  "
+    },
+    "tammy": {
+        "square": "  ",
+        "long": "  "
+    },
+    "theoassist": {
+        "square": "  ",
+        "long": "  "
+    },
+    "tethered-ai": {
+        "square": "  ",
+        "long": "  "
+    },
+    "stratup-ai": {
+        "square": "  ",
+        "long": "  "
+    },
+    "trendata": {
+        "square": "  ",
+        "long": "  "
+    },
+    "mindwell": {
+        "square": "  ",
+        "long": "  "
+    },
+    "zekai": {
+        "square": "  ",
+        "long": "  "
+    },
+    "typing-mind": {
+        "square": "  ",
+        "long": "  "
+    },
+    "teeps-ai": {
+        "square": "  ",
+        "long": "  "
+    },
+    "writerzen": {
+        "square": "  ",
+        "long": "  "
+    },
+    "smarttrust": {
+        "square": "  ",
+        "long": "  "
+    },
+    "snapedit": {
+        "square": "  ",
+        "long": "  "
+    },
+    "chatmind": {
+        "square": "  ",
+        "long": "  "
+    },
+    "satoshi-nakamoto-chatbot": {
+        "square": "  ",
+        "long": "  "
+    },
+    "stockimg-text-styles": {
+        "square": "  ",
+        "long": "  "
+    },
+    "skills-ai-chat": {
+        "square": "  ",
+        "long": "  "
+    },
+    "videototextai": {
+        "square": "  ",
+        "long": "  "
+    },
+    "chartgpt": {
+        "square": "  ",
+        "long": "  "
+    },
+    "scope-money": {
+        "square": "  ",
+        "long": "  "
+    },
+    "your-hana": {
+        "square": "  ",
+        "long": "  "
+    },
+    "zipzap": {
+        "square": "  ",
+        "long": "  "
+    },
+    "stealthwriter": {
+        "square": "  ",
+        "long": "  "
+    },
+    "ulog": {
+        "square": "  ",
+        "long": "  "
+    },
+    "tiledesk": {
+        "square": "  ",
+        "long": "  "
+    },
+    "browse-ai": {
+        "square": "  ",
+        "long": "  "
+    },
+    "utopia-music": {
+        "square": "  ",
+        "long": "  "
+    },
+    "teachermatic": {
+        "square": "  ",
+        "long": "  "
+    },
+    "summary-box": {
+        "square": "  ",
+        "long": "  "
+    },
+    "astroteller": {
+        "square": "  ",
+        "long": "  "
+    },
+    "portrait-studio-pro": {
+        "square": "  ",
+        "long": "  "
+    },
+    "zivy-listens": {
+        "square": "  ",
+        "long": "  "
+    },
+    "realchar": {
+        "square": "  ",
+        "long": "  "
+    },
+    "ai-baby-generator": {
+        "square": "  ",
+        "long": "  "
+    },
+    "yepp": {
+        "square": "  ",
+        "long": "  "
+    },
+    "strategy-first-ai": {
+        "square": "  ",
+        "long": "  "
+    },
+    "summarify": {
+        "square": "  ",
+        "long": "  "
+    },
+    "christmas-images": {
+        "square": "  ",
+        "long": "  "
+    },
+    "text-to-image-editor": {
+        "square": "  ",
+        "long": "  "
+    },
+    "the-forge": {
+        "square": "  ",
+        "long": "  "
+    },
+    "storyai": {
+        "square": "  ",
+        "long": "  "
+    },
+    "summarist": {
+        "square": "  ",
+        "long": "  "
+    },
+    "yatter": {
+        "square": "  ",
+        "long": "  "
+    },
+    "waveline-extract": {
+        "square": "  ",
+        "long": "  "
+    },
+    "supertone": {
+        "square": "  ",
+        "long": "  "
+    },
+    "speech-to-speech": {
+        "square": "  ",
+        "long": "  "
+    },
+    "summarise-me": {
+        "square": "  ",
+        "long": "  "
+    },
+    "seoify": {
+        "square": "  ",
+        "long": "  "
+    },
+    "scribbr": {
+        "square": "  ",
+        "long": "  "
+    },
+    "vext": {
+        "square": "  ",
+        "long": "  "
+    },
+    "vendorful": {
+        "square": "  ",
+        "long": "  "
+    },
+    "meatgpt": {
+        "square": "  ",
+        "long": "  "
+    },
+    "teachomatic": {
+        "square": "  ",
+        "long": "  "
+    },
+    "unpromptedgame": {
+        "square": "  ",
+        "long": "  "
+    },
+    "sonara": {
+        "square": "  ",
+        "long": "  "
+    },
+    "unreal-speech": {
+        "square": "  ",
+        "long": "  "
+    },
+    "casetext": {
+        "square": "  ",
+        "long": "  "
+    },
+    "translatevideo": {
+        "square": "  ",
+        "long": "  "
+    },
+    "stackwalls": {
+        "square": "  ",
+        "long": "  "
+    },
+    "resumewriting": {
+        "square": "  ",
+        "long": "  "
+    },
+    "clonedub": {
+        "square": "  ",
+        "long": "  "
+    },
+    "teamsmart": {
+        "square": "  ",
+        "long": "  "
+    },
+    "paintit": {
+        "square": "  ",
+        "long": "  "
+    },
+    "sitekick": {
+        "square": "  ",
+        "long": "  "
+    },
+    "portraitphoto-ai": {
+        "square": "  ",
+        "long": "  "
+    },
+    "texttomusic": {
+        "square": "  ",
+        "long": "  "
+    },
+    "swapsurprise": {
+        "square": "  ",
+        "long": "  "
+    },
+    "typefrost": {
+        "square": "  ",
+        "long": "  "
+    },
+    "ai-image-detector": {
+        "square": "  ",
+        "long": "  "
+    },
+    "essai-pro": {
+        "square": "  ",
+        "long": "  "
+    },
+    "magicai-by-spike": {
+        "square": "  ",
+        "long": "  "
+    },
+    "supertranslate": {
+        "square": "  ",
+        "long": "  "
+    },
+    "supa-doc": {
+        "square": "  ",
+        "long": "  "
+    },
+    "free-ai-therapist": {
+        "square": "  ",
+        "long": "  "
+    },
+    "imagetocaption-ai": {
+        "square": "  ",
+        "long": "  "
+    },
+    "liftsites": {
+        "square": "  ",
+        "long": "  "
+    },
+    "suggestai": {
+        "square": "  ",
+        "long": "  "
+    },
+    "senpaiai": {
+        "square": "  ",
+        "long": "  "
+    },
+    "textgpt-chat": {
+        "square": "  ",
+        "long": "  "
+    },
+    "talktovid": {
+        "square": "  ",
+        "long": "  "
+    },
+    "yearbook-photos": {
+        "square": "  ",
+        "long": "  "
+    },
+    "vellum": {
+        "square": "  ",
+        "long": "  "
+    },
+    "splitter-ai": {
+        "square": "  ",
+        "long": "  "
+    },
+    "seeker": {
+        "square": "  ",
+        "long": "  "
+    },
+    "stockstack": {
+        "square": "  ",
+        "long": "  "
+    },
+    "speakfit": {
+        "square": "  ",
+        "long": "  "
+    },
+    "verb-art": {
+        "square": "  ",
+        "long": "  "
+    },
+    "vmodel": {
+        "square": "  ",
+        "long": "  "
+    },
+    "eightify": {
+        "square": "  ",
+        "long": "  "
+    },
+    "ubos": {
+        "square": "  ",
+        "long": "  "
+    },
+    "sliderai": {
+        "square": "  ",
+        "long": "  "
+    },
+    "zipscore": {
+        "square": "  ",
+        "long": "  "
+    },
+    "the-good-ai": {
+        "square": "  ",
+        "long": "  "
+    },
+    "pace-ai": {
+        "square": "  ",
+        "long": "  "
+    },
+    "waifuchat": {
+        "square": "  ",
+        "long": "  "
+    },
+    "studyflow": {
+        "square": "  ",
+        "long": "  "
+    },
+    "focusdoro": {
+        "square": "  ",
+        "long": "  "
+    },
+    "usemotion": {
+        "square": "  ",
+        "long": "  "
+    },
+    "talklab": {
+        "square": "  ",
+        "long": "  "
+    },
+    "waifu-art-ai": {
+        "square": "  ",
+        "long": "  "
+    },
+    "cc-dev": {
+        "square": "  ",
+        "long": "  "
+    },
+    "involve-me": {
+        "square": "  ",
+        "long": "  "
+    },
+    "zeroscope": {
+        "square": "  ",
+        "long": "  "
+    },
+    "undetectable": {
+        "square": "  ",
+        "long": "  "
+    },
+    "twee": {
+        "square": "  ",
+        "long": "  "
+    },
+    "voxqube": {
+        "square": "  ",
+        "long": "  "
+    },
+    "tldwai": {
+        "square": "  ",
+        "long": "  "
+    },
+    "verb": {
+        "square": "  ",
+        "long": "  "
+    },
+    "snapy-ai": {
+        "square": "  ",
+        "long": "  "
+    },
+    "whydoyouwanttoworkhere": {
+        "square": "  ",
+        "long": "  "
+    },
+    "telescope": {
+        "square": "  ",
+        "long": "  "
+    },
+    "seaml-es": {
+        "square": "  ",
+        "long": "  "
+    },
+    "tabtamer": {
+        "square": "  ",
+        "long": "  "
+    },
+    "tripmix": {
+        "square": "  ",
+        "long": "  "
+    },
+    "sivi": {
+        "square": "  ",
+        "long": "  "
+    },
+    "storiesbyai": {
+        "square": "  ",
+        "long": "  "
+    },
+    "text-to-book-cover": {
+        "square": "  ",
+        "long": "  "
+    },
+    "skingenerator-io": {
+        "square": "  ",
+        "long": "  "
+    },
+    "scenextras": {
+        "square": "  ",
+        "long": "  "
+    },
+    "storied": {
+        "square": "  ",
+        "long": "  "
+    },
+    "santaknowsyou": {
+        "square": "  ",
+        "long": "  "
+    },
+    "viridian": {
+        "square": "  ",
+        "long": "  "
+    },
+    "zerogpt": {
+        "square": "  ",
+        "long": "  "
+    },
+    "speakingclubai": {
+        "square": "  ",
+        "long": "  "
+    },
+    "thumbmachine": {
+        "square": "  ",
+        "long": "  "
+    },
+    "textaibot": {
+        "square": "  ",
+        "long": "  "
+    },
+    "teaser-ai": {
+        "square": "  ",
+        "long": "  "
+    },
+    "startup-pitch-generator": {
+        "square": "  ",
+        "long": "  "
+    },
+    "sketchgpt": {
+        "square": "  ",
+        "long": "  "
+    },
+    "uizard": {
+        "square": "  ",
+        "long": "  "
+    },
+    "salk": {
+        "square": "  ",
+        "long": "  "
+    },
+    "shotty": {
+        "square": "  ",
+        "long": "  "
+    },
+    "stylefie": {
+        "square": "  ",
+        "long": "  "
+    },
+    "spellar-ai": {
+        "square": "  ",
+        "long": "  "
+    },
+    "tmate": {
+        "square": "  ",
+        "long": "  "
+    },
+    "trendmate": {
+        "square": "  ",
+        "long": "  "
+    },
+    "video-upscaler": {
+        "square": "  ",
+        "long": "  "
+    },
+    "helloai": {
+        "square": "  ",
+        "long": "  "
+    },
+    "stonks-gpt": {
+        "square": "  ",
+        "long": "  "
+    },
+    "you": {
+        "square": "  ",
+        "long": "  "
+    },
+    "your-music-taste-sucks": {
+        "square": "  ",
+        "long": "  "
+    },
+    "voiser": {
+        "square": "  ",
+        "long": "  "
+    },
+    "verbaly": {
+        "square": "  ",
+        "long": "  "
+    },
+    "screenwriter": {
+        "square": "  ",
+        "long": "  "
+    },
+    "stride": {
+        "square": "  ",
+        "long": "  "
+    },
+    "what-s-up-ai": {
+        "square": "  ",
+        "long": "  "
+    },
+    "stable-diffusion": {
+        "square": "  ",
+        "long": "  "
+    }
+}
