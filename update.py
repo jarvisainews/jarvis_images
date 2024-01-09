@@ -9,7 +9,12 @@ readme = '''
 ![Jarvis's](./.support/jarvis_office.jpeg)
 
 ## Index:
--  Currently on -> {}
+-  Currently on
+    -  {}
+    -  {}
+    -  {}
+    -  {}
+    -  {}
 
 ## Finished:
 -  Total {}%  |  {} / 5098
@@ -24,6 +29,8 @@ readme = '''
 
 needed, finished = [], []
 
+_index = [key for key in current_toml if current_toml[key]["long"] == " " and current_toml[key]["square"] == " "]
+
 long = [key for key in current_toml if current_toml[key]["long"] == " "]
 square = [key for key in current_toml if current_toml[key]["square"] == " "]
 needed.extend(long)
@@ -36,7 +43,11 @@ finished.extend(square_)
 
 with open("./README.md", "w") as f:
     f.write(readme.format(
-        needed[0],
+        _index[0],
+        _index[1],
+        _index[2],
+        _index[3],
+        _index[4],
         round((len(finished)/(len(current_toml)*2))*100, 4), len(finished),
         round((len(square_)/len(current_toml)*100),4), len(square_),
         round((len(long_)/len(current_toml)*100),4), len(long_),

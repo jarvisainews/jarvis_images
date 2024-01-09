@@ -4,7 +4,12 @@
 ![Jarvis's](./.support/jarvis_office.jpeg)
 
 ## Index:
--  Currently on -> 10xllm
+-  Currently on
+    -  10xllm
+    -  123colorize
+    -  3d-prompt
+    -  3daily
+    -  3dfy
 
 ## Finished:
 -  Total 0.0981%  |  5 / 5098
